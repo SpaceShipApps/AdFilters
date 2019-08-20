@@ -1,0 +1,20 @@
+# iqiyi PPS 爱奇艺
+ad\.m\.iqiyi\.com
+afp\.iqiyi\.com
+c\.uaa\.iqiyi\.com
+cloudpush\.iqiyi\.com
+cm\.passport\.iqiyi\.com
+cupid\.iqiyi\.com
+emoticon\.sns\.iqiyi\.com
+gamecenter\.iqiyi\.com
+hotchat-im\.iqiyi\.com
+ifacelog\.iqiyi\.com
+mbdlog\.iqiyi\.com
+meta\.video\.qiyi\.com
+msg1\.video\.qiyi\.com
+msg2\.video\.qiyi\.com
+msg\.71\.am
+paopao\.iqiyi\.com
+paopao\d\.qiyipic\.com
+policy\.video\.iqiyi\.com
+yuedu\.iqiyi\.com
