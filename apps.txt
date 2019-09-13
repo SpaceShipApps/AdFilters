@@ -1,0 +1,18 @@
+# apps
+#
+# Converted from - https://github.com/AdguardTeam/AdguardFilters/raw/master/MobileFilter/sections/specific_app.txt
+# Last converted - Fri, 13 Sep 2019 03:00:03 +0000
+#
+
+adcs.rqmob.com
+preitem.wshareit.com
+mobimagic.com
+adywind.com
+hasmobi.net
+api-a.op-mobile.opera.com
+promotion.polarisoffice.com
+newad.ifeng.com
+afreeca-tag.ad-mapps.com
+mtag.mman.kr
+etl.tindersparks.com
+d27tpsznug51gz.cloudfront.net

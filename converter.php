@@ -3,16 +3,16 @@
 // Add our lists.
 $lists = array(
 	// Mobile Ads
-	'AdguardMobileAds' => 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt',
+	'ads' => 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt',
 
 	// Mobile Tracking + Spyware
-	'AdguardMobileSpyware' => 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/spyware.txt',
+	'spyware' => 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/spyware.txt',
 
 	// Adguard Apps
-	'AdguardApps' => 'https://github.com/AdguardTeam/AdguardFilters/raw/master/MobileFilter/sections/specific_app.txt',
+	'apps' => 'https://github.com/AdguardTeam/AdguardFilters/raw/master/MobileFilter/sections/specific_app.txt',
 
 	// Adguard DNS
-	'AdguardDNS' => 'https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt',
+	'dns' => 'https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt',
 
 	// EasyPrivacy Specific
 	'EasyPrivacySpecific' => 'https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt',
@@ -99,7 +99,7 @@ foreach ( $lists as $name => $list ) {
 		}
 
 
-		$hosts .= "0.0.0.0 {$filter}\n";
+		$hosts .= "{$filter}\n";
 	}
 
 	// Remove exceptions.
