@@ -751,7 +751,7 @@ os.scmpacdn.com
 owap.su
 pagead46.l.doubleclick.net
 pagefair.net
-partner.googleadservices.com
+googleadservices.com
 partnerad.l.doubleclick.net
 partnerearning.com
 perf-events.cloud.unity3d.com
