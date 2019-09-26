@@ -1,10 +1,12 @@
 [
   {
+    "id": 0,
     "name": "Adaway",
     "host": "https://adaway.org/hosts.txt",
     "time": 123123
   },
   {
+    "id": 1,
     "name": "Adguard mobile ads",
     "host": "https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileAds.txt",
     "time": 123123
