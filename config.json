@@ -10,18 +10,18 @@
   },
   {
     "id": 2,
-    "name": "StevenBlack host",
-    "host": "https://github.com/StevenBlack/hosts/raw/master/hosts",
-    "icon": "https://github.com/SpaceShipApps/AdFilters/raw/master/icons/stevenblack.png",
-    "time": 1569638356001,
-    "type": 1,
-    "star": 5
-  },
-  {
-    "id": 3,
     "name": "Adguard mobile ads",
     "host": "https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileAds.txt",
     "icon": "https://github.com/SpaceShipApps/AdFilters/raw/master/icons/adguard.png",
+    "time": 1569638356001,
+    "type": 1,
+    "star": 4.5
+  },
+  {
+    "id": 3,
+    "name": "StevenBlack host",
+    "host": "https://github.com/StevenBlack/hosts/raw/master/hosts",
+    "icon": "https://github.com/SpaceShipApps/AdFilters/raw/master/icons/stevenblack.png",
     "time": 1569638356001,
     "type": 1,
     "star": 4.5
@@ -33,7 +33,7 @@
     "icon": "https://github.com/SpaceShipApps/AdFilters/raw/master/icons/privacy.png",
     "time": 1569638356001,
     "type": 1,
-    "star": 4
+    "star": 4.5
   },
   {
     "id": 5,
@@ -42,25 +42,25 @@
     "icon": "https://github.com/SpaceShipApps/AdFilters/raw/master/icons/malware.png",
     "time": 1569638356001,
     "type": 1,
-    "star": 4
+    "star": 4.5
   },
   {
     "id": 6,
-    "name": "Adaway",
-    "host": "https://adaway.org/hosts.txt",
-    "icon": "https://github.com/SpaceShipApps/AdFilters/raw/master/icons/adaway.png",
-    "time": 1569638356001,
-    "type": 1,
-    "star": 4
-  },
-  {
-    "id": 7,
     "name": "Dan Pollock host",
     "host": "https://someonewhocares.org/hosts/hosts",
     "icon": "https://github.com/SpaceShipApps/AdFilters/raw/master/icons/default.png",
     "time": 1569638356001,
     "type": 1,
     "star": 4
+  },
+  {
+    "id": 7,
+    "name": "Adaway",
+    "host": "https://adaway.org/hosts.txt",
+    "icon": "https://github.com/SpaceShipApps/AdFilters/raw/master/icons/adaway.png",
+    "time": 1569638356001,
+    "type": 1,
+    "star": 3.5
   },
   {
     "id": 8,
