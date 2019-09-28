@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Fri, 13 Sep 2019 03:01:47 +0000
+# Last converted - Sat, 28 Sep 2019 05:04:57 +0000
 #
 
 a.jango.com
@@ -29,6 +29,7 @@ affiliates.myfax.com
 affiliates.purevpn.com
 affiliates.treasureisland.com
 affiliates.vpn.ht
+agg.inquisitr.com
 aggregator.inquisitr.com
 ai.inmdata.io
 ai.iol.io
@@ -73,7 +74,6 @@ analytics.thegedsection.com
 analytics.thenest.com
 analytics.thenewslens.com
 analytics.thetab.com
-analytics.thevideo.me
 analytics.tradedoubler.com
 analytics.twitter.com
 analytics.upworthy.com
@@ -83,6 +83,7 @@ analytics.wetpaint.me
 analytics.whatculture.com
 analytics.yahoo.com
 analytics.zg-api.com
+analytics2.socialblade.com
 analyze.yahooapis.com
 analyzer52.fc2.com
 anon-stats.eff.org
@@ -178,6 +179,7 @@ cmstrendslog.timesnow.tv
 cnt.nicemix.com
 cnt.nuvid.com
 cnt.vivatube.com
+co.hltv.org
 collect.sas.com
 collect2.sas.com
 collection.theaa.com
@@ -193,6 +195,7 @@ collector.shorte.st
 collector.statowl.com
 collector.tescocompare.com
 collector.trendmd.com
+collector.wallapop.com
 comms-web-tracking.uswitchinternal.com
 confirm-referer.glrsales.com
 contadores.bolsamania.com
@@ -311,6 +314,7 @@ h.cliphunter.com
 harvester.eu.square-enix.com
 harvester.hbpl.co.uk
 heartbeat.flickr.com
+hermes.theglobeandmail.com
 hitcount.heraldm.com
 hitweb2.chosun.com
 hrum.hotelsapi.io
@@ -329,6 +333,7 @@ ingest.onion.com
 inquiries.redhat.com
 intelli.ageuk.org.uk
 intent.cbsi.com
+intg.snapchat.com
 ip.breitbart.com
 ip.pichunter.com
 jack.allday.com
@@ -353,7 +358,6 @@ log.newsvine.com
 log.optimizely.com
 log.prezi.com
 log.snapdeal.com
-log.thevideo.me
 log.vdn.apps.cntv.cn
 log.wat.tv
 log.webnovel.com
@@ -546,6 +550,7 @@ smetrics.att.com
 smetrics.delta.com
 snowplow-collector.sugarops.com
 somniture.theglobeandmail.com
+sourcepoint.vice.com
 sp-mms.weather.com
 sp.app.com
 sp.argusleader.com
@@ -717,7 +722,6 @@ stats.slideshare.net
 stats.someecards.com
 stats.storify.com
 stats.suite101.com
-stats.thevideo.me
 stats.townnews.com
 stats.tvmaze.com
 stats.uswitch.com
@@ -796,6 +800,7 @@ track.pushbullet.com
 track.rediff.com
 track.slideshare.net
 track.thesaurus.com
+track.totalav.com
 track.ugamezone.com
 track.ultimate-guitar.com
 track.webgains.com
@@ -812,6 +817,7 @@ tracker.joost.com
 tracker.lolalytics.com
 tracker.mattel.com
 tracker.nbcuas.com
+tracker.nitropay.com
 tracker.pandora.com
 tracker.pinnaclesports.com
 tracker.realclearpolitics.com
@@ -860,6 +866,7 @@ traffic.tuberip.com
 traktr.news.com.au
 trax.tvguide.com
 trck.sixt.com
+trezor.efscle.com
 trk.flazio.com
 trk.freepik.com
 trowel.twitch.tv

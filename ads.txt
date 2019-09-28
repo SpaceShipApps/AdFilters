@@ -1,7 +1,7 @@
 # ads
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt
-# Last converted - Fri, 13 Sep 2019 02:59:56 +0000
+# Last converted - Sat, 28 Sep 2019 05:02:20 +0000
 #
 
 banners-slb.mobile.yandex.net
@@ -751,7 +751,7 @@ os.scmpacdn.com
 owap.su
 pagead46.l.doubleclick.net
 pagefair.net
-googleadservices.com
+partner.googleadservices.com
 partnerad.l.doubleclick.net
 partnerearning.com
 perf-events.cloud.unity3d.com
