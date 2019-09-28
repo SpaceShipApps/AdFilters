@@ -3,8 +3,8 @@
     "id": 0,
     "name": "Adaway",
     "host": "https://adaway.org/hosts.txt",
-    "icon": "https://github.com/AdAway/AdAway/raw/master/app/src/main/res/mipmap-xxxhdpi/icon.png",
-    "time": 123121,
+    "icon": "https://github.com/SpaceShipApps/AdFilters/raw/master/icons/adaway.png",
+    "time": 1569638356000,
     "type": 1,
     "star": 5
   },
@@ -12,8 +12,8 @@
     "id": 1,
     "name": "Adguard mobile ads",
     "host": "https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileAds.txt",
-    "icon": "https://alternative.me/icons2/adguard.png",
-    "time": 123122,
+    "icon": "https://github.com/SpaceShipApps/AdFilters/raw/master/icons/adguard.png",
+    "time": 1569638356000,
     "type": 1,
     "star": 4.5
   }
