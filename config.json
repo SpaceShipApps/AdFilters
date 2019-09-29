@@ -10,18 +10,18 @@
   },
   {
     "id": 2,
-    "name": "Adguard mobile ads",
-    "host": "https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileAds.txt",
-    "icon": "https://github.com/SpaceShipApps/AdFilters/raw/master/icons/adguard.png",
+    "name": "StevenBlack host",
+    "host": "https://github.com/StevenBlack/hosts/raw/master/hosts",
+    "icon": "https://github.com/SpaceShipApps/AdFilters/raw/master/icons/stevenblack.png",
     "time": 1569638356001,
     "type": 1,
     "star": 4.5
   },
   {
     "id": 3,
-    "name": "StevenBlack host",
-    "host": "https://github.com/StevenBlack/hosts/raw/master/hosts",
-    "icon": "https://github.com/SpaceShipApps/AdFilters/raw/master/icons/stevenblack.png",
+    "name": "Adguard mobile ads",
+    "host": "https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileAds.txt",
+    "icon": "https://github.com/SpaceShipApps/AdFilters/raw/master/icons/adguard.png",
     "time": 1569638356001,
     "type": 1,
     "star": 4.5
