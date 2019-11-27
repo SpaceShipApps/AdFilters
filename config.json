@@ -13,7 +13,7 @@
     "name": "StevenBlack host",
     "host": "https://github.com/StevenBlack/hosts/raw/master/hosts",
     "icon": "https://github.com/SpaceShipApps/AdFilters/raw/master/icons/stevenblack.png",
-    "time": 1569638356001,
+    "time": 1569638356002,
     "type": 1,
     "star": 4.5
   },
@@ -22,7 +22,7 @@
     "name": "Adguard mobile ads",
     "host": "https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileAds.txt",
     "icon": "https://github.com/SpaceShipApps/AdFilters/raw/master/icons/adguard.png",
-    "time": 1569638356001,
+    "time": 1569638356002,
     "type": 1,
     "star": 4.5
   },
@@ -31,7 +31,7 @@
     "name": "AdBlock Privacy",
     "host": "https://github.com/SpaceShipApps/AdFilters/blob/master/EasyPrivacy3rdParty.txt",
     "icon": "https://github.com/SpaceShipApps/AdFilters/raw/master/icons/privacy.png",
-    "time": 1569638356001,
+    "time": 1569638356002,
     "type": 1,
     "star": 4.5
   },
@@ -40,7 +40,7 @@
     "name": "Long-lived malware host",
     "host": "http://mirror2.malwaredomains.com/files/immortal_domains.txt",
     "icon": "https://github.com/SpaceShipApps/AdFilters/raw/master/icons/malware.png",
-    "time": 1569638356001,
+    "time": 1569638356002,
     "type": 1,
     "star": 4.5
   },
@@ -49,7 +49,7 @@
     "name": "Dan Pollock host",
     "host": "https://someonewhocares.org/hosts/hosts",
     "icon": "https://github.com/SpaceShipApps/AdFilters/raw/master/icons/default.png",
-    "time": 1569638356001,
+    "time": 1569638356002,
     "type": 1,
     "star": 4
   },
@@ -58,7 +58,7 @@
     "name": "Adaway",
     "host": "https://adaway.org/hosts.txt",
     "icon": "https://github.com/SpaceShipApps/AdFilters/raw/master/icons/adaway.png",
-    "time": 1569638356001,
+    "time": 1569638356002,
     "type": 1,
     "star": 3.5
   },
@@ -67,7 +67,7 @@
     "name": "HP ad hosts",
     "host": "https://hosts-file.net/ad_servers.txt",
     "icon": "https://github.com/SpaceShipApps/AdFilters/raw/master/icons/default.png",
-    "time": 1569638356001,
+    "time": 1569638356002,
     "type": 1,
     "star": 3.5
   },
@@ -76,7 +76,7 @@
     "name": "DNS-BH – Malware Domain Blocklist",
     "host": "http://mirror1.malwaredomains.com/files/immortal_domains.txt",
     "icon": "https://github.com/SpaceShipApps/AdFilters/raw/master/icons/default.png",
-    "time": 1569638356001,
+    "time": 1569638356002,
     "type": 1,
     "star": 3.5
   }
