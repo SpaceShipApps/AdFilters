@@ -1,11 +1,5 @@
 {
     "showRecommendBanner": true,
-    "recommendBanner": {
-        "icon": "",
-        "title": "",
-        "content": "",
-        "link": "",
-        "pkg": ""
-    },
-    "showPrice": false
+    "recommendBanner": null,
+    "showPrice": true
 }
