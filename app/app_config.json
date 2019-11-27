@@ -1,2 +1,11 @@
 {
+    "showRecommendBanner": true,
+    "recommendBanner": {
+        "icon": "",
+        "title": "",
+        "content": "",
+        "link": "",
+        "pkg": ""
+    },
+    "showPrice": true
 }
