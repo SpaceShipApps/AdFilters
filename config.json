@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "AdBlock official host",
-    "host": "https://github.com/SpaceShipApps/AdFilters/blob/master/ads.txt",
+    "host": "https://raw.githubusercontent.com/SpaceShipApps/AdFilters/master/ads.txt",
     "icon": "https://github.com/SpaceShipApps/AdFilters/raw/master/icons/official.png",
     "time": 1569638356002,
     "type": 1,
@@ -29,7 +29,7 @@
   {
     "id": 4,
     "name": "AdBlock Privacy",
-    "host": "https://github.com/SpaceShipApps/AdFilters/blob/master/EasyPrivacy3rdParty.txt",
+    "host": "https://raw.githubusercontent.com/SpaceShipApps/AdFilters/master/EasyPrivacy3rdParty.txt",
     "icon": "https://github.com/SpaceShipApps/AdFilters/raw/master/icons/privacy.png",
     "time": 1569638356002,
     "type": 1,
