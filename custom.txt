@@ -17,4 +17,4 @@ wf.taboola.com
 rs.mail.ru
 an.yandex.ru
 top-fwz1.mail.ru
-radar.imgsmail.ru/
+radar.imgsmail.ru
