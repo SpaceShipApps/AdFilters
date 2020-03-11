@@ -11,5 +11,6 @@ run-syndicate.com
 imonomy.com
 mgid.com
 addthis.com
+addthisedge.com
 propellerclick.com
 wf.taboola.com
