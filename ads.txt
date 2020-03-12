@@ -1,9 +1,14 @@
 # ads
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt
-# Last converted - Wed, 27 Nov 2019 14:17:23 +0000
+# Last converted - Thu, 12 Mar 2020 11:31:21 +0000
 #
 
+admin.appnext.com
+global.appnext.com
+cdn.appnext.com
+api.appnxt.net
+apis.appnxt.net
 banners-slb.mobile.yandex.net
 banners.mobile.yandex.net
 coinhive.com
@@ -40,6 +45,10 @@ ad2play.ftv-publicite.fr
 socdm.com
 criteo.com
 criteo.net
+appodeal.com
+a.76674bdad304297eda3d325f449f6f49.com
+a.4ee395e5b8a076c7bd8592851ff8cad.com
+a.6d47c1118927cf53ba9654931df80e8d.com
 banner.hpmdnetwork.ru
 hybrid.ai
 px.adhigh.net
@@ -65,30 +74,25 @@ id1.cn
 xdrig.com
 usp1.baidu.com
 i2.myapkcdn.in
-admin.appnext.com
 c3.myapkcdn.in
 54.222.186.106
 plugin.mobopay.baidu.com
 mo.freeindoapp.com
-fgo22.info
-chinagcdxyjng.cn
-glzyw.com
-192.151.218.66
-23.224.89.2
-shentuwang1.com
-ofd.meng-an.cn
-cnzz.c62v.cn
-qsmdeyz.cn
-qienews.cn
-fowpq.top
-ktionz.com
-pv.dakawm.cc
-zhongwangmy.cn
-xn-2qux23confgml.club
-cwmlm.com
-mvo.g45td.xyz
-eco.2t4fe.xyz
-nvmsa.top
+api.mobshark.net
+mcoreads.com
+onlineapi.youappi.com
+ssp.otm-r.com
+networksdk.ssacdn.com
+config.88-f.net
+monetengine-d.openx.net
+cdn.88-f.net
+ms.applvn.com
+api.tapsell.ir
+jioads.akamaized.net
+ajdivotdelbloab24.jio.com
+adxcorp.kr
+adsmobila.com
+tw-api.vpon.com
 haorun.pw
 pochengweiyuan.com
 ts166.net
@@ -142,7 +146,6 @@ eihjefbbbbddeiacedb.ru
 file.market.xiaomi.com
 adv.sec.intl.miui.com
 zhfosenghtr.com
-ads.edadeal.ru
 adsrvr.io
 t7z.cupid.iqiyi.com
 data2.doodlemobile.com
@@ -155,7 +158,6 @@ abtest.mistat.xiaomi.com
 adsnative.com
 liftoff.io
 tapdaq-adverts.global.ssl.fastly.net
-a.6d47c1118927cf53ba9654931df80e8d.com
 rtb.appbid.com
 rtapi.abbi.io
 ade.clmbtech.com
@@ -522,7 +524,6 @@ applifier.com
 applift.comempty
 applovin.com
 appnext-a.akamaihd.net
-appodeal.com
 appsdt.com
 appserver-ap.com
 appserver-cp.com
