@@ -1,4 +1,5 @@
 ## Mobile HOSTS
+Some files are converted on the basis of [mobile-hosts](https://github.com/r-a-y/mobile-hosts)
 
 HOSTS files converted or sourced from various mobile filter lists to prevent ads and tracking.
 
