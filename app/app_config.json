@@ -1,5 +1,6 @@
 {
     "showRecommendBanner": true,
     "recommendBanner": null,
-    "showPrice": false
+    "showPrice": false,
+    "showAppList": false,
 }
