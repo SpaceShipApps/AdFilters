@@ -1,0 +1,83 @@
+[
+  {
+    "id": 100,
+    "name": "Adblock official host",
+    "host": "https://github.com/AdguardTeam/AdguardFilters/raw/master/MobileFilter/sections/specific_app.txt",
+    "icon": "https://github.com/SpaceShipApps/AdFilters/raw/master/icons/official.png",
+    "time": 1630037939000,
+    "type": 1,
+    "star": 5
+  },
+  {
+    "id": 101,
+    "name": "Tracking",
+    "host": "https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt",
+    "icon": "https://github.com/SpaceShipApps/AdFilters/raw/master/icons/default.png",
+    "time": 1630037939000,
+    "type": 1,
+    "star": 4.5
+  },
+  {
+    "id": 102,
+    "name": "Privacy",
+    "host": "https://raw.githubusercontent.com/SpaceShipApps/AdFilters/master/EasyPrivacy3rdParty.txt",
+    "icon": "https://github.com/SpaceShipApps/AdFilters/raw/master/icons/privacy.png",
+    "time": 1630037939000,
+    "type": 1,
+    "star": 4.5
+  },
+  {
+    "id": 103,
+    "name": "Malware",
+    "host": "https://orca.pet/notonmyshift/hosts.txt",
+    "icon": "https://github.com/SpaceShipApps/AdFilters/raw/master/icons/malware.png",
+    "time": 1630037939000,
+    "type": 1,
+    "star": 4.5
+  },
+  {
+    "id": 104,
+    "name": "StevenBlack host",
+    "host": "https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts",
+    "icon": "https://github.com/SpaceShipApps/AdFilters/raw/master/icons/stevenblack.png",
+    "time": 1630037939000,
+    "type": 1,
+    "star": 4.5
+  },
+  {
+    "id": 105,
+    "name": "Dan Pollock host",
+    "host": "https://someonewhocares.org/hosts/hosts",
+    "icon": "https://github.com/SpaceShipApps/AdFilters/raw/master/icons/default.png",
+    "time": 1630037939000,
+    "type": 1,
+    "star": 4
+  },
+  {
+    "id": 106,
+    "name": "Adaway",
+    "host": "https://adaway.org/hosts.txt",
+    "icon": "https://github.com/SpaceShipApps/AdFilters/raw/master/icons/adaway.png",
+    "time": 1630037939000,
+    "type": 1,
+    "star": 3.5
+  },
+  {
+    "id": 107,
+    "name": "Gambling",
+    "host": "https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/gambling-hosts",
+    "icon": "https://github.com/SpaceShipApps/AdFilters/raw/master/icons/default.png",
+    "time": 1630037939000,
+    "type": 1,
+    "star": 3.5
+  },
+  {
+    "id": 108,
+    "name": "Fake news",
+    "host": "https://raw.githubusercontent.com/marktron/fakenews/master/fakenews",
+    "icon": "https://github.com/SpaceShipApps/AdFilters/raw/master/icons/default.png",
+    "time": 1630037939000,
+    "type": 1,
+    "star": 3.5
+  }
+]
