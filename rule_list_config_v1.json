@@ -2,7 +2,7 @@
   {
     "id": 100,
     "name": "Adblock official host",
-    "host": "https://github.com/AdguardTeam/AdguardFilters/raw/master/MobileFilter/sections/specific_app.txt",
+    "host": "https://raw.githubusercontent.com/SpaceShipApps/AdFilters/master/dns.txt",
     "icon": "https://github.com/SpaceShipApps/AdFilters/raw/master/icons/official.png",
     "time": 1630037939000,
     "type": 1,
