@@ -1,0 +1,28 @@
+# This workflow will build a Java project with Gradle and cache/restore any dependencies to improve the workflow execution time
+# For more information see: https://help.github.com/actions/language-and-framework-guides/building-and-testing-java-with-gradle
+
+name: Unsplash Wallpaper
+
+on:
+  schedule:
+    # * is a special character in YAML so you have to quote this string
+    - cron:  '0 1 * * *'
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up JDK 11
+      uses: actions/setup-java@v2
+      with:
+        java-version: '11'
+        distribution: 'adopt'
+        cache: gradle
+    - name: Run
+      run: java -jar AdFilters-1.0-SNAPSHOT-all.jar update-ad-filters
+    - uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: update ad filters
