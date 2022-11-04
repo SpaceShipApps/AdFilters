@@ -22,7 +22,7 @@ jobs:
         distribution: 'adopt'
         cache: gradle
     - name: Run
-      run: java -jar AdFilters-1.0-SNAPSHOT-all.jar update-ad-filters
+      run: java -jar AdFilters-1.0-all.jar update-ad-filters
     - uses: stefanzweifel/git-auto-commit-action@v4
       with:
         commit_message: update ad filters
