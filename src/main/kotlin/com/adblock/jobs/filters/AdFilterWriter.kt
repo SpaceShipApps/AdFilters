@@ -11,17 +11,17 @@ class AdFilterWriter(
     private var ignoreDomain = mutableListOf<String>()
     fun write() {
         safeRun {
-            logd(TAG, "start $name: $url")
+            logi(TAG, "start $name: $url")
             val text = request(url).lines().map { it.parseLine() }
                 .filter { it.isNotBlank() && (!ignoreDomain.contains(it)) }
                 .joinToString("\n") { it }
             getRootFile("$name.txt").save(text)
-            logd(TAG, "finish $name: $url")
+            logi(TAG, "finish $name: $url")
         }
     }
 
     private fun String.parseLine(): String {
-//        logd("xxx","from: $this")
+//        logi("xxx","from: $this")
         if (!contains(".")) {
             return ""
         }
@@ -78,11 +78,11 @@ class AdFilterWriter(
         }
         if (line.contains("@@")) {
             ignoreDomain.add(line.replace("@@", ""))
-            logd("ad filter", "ignore this:$this")
+            logi("ad filter", "ignore this:$this")
             return ""
         }
 
-//        logd("xxx","to: $line")
+//        logi("xxx","to: $line")
         return line.trim().removeSuffix("^")
     }
 }

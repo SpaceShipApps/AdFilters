@@ -1,10 +1,11 @@
 package com.adblock.jobs.filters
 
 import com.adblock.Job
+import com.adblock.utils.logi
 
 const val UPDATE_AD_FILTERS = "update-ad-filters"
 
-private val FILTERS = mapOf<String, String>(
+private val FILTERS = mapOf(
     // Mobile Ads
     "ads" to "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt",
     // Mobile Tracking + Spyware
@@ -21,6 +22,8 @@ private val FILTERS = mapOf<String, String>(
 
 class UpdateAdFiltersJob : Job(UPDATE_AD_FILTERS) {
     override fun run() {
+        logi("UpdateAdFiltersJob", "start")
         FILTERS.map { AdFilterWriter(it.key, it.value).write() }
+        logi("UpdateAdFiltersJob", "end")
     }
 }
