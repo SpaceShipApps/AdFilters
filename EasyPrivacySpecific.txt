@@ -119,7 +119,8 @@ collector.xhamster2.com
 colvk.viki.io
 confiant.msn.com
 console-telemetry.oci.oraclecloud.com
-contents2.00110.citi.com
+content22.citi.eu
+content22.online.citi.com
 copilot-telemetry.githubusercontent.com
 count.rin.ru
 cpt.itv.com
