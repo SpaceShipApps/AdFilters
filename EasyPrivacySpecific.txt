@@ -96,6 +96,7 @@ client-log.box.com
 client-metrics.chess.com
 clp-mms.cloudpro.co.uk
 cm-mms.coachmag.co.uk
+cm.nordvpn.com
 cnt.hd21.com
 cnt.iceporn.com
 cnt.nuvid.com
