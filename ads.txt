@@ -76,6 +76,9 @@ c3.myapkcdn.in
 54.222.186.106
 plugin.mobopay.baidu.com
 mo.freeindoapp.com
+ad.mobiuspace.net
+api-ad-callback.mobiuspace.net
+hb.rayjump.com
 ad.snaptube.app
 gdl.i9dhjx.ru
 mobidriven.com
