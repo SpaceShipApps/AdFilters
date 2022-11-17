@@ -289,7 +289,6 @@ noodle.backmarket.io
 ohm-dot-hackster-io.appspot.com
 ophan.theguardian.com
 optimize-stats.voxmedia.com
-p.sfx.ms
 pac.thesun.co.uk
 pappagallu.onefootball.com
 perf.mouser.com
@@ -618,6 +617,7 @@ customer.homedepot.com
 drfdisvc.walmart.com
 event.evtm.53.com
 olacontent.schwab.com
+tmetrix.my.chick-fil-a.com
 w-profiling.cibc.com
 w-profiling.simplii.com
 wup-content23.bmoharris.com
