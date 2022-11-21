@@ -120,8 +120,6 @@ collector.xhamster2.com
 colvk.viki.io
 confiant.msn.com
 console-telemetry.oci.oraclecloud.com
-content22.citi.eu
-content22.online.citi.com
 copilot-telemetry.githubusercontent.com
 count.rin.ru
 cpt.itv.com
@@ -503,6 +501,7 @@ t.indeed.com
 t.jossandmain.com
 t.kck.st
 t.nypost.com
+t.pagesix.com
 t.paypal.com
 t.perigold.com
 t.regionsjob.com
@@ -612,7 +611,9 @@ substation.confection.io
 gj.mmstat.com
 oneid.mmstat.com
 content22.bmoharris.com
+content22.citi.eu
 content22.citibank.com.sg
+contents2.00110.citi.com
 customer.homedepot.com
 drfdisvc.walmart.com
 event.evtm.53.com
