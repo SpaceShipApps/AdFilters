@@ -133,6 +133,7 @@ d.skk.moe
 data.guide.photobucket.com
 data.younow.com
 datadome.patreon.com
+dbhsejcg-meetup-com.cdnjs.network
 dc.banggood.com
 dd.auspost.com.au
 deliver.ptgncdn.com
