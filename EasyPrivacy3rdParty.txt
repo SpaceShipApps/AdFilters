@@ -1090,6 +1090,7 @@ widget-pixels.outbrain.com
 widget.quantcast.com
 win.staticstuff.net
 wl-pixel.index.digital
+wordmonetize.com
 wren.condenastdigital.com
 ws.audioeye.com
 ws.sharethis.com
