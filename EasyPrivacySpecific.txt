@@ -58,6 +58,7 @@ analytics.touchnote.io
 analytics.tradedoubler.com
 analytics.twitter.com
 analytics.vedantu.com
+analytics.yugen.to
 anon-stats.eff.org
 appanalysis.banggood.com
 assets.instacart.com

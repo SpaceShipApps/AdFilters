@@ -250,6 +250,7 @@ cod.bitrec.com
 collect-ap2.attraqt.io
 collect-eu.attraqt.io
 collect.cloudsponge.com
+collect.igodigital.com
 collect.iteam-dress.com
 collect.rewardstyle.com
 collect.usefathom.com
