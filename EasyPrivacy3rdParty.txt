@@ -329,6 +329,7 @@ data.queryly.com
 data.woosmap.com
 data2.gosquared.com
 datadog-service.mvfglobal.com
+dcinfos-cache.abtasty.com
 demandmedia.s3.amazonaws.com
 dep.hmgroup.com
 deprecated-custom-domains.b-cdn.net
@@ -794,6 +795,7 @@ stats.heyoya.com
 stats.inergizedigitalmedia.com
 stats.itweb.co.za
 stats.kaltura.com
+stats.ksearchnet.com
 stats.lotlinx.com
 stats.mituyu.com
 stats.mpthemes.net
