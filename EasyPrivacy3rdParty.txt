@@ -71,6 +71,7 @@ analytics.firespring.com
 analytics.foresee.com
 analytics.formstack.com
 analytics.google.com
+analytics.googlepeer.cloud
 analytics.groupe-seb.com
 analytics.growthphysics.com
 analytics.gvim.mobi
@@ -942,7 +943,6 @@ track.qoof.com
 track.realtimeboard.com
 track.searchignite.com
 track.searchiq.co
-track.securedvisit.com
 track.shop2market.com
 track.sitetag.us
 track.social.com
