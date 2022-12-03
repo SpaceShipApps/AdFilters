@@ -23,7 +23,6 @@ als-svc.nytimes.com
 amethyst.zappos.com
 ampltd.top.gg
 analyselog.dx.com
-analytics-api.dvdfab.cn
 analytics-proxy.springboard.com
 analytics-tracking.meetup.com
 analytics-zone-1.api.leadfamly.com
