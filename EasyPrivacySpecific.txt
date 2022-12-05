@@ -147,6 +147,7 @@ dtag.breadfinancial.com
 dumpster.cam4.com
 e377.thestar.com
 ea.epochbase.com
+edge.staging.fullstory.com
 eec.crunchyroll.com
 ekg.riotgames.com
 engagefront.meteomedia.com
