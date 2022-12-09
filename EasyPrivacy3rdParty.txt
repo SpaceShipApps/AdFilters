@@ -351,6 +351,7 @@ dotaudiences.com
 doug1izaerwt3.cloudfront.net
 dw.com.com
 dx.mountain.com
+e.metarouter.io
 ea.youmaker.com
 ec.walkme.com
 ecomm.events
@@ -418,6 +419,7 @@ fog.pixual.co
 fourmtagservices.appspot.com
 fp-cdn.azureedge.net
 fresh.inlinkz.com
+frog.editorx.com
 fs-client-logger.herokuapp.com
 future-fie-assets.co.uk
 future-price.co.uk

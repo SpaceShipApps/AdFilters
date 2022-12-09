@@ -60,6 +60,7 @@ analytics.twitter.com
 analytics.vedantu.com
 analytics.yugen.to
 anon-stats.eff.org
+api-js.mixpanel.com
 appanalysis.banggood.com
 assets.instacart.com
 atrack.allposters.com
@@ -217,6 +218,7 @@ gtreus.aliexpress.com
 gurgle.pcmag.com
 hanaana.socialblade.com
 heap.drop.com
+hits.cyberdrop.me
 i.pokernews.com
 iedc.fitbit.com
 indmetric.rediff.com
