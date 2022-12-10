@@ -43,6 +43,7 @@ analytics.hashnode.com
 analytics.kaggle.io
 analytics.kraken.com
 analytics.makeitmeme.com
+analytics.ml.homedepot.ca
 analytics.mouthshut.com
 analytics.nike.com
 analytics.ovh.com
@@ -107,6 +108,7 @@ cnt.vivatube.com
 collect.alipay.com
 collect.asics.com
 collect.banggood.com
+collect.thunder-io.com
 collector-px0py5pczn.octopart.com
 collector.cint.com
 collector.fiverr.com
@@ -280,6 +282,7 @@ mktcs.cloudapps.cisco.com
 mms.cnn.com
 mon.us.tiktokv.com
 monitor.channel4.com
+mr.homedepot.ca
 msg-intl.qy.net
 mstm.motorsport.com
 mxpl.9gag.com
