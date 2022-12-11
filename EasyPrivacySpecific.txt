@@ -292,6 +292,7 @@ net.haier.com
 nm.newegg.com
 no9pldds1lmn3.soundcloud.com
 noodle.backmarket.io
+observe.metarouter.io
 ohm-dot-hackster-io.appspot.com
 ophan.theguardian.com
 optimize-stats.voxmedia.com
