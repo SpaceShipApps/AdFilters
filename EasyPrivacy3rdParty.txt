@@ -530,6 +530,7 @@ loader-cdn.azureedge.net
 loader.zeroform.com
 log.aimtell.com
 log.artipbox.net
+log.cookieyes.com
 log.go.com
 log.invodo.com
 log.kibboko.com
