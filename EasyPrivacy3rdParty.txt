@@ -984,6 +984,7 @@ tracker.myyschool.xyz
 tracker.netklix.com
 tracker.nitropay.com
 tracker.roitesting.com
+tracker.services.vaix.ai
 tracker.softcube.com
 tracker.ssl0d.com
 tracker.timesgroup.com
