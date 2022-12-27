@@ -22783,6 +22783,10 @@ log-hl.snssdk.com
 ib.snssdk.com
 xlog.snssdk.com
 log.snssdk.com
+gateway.foresee.com
+analytics.foresee.com
+hatmiso.net
+t.influ2.com
 trk.adbutter.net
 oribi.io
 eoapxl.com
@@ -26152,6 +26156,7 @@ zroitracker.com
 visilabs.com
 visilabs.net
 functionalclam.com
+chubbycreature.com
 restrainstorm.com
 sugarfriction.com
 fortunatemark.com
@@ -27196,6 +27201,8 @@ wizaly.com
 affex.org
 t.yesware.com
 tagman.britishairways.com
+analytics.crea.ca
+stat.airdroid.com
 tracker.ranker.com
 c.salon24.pl
 cl.t3n.de
@@ -31220,7 +31227,6 @@ analytics.fabricators.ltd
 analytics.facebook.com
 analytics.favcy.com
 analytics.firespring.com
-analytics.foresee.com
 analytics.googlepeer.cloud
 analytics.gooogol.com
 analytics.groupe-seb.com
@@ -31459,7 +31465,6 @@ g2insights-cdn.azureedge.net
 ga-beacon.appspot.com
 ga.webdigi.co.uk
 ganon.yahoo.com
-gateway.foresee.com
 gemius.mgr.consensu.org
 geo.ertya.com
 geo.gorillanation.com
@@ -36586,6 +36591,7 @@ habrox.xyz
 mystighty.info
 i4tvy8vk9f74.com
 mineralisasse.site
+promolayer.io
 googleailesi.com
 bartinkizogrenciyurdu.com
 ratel-ad.com
@@ -39038,6 +39044,7 @@ zigzag.vn
 81cdn.cn
 828239sam.com
 82ip.top
+8499683.com
 86o0h.top
 8861203.com
 88kids.mobi
@@ -39052,6 +39059,7 @@ zigzag.vn
 9xg2.fun
 a78wt.top
 abenshishabi.com
+abgxxc.com
 adiexjy.cn
 aiedwhb.cn
 aiupiyd.cn
@@ -39080,6 +39088,8 @@ bjfc.xyz
 bjws.xyz
 bjzb.xyz
 bmmogb.xyz
+bmsgznx.cn
+bnsdk.top
 bqge.xyz
 bqgw.xyz
 bqnggnsv.fun
@@ -39097,6 +39107,7 @@ chengduda.top
 chlinb.xyz
 chunmiaosh.com
 cichiji.top
+cja-1223.cc
 cjkl.online
 clvkg.xyz
 clw99.mobi
@@ -39138,6 +39149,7 @@ efizobj.cn
 eganilglw.cyou
 egrnmic.cn
 eidphap.cn
+ekhnbwe.cn
 emfrig.xyz
 enzagpt.cn
 eoqygep.cn
@@ -39157,9 +39169,11 @@ fhhvdzr.cn
 fiwyjar.cn
 fkjdz.cyou
 fknrtpp.cn
+flan.fun
 fmblph.xyz
 folgsl.xyz
 fqsokh.xyz
+frgeob.xyz
 fsdnp.cyou
 ftdmfxq.cn
 fvdoics.cn
@@ -39202,6 +39216,7 @@ hjgrc.xyz
 hmgzhqe.cn
 hnws.xyz
 hqdfh.mobi
+hqoqbs.xyz
 hqqpw.mobi
 hssebb.xyz
 hsypwju.cn
@@ -39242,6 +39257,7 @@ j721s.top
 japsmna.cyou
 jatytuo.cn
 jckdusa.cn
+jdexcgb.cn
 jghmrie.cn
 jiedu.fun
 jieshimaya.xyz
@@ -39262,12 +39278,14 @@ kba8i.icu
 kcmomkn.cn
 kdegznb.cn
 kecms.xyz
+keiscithy.com
 kjanfwss.xyz
 kjcvw.xyz
 kjhxw.xyz
 kjndc.xyz
 kkizyys.cn
 kldtmki.cn
+klgzjaw.cn
 klxwe.xyz
 kmjbwejnr.xyz
 kmpjrjz.cn
@@ -39281,6 +39299,7 @@ kuanzhan.biz
 kufmbwm.cn
 kvkggg.top
 kvtlll.top
+kxgo.xyz
 kxizloe.cn
 kydb.xyz
 kyrj.xyz
@@ -39325,6 +39344,7 @@ meikdein.xyz
 mhhsa.xyz
 mihouse.pw
 mjkyydz.cn
+monzexn.cn
 mqnggnsx.fun
 mrhboe.xyz
 mrzhao.life
@@ -39341,11 +39361,13 @@ nhtieoo.cn
 nijnqwem.xyz
 ningsiy.xin
 nisihu.com.cn
+njxjrar.cn
 nkelyhz.cn
 nmidhnz.cn
 npmeingm7.shop
 nqnggnsc.fun
 nveuiqh.cn
+nwdjlx.xyz
 nypswiu.cn
 nzvpewi.cn
 oapsmnk.cyou
@@ -39452,6 +39474,7 @@ rsdkk26.xyz
 rss9f.top
 rtmtgf.xyz
 rtnigaz.cyou
+runn.fun
 ruohe.fun
 rvyjbwr.cn
 rzngisyz.xyz
@@ -39499,8 +39522,10 @@ tffytdo.cn
 thsrh.xyz
 tian-ting.ink
 tinymarket.store
+tizf7.top
 toijr.xyz
 topboo.xyz
+tprwnvk.cn
 tptp001.buzz
 tpvdcqw.cn
 tqnggnsi.fun
@@ -39526,6 +39551,7 @@ upftflc.cn
 uqnggnst.fun
 usbkngf.cn
 usnczrq.cn
+uwuzpxt.cn
 uyjhbawd.xyz
 uzngisyt.xyz
 v09.xyz
@@ -39539,9 +39565,12 @@ vibber.download
 vipzhuan.xyz
 vjianshen1688.com
 vmax-ktv.com
+vouninked.com
 vqdjcy.com
+vqhifd.xyz
 vqjxlie.cn
 vulmpvp.cn
+vxlysbz.cn
 vz81m4.top
 wapsmne.cyou
 weeuqek.cn
@@ -39554,6 +39583,7 @@ wgpsfdg.cn
 whqxj.xyz
 whrc.xyz
 wjslw.mobi
+wkbslub.cn
 wmgocya.cn
 wocexaa.cn
 wotmvdc.cn
@@ -39628,23 +39658,9 @@ zvxwvny.cn
 zw2b9.cn
 zzngisyq.xyz
 zzwzsic.cn
-bmsgznx.cn
-jdexcgb.cn
-vxlysbz.cn
-keiscithy.com
-ekhnbwe.cn
-frgeob.xyz
-nwdjlx.xyz
-tizf7.top
-flan.fun
-wkbslub.cn
-uwuzpxt.cn
-tprwnvk.cn
-bnsdk.top
-8499683.com
-vouninked.com
-njxjrar.cn
-klgzjaw.cn
+ihdqpyc.cn
+erhsxv.top
+snbklas.cn
 001adafg.xyz
 0024aaaa.com
 004fsdljasd.xyz
@@ -46166,8 +46182,8 @@ ubmcvideo.baidustatic.com
 video231.oss-cn-beijing.aliyuncs.com
 xpj08.oss-cn-beijing.aliyuncs.com
 ys2000.cdn.bcebos.com
-52av.be
 380.tw
+52av.be
 1024mzs.pw
 5lu8.com
 7wkw.com
@@ -46652,7 +46668,6 @@ as1.m.hao123.com
 as1.wenku.baidu.com
 b.kouke5.com
 b.unjs.com
-b1.027art.com
 b1.51scw.net
 b1.91jucai.com
 b1.b2b168.com
@@ -47113,6 +47128,7 @@ static.gaomaer.cn
 static.ichehome.com
 static.jiaquyi.com
 static.meijiacun.com
+static.rongkao.com
 t.cnscore.com
 t1.612.com
 t1.xuefen.com.cn
