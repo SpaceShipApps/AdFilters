@@ -521,6 +521,7 @@ livecounter.theyosh.nl
 livestats.kaltura.com
 loader-cdn.azureedge.net
 loader.zeroform.com
+log-global.aliyuncs.com
 log.aimtell.com
 log.artipbox.net
 log.cookieyes.com
