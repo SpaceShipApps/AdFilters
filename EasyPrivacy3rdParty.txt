@@ -360,6 +360,7 @@ ele26126.jscrambler.com
 epl.paypal-communication.com
 eq.userneeds.com
 errors.snackly.co
+eu-mobile.events.data.microsoft.com
 ev.stellarlabs.ai
 event-api.contactatonce.co.uk
 event-api.contactatonce.com
@@ -583,7 +584,6 @@ mlweb.dmlab.hu
 mmi.bemobile.ua
 mon.domdog.io
 monitor.azure.com
-monorail-edge.shopifysvc.com
 mormont.gamer-network.net
 ms-trackingapi.phenompeople.com
 mts.mansion.com

@@ -513,6 +513,7 @@ t.regionsjob.com
 t.wayfair.ca
 t.wayfair.co.uk
 t.wayfair.com
+t.y8.com
 t2.hulu.com
 tagger.ope.scmp.com
 tags.aljazeera.com
