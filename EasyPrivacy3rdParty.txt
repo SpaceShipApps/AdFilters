@@ -155,6 +155,7 @@ api.autopilothq.com
 api.carrottrack.io
 api.wipmania.com
 apple.www.letv.com
+applets.ebxcdn.com
 argos.citruserve.com
 ariane.abtasty.com
 attributiontrackingga.googlecode.com
