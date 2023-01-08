@@ -586,6 +586,7 @@ mlweb.dmlab.hu
 mmi.bemobile.ua
 mon.domdog.io
 monitor.azure.com
+monitoring.iraiser.eu
 mormont.gamer-network.net
 ms-trackingapi.phenompeople.com
 mts.mansion.com
