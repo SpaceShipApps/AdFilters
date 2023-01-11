@@ -979,6 +979,7 @@ tracker.wpserveur.net
 tracker.xgen.dev
 trackerapi.truste.com
 trackicollect.ibase.fr
+tracking-api-4lasu2nlcq-ew.a.run.app
 tracking.adalyser.com
 tracking.ads.global-fashion-group.com
 tracking.aegpresents.com
