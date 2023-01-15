@@ -106,6 +106,7 @@ cnt.vivatube.com
 collect.alipay.com
 collect.asics.com
 collect.banggood.com
+collect.hollisterco.com
 collect.thunder-io.com
 collector-px0py5pczn.octopart.com
 collector.cint.com
@@ -143,6 +144,7 @@ desa.fkapi.net
 desb.fkapi.net
 desr.fkapi.net
 discover-metrics.cloud.seek.com.au
+dp.coinbase.com
 dp.shoprunner.com
 dtag.breadfinancial.com
 dumpster.cam4.com
@@ -320,6 +322,7 @@ pm.dailykos.com
 prairiedog.hashnode.com
 privacy-api.9gag.com
 privacyfriendly.netlify.app
+prod-events.nykaa.com
 pulsar.ebay.com
 pulse.delta.com
 pumpkin.abine.com

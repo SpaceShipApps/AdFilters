@@ -208,6 +208,7 @@ browser.events.data.microsoft.com
 browser.pipe.aria.microsoft.com
 bs.yandex.ru
 c.amazinglybrilliant.com.au
+c.bazo.io
 c.imedia.cz
 c.live.com
 c.mgid.com
@@ -614,10 +615,12 @@ onespot-tracking.herokuapp.com
 onetrust.com$ping
 open.delivery.net
 openxcdn.net
+optimeeze.appspot.com
 optimizely.appspot.com
 orts.wixawin.com
 p.delivery.net
 p.placed.com
+p.typekit.net
 p.yotpo.com
 page-events-ustats.udemy.com
 pages-stats.rbl.ms
@@ -952,6 +955,7 @@ track.vscash.com
 track.wayin.com
 track.yfret.com
 track.yieldsoftware.com
+tracker-dot-optimeeze.appspot.com
 tracker.affiliate.iqoption.com
 tracker.affirm.com
 tracker.arc.io
