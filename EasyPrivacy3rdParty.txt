@@ -498,7 +498,6 @@ jas.indeednps.com
 javascriptcounter.appspot.com
 jill.fc.yahoo.com
 jly24aw29n5m-a.akamaihd.net
-js-agent.newrelic.com
 k.keyade.com
 k.streamrail.com
 kalstats.kaltura.com
