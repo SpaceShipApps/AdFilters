@@ -73,7 +73,6 @@ analytics.firespring.com
 analytics.foresee.com
 analytics.formstack.com
 analytics.google.com
-analytics.googlepeer.cloud
 analytics.gooogol.com
 analytics.groupe-seb.com
 analytics.growthphysics.com
@@ -440,7 +439,6 @@ gemius.mgr.consensu.org
 genesis.malwarebytes.com
 geo.ertya.com
 geo.gorillanation.com
-geo.kontagent.net
 geo.mezr.com
 geo.ngtv.io
 geo.q5media.net
@@ -527,7 +525,6 @@ livecounter.theyosh.nl
 livestats.kaltura.com
 loader-cdn.azureedge.net
 loader.zeroform.com
-log-global.aliyuncs.com
 log.aimtell.com
 log.artipbox.net
 log.cookieyes.com
@@ -584,7 +581,6 @@ metrics.readme.io
 metrics.scribblelive.com
 metrics.userguiding.com
 metrix.emagister.com
-metrixlablw.customers.luna.net
 mlweb.dmlab.hu
 mmi.bemobile.ua
 mon.domdog.io
@@ -1279,7 +1275,6 @@ seal.globalsign.com
 seal.godaddy.com
 seal.networksolutions.com
 seal.qualys.com
-seal.verisign.com
 sealserver.trustwave.com
 secure.trust-guard.com
 securitymetrics.com
