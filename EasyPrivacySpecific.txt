@@ -525,6 +525,7 @@ tagger.ope.scmp.com
 tags.aljazeera.com
 tags.johnlewis.com
 tags.news.com.au
+tao.barstoolsports.com
 target.nationwide.com
 target.nejm.org
 targeting.washpost.nile.works
