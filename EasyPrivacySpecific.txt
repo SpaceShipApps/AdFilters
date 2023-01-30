@@ -621,6 +621,7 @@ substation.confection.io
 gj.mmstat.com
 oneid.mmstat.com
 cfa.fidelity.com
+clear.wallapop.com
 content22.bmoharris.com
 content22.citi.eu
 content22.citibank.com.au

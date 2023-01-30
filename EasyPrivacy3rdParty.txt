@@ -195,6 +195,7 @@ beacon2.indieclick.com
 beacons.mediamelon.com
 beam.mjhlifesciences.com
 bee.tc.easebar.com
+behavior.tongdun.net
 bento.agoda.com
 bi.medscape.com
 bizsolutions.strands.com
@@ -773,6 +774,7 @@ stat.u.sb
 stat.web-regie.com
 statdb.pressflex.com
 static-tracking.klaviyo.com
+static.fengkongcloud.com
 static.parsely.com
 statistics.tattermedia.com
 statistics.wibiya.com
@@ -1065,6 +1067,7 @@ uid.mediacorp.sg
 uim.tifbs.net
 units.knotch.it
 urldefense.com
+us-central1-markuphero.cloudfunctions.net
 user.userguiding.com
 userexperience.thehut.net
 usersegment.wpdigital.net
