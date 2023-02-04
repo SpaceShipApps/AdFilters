@@ -254,6 +254,7 @@ cnt.trvdp.com
 cod.bitrec.com
 collect-ap2.attraqt.io
 collect-eu.attraqt.io
+collect.alphastream.io
 collect.cloudsponge.com
 collect.igodigital.com
 collect.iteam-dress.com

@@ -76,6 +76,7 @@ c3.myapkcdn.in
 54.222.186.106
 plugin.mobopay.baidu.com
 mo.freeindoapp.com
+api-ad-adapter.wps.com
 nasimobi.com
 wd.adcolony.xyz
 im.ov.yahoo.co.jp

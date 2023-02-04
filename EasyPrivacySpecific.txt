@@ -245,6 +245,7 @@ link.kogan.com
 link2.strawberrynet.com
 links.strava.com
 lists.ccmbg.com
+log-gateway.zoom.us
 log.china.cn
 log.genyt.net
 log.hypebeast.com
