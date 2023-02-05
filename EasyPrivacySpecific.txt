@@ -338,6 +338,7 @@ relay.fiverr.com
 reports.tunein.com
 retargeting.vistaprint.com
 rfk.biglots.com
+ring.staticmoly.me
 rps-p2.rockpapershotgun.com
 rps-uk.rockpapershotgun.com
 rs.mail.ru
