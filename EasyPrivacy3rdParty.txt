@@ -245,6 +245,7 @@ clickthru.lefbc.com
 clicktime.symantec.com
 clicktracker.iscan.nl
 client-analytics.braintreegateway.com
+client-logger.salemove.com
 client.tahono.com
 clouderrorreporting.googleapis.com
 cloudfront-labs.amazonaws.com
