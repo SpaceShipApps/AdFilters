@@ -84,6 +84,7 @@ analytics.iraiser.eu
 analytics.jst.ai
 analytics.kaltura.com
 analytics.kapost.com
+analytics.kongregate.io
 analytics.live.com
 analytics.livestream.com
 analytics.logsss.com
@@ -199,7 +200,6 @@ bee.tc.easebar.com
 behavior.tongdun.net
 bento.agoda.com
 bi.medscape.com
-bizsolutions.strands.com
 blip.bizrate.com
 bmrg.reflected.net
 botdetection.hbrsd.com
@@ -531,7 +531,6 @@ livestats.kaltura.com
 loader-cdn.azureedge.net
 loader.zeroform.com
 log.aimtell.com
-log.artipbox.net
 log.cookieyes.com
 log.go.com
 log.invodo.com
@@ -726,7 +725,6 @@ rum.azion.com
 rum.azioncdn.net
 rum.ingress.layer0.co
 rum.layer0.co
-rum.minutemediaservices.com
 rum.nccgroup-webperf.com
 rum.perfops.net
 rum.uptime.com
@@ -943,7 +941,6 @@ track.mycliplister.com
 track.nopaperforms.com
 track.pnicnik.live
 track.pricespider.com
-track.qcri.org
 track.qoof.com
 track.realtimeboard.com
 track.searchignite.com
@@ -1052,7 +1049,6 @@ tracking.waterfrontmedia.com
 tracking.wisepops.com
 tracking1.brandmentions.com
 tracking2.channeladvisor.com
-trackingapi.cloudapp.net
 trackla.stackla.com
 tracksmart.se
 traffic.acwebconnecting.com
@@ -1067,7 +1063,6 @@ trib.al
 triggers.wfxtriggers.com
 trk.clinch.co
 trk.techtarget.com
-tru.webelapp.com
 try.abtasty.com
 ts.tradetracker.net
 ucounter.ucoz.net

@@ -56,7 +56,6 @@ analytics.send.cm
 analytics.slashdotmedia.com
 analytics.synchrony.com
 analytics.synedat.com
-analytics.touchnote.io
 analytics.tradedoubler.com
 analytics.twitter.com
 analytics.vedantu.com
@@ -274,9 +273,11 @@ metrics.hackerrank.com
 metrics.roblox.com
 metrics.spkt.io
 metrics.syf.com
+metrics.ted.com
 metricsishare.rediff.com
 miao.baidu.com
 midas.chase.com
+mixpanel-proxy.ted.com
 mktcs.cloudapps.cisco.com
 mms.cnn.com
 mon.us.tiktokv.com
@@ -286,7 +287,6 @@ msg-intl.qy.net
 mstm.motorsport.com
 mxpl.9gag.com
 n26-trusted.n26.com
-n511.thestar.com
 nasi.etherscan.com
 net.haier.com
 nm.newegg.com
@@ -472,7 +472,6 @@ squirrel.malaynahocker.com
 srtb.msn.com
 srv.plesk.com
 ss.photospecialist.co.uk
-ssc.api.bbc.com
 st.sawlive.tv
 stan.xing.com
 stat.cdngeek.com
@@ -605,6 +604,7 @@ wstats.e-wok.tv
 wtk.db.com
 xstats.evoload.io
 z.cdp-dev.cnn.com
+z737.thestar.com
 zion-telemetry.api.cnn.io
 track.opentable.ae
 track.opentable.ca
