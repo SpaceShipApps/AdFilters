@@ -402,6 +402,7 @@ events.jotform.com
 events.launchdarkly.com
 events.matterport.com
 events.medio.com
+events.missena.io
 events.ocdn.eu
 events.realgravity.com
 events.shareably.net
