@@ -124,6 +124,7 @@ collector.xhamster2.com
 colvk.viki.io
 confiant.msn.com
 console-telemetry.oci.oraclecloud.com
+conversion.mooncard.co
 copilot-telemetry.githubusercontent.com
 count.rin.ru
 cpt.itv.com
@@ -360,6 +361,7 @@ rum.kobo.com
 rv.modanisa.com
 s.infogram.com
 saa.insideedition.com
+search.anonymous.ads.brave.com
 servedby.o2.co.uk
 shopmetric.rediff.com
 sid.nordstrom.com
