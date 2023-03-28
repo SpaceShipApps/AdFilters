@@ -150,6 +150,7 @@ analytics.ynap.biz
 analytics.yola.net
 analytics.yolacdn.net
 analytics.ziftsolutions.com
+analyticsehnwe.servicebus.windows.net
 analyze.full-marke.com
 ao-freegeoip.herokuapp.com
 aorta.clickagy.com
