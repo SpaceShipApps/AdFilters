@@ -23,6 +23,7 @@ alb.reddit.com
 als-svc.nytimes.com
 amethyst.zappos.com
 ampltd.top.gg
+ampltd2.medal.tv
 analyselog.dx.com
 analytics-proxy.springboard.com
 analytics-tracking.meetup.com
@@ -226,6 +227,7 @@ heap.drop.com
 hits.cyberdrop.me
 i.pokernews.com
 iedc.fitbit.com
+ih.newegg.com
 indmetric.rediff.com
 ingress.linktr.ee
 intent.cmo.com.au
@@ -273,6 +275,7 @@ metrics.audius.co
 metrics.bangbros.com
 metrics.freemake.com
 metrics.hackerrank.com
+metrics.newegg.com
 metrics.roblox.com
 metrics.spkt.io
 metrics.syf.com
