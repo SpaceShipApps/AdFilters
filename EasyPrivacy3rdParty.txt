@@ -372,6 +372,7 @@ ele26126.jscrambler.com
 epl.paypal-communication.com
 eq.userneeds.com
 errors.snackly.co
+etl.springbot.com
 eu-mobile.events.data.microsoft.com
 ev.stellarlabs.ai
 event-api.contactatonce.co.uk
@@ -762,6 +763,7 @@ shared.65twenty.com
 shopnetic.com
 slackb.com
 slidedeck.com
+smart-data-systems.com
 smrt.as
 snaps.vidiemi.com
 snowplow.swm.digital
