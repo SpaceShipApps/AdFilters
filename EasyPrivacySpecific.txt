@@ -61,6 +61,7 @@ analytics.synedat.com
 analytics.tradedoubler.com
 analytics.twitter.com
 analytics.vedantu.com
+analytics.wavebox.io
 analytics.yugen.to
 anon-stats.eff.org
 api-js.mixpanel.com
@@ -266,7 +267,6 @@ logs.naukri.com
 logx.optimizely.com
 ma.redhat.com
 marketing.alibaba.com
-marketing.dropbox.com
 mcc-tags.cisco.com
 mcs-va.tiktokv.com
 metrics.audius.co
