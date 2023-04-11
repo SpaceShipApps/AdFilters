@@ -79,6 +79,7 @@ beacon.shutterfly.com
 beacon.walmart.com
 beacon.wikia-services.com
 beam.bankrate.com
+beat.socialblade.com
 bfp.capitalone.com
 binocule21c.merriam-webster.com
 blitz-analytics-batch-server.blitz.gg
@@ -132,7 +133,6 @@ cpt.itv.com
 crayfish.thingelstad.com
 crta.metro.co.uk
 crumbs.robinhood.com
-cryo.socialblade.com
 cstats.sankakucomplex.com
 d.skk.moe
 data.guide.photobucket.com
@@ -221,7 +221,6 @@ gotie.tunein.com
 gtm.wise.com
 gtreus.aliexpress.com
 gurgle.pcmag.com
-hanaana.socialblade.com
 heap.drop.com
 hits.cyberdrop.me
 i.pokernews.com
@@ -563,6 +562,7 @@ tr.clickstay.com
 tr.www.cloudflare.com
 track-visit.monday.com
 track.dictionary.com
+track.eurogirlsescort.com
 track.kueez.com
 track.lexico.com
 track.mrgugu.com
