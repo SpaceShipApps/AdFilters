@@ -374,6 +374,7 @@ ele26126.jscrambler.com
 epl.paypal-communication.com
 eq.userneeds.com
 errors.snackly.co
+et.educationdynamics.com
 etl.springbot.com
 eu-mobile.events.data.microsoft.com
 ev.stellarlabs.ai
@@ -412,7 +413,6 @@ events.realgravity.com
 events.shareably.net
 events.splash-screen.net
 events.split.io
-events.statsigapi.net
 events.tubecup.org
 events.ubembed.com
 events.whisk.com
