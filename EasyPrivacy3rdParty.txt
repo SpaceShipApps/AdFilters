@@ -268,6 +268,7 @@ collect.rewardstyle.com
 collect.usefathom.com
 collector-api.99designs.com
 collector.api.video
+collector.appconsent.io
 collector.automote.co.nz
 collector.clareity.net
 collector.contentexchange.me
@@ -1072,6 +1073,7 @@ traffic.shareaholic.com
 trafficfuelpixel.s3-us-west-2.amazonaws.com
 trakksocial.googlecode.com
 trap.skype.com
+traxex.gannettdigital.com
 trc.pushnami.com
 trends.newsmaxwidget.com
 trib.al
