@@ -82,6 +82,7 @@ beacon.wikia-services.com
 beam.bankrate.com
 beat.socialblade.com
 bfp.capitalone.com
+bin.vinted.net
 binocule21c.merriam-webster.com
 blitz-analytics-batch-server.blitz.gg
 boomerang.dell.com
