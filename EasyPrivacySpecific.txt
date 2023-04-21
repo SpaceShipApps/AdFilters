@@ -93,6 +93,7 @@ c.wort-suche.com
 c.x.oanda.com
 c.xbox.com
 cl.canva.com
+clanker-events.squarespace.com
 clarice.streema.com
 click.aliexpress.com
 click.nudevista.com
@@ -185,6 +186,7 @@ events.privy.com
 events.reddit.com
 events.redditmedia.com
 events.santander.co.uk
+events.squarespace.com
 events.turbosquid.com
 evs.sgmt.loom.com
 exr-mms.expertreviews.co.uk
@@ -598,6 +600,7 @@ u989.theweek.com
 ua.indianexpress.com
 ubuyanalytics.ubuy.com
 uie.data.cbc.ca
+um.contentstudio.io
 umami.wakarimasen.moe
 urs.metacritic.com
 user-metrics.onthemarket.com
