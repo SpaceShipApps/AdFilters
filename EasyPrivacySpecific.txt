@@ -585,7 +585,6 @@ tracker.uprinting.com
 tracking.carsales.com.au
 tracking.digitalocean.com
 tracking.engineering.cloud.seek.com.au
-tracking.epicgames.com
 tracking.hsn.com
 tracking.shopstyle.co.uk
 tracking.shopstyle.com
