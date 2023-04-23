@@ -932,6 +932,7 @@ tr.datatrics.com
 tr.marsflag.com
 tr.outbrain.com
 tr.snapchat.com
+tr.vitals.co
 tr.webantenna.info
 tr1.mailperformance.com
 traccoon.intellectsoft.net
