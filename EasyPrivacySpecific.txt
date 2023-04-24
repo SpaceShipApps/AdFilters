@@ -201,6 +201,7 @@ fpa-cdn.arstechnica.com
 fpa-cdn.decrypt.co
 fpa-events.decrypt.co
 fpa.fingerprint.com
+fpb.fingerprint.com
 fpt.microsoft.com
 fresnel-events.vimeocdn.com
 g.ign.com
