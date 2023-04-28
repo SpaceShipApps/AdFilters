@@ -99,7 +99,6 @@ click.nudevista.com
 click.oneplus.com
 click.sinx.com
 click.udimg.com
-clicks.hurriyet.com.tr
 client-log.box.com
 client-metrics.chess.com
 clp-mms.cloudpro.co.uk
@@ -590,7 +589,6 @@ tracking.hsn.com
 tracking.shopstyle.co.uk
 tracking.shopstyle.com
 tracking.unrealengine.com
-tracking1.filemoon.sx
 trackr.vivenu.com
 treatment.grammarly.com
 tredir.go.com
