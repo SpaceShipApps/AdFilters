@@ -206,7 +206,7 @@ bmrg.reflected.net
 botdetection.hbrsd.com
 branch.io
 browser-intake-datadoghq.com
-browser.events.data.microsoft.com
+browser.events.data.microsoft.com$ping
 browser.pipe.aria.microsoft.com
 bs.yandex.ru
 c.amazinglybrilliant.com.au
@@ -707,6 +707,7 @@ px.owneriq.net
 px.spiceworks.com
 pylon.micstatic.com
 qubitanalytics.appspot.com
+query.petametrics.com
 r.mail.ru
 r.skimresources.com
 r.stripe.com
