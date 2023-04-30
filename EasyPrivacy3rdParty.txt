@@ -623,7 +623,6 @@ onetrust.com$ping
 open.delivery.net
 openxcdn.net
 optimeeze.appspot.com
-optimizely.appspot.com
 orts.wixawin.com
 p.delivery.net
 p.placed.com
