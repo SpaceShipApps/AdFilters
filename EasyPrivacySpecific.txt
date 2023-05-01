@@ -594,7 +594,6 @@ treatment.grammarly.com
 tredir.go.com
 trx3.famousfix.com
 ts.delfi.lt
-u989.theweek.com
 ua.indianexpress.com
 ubuyanalytics.ubuy.com
 uie.data.cbc.ca
@@ -691,7 +690,6 @@ z492.ctinsider.com
 z680.beaumontenterprise.com
 zion.qbo.intuit.com
 cb-mms.carbuyer.co.uk
-cdn-alliancegravity.s3.amazonaws.com
 cmp.courrierinternational.com
 cmp.finn.no
 cmp.huffingtonpost.fr
@@ -704,17 +702,12 @@ cmp.tech426.com
 cmp.tek.no
 cmp.telerama.fr
 d.sourcepoint.capitalfm.com
-eurogamer-it.eurogamer.it
-eurogamer-pl.eurogamer.pl
-eurogamer-pt.eurogamer.pt
 fuse.forbes.com
 h-bid.com
-mms.wwe.com
 sourcepoint-mms.aetv.com
 sourcepoint-mms.history.com
 sourcepoint-mms.mylifetime.com
-twus-mms.theweek.com
-usgamer-us.usgamer.net
 vg247-p2.vg247.com
+vg247-uk.vg247.com
 cdn1.pebx.pl
 piti.bplaced.net
