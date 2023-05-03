@@ -716,6 +716,7 @@ r.stripe.com
 ramp.purch.com
 reach-id.orbit.tm-awx.com
 realm.hearst3pcc.com
+recs.shareaholic.com
 refer.ccbill.com
 refer.wordpress.com
 referrer.disqus.com
@@ -934,6 +935,7 @@ tr.snapchat.com
 tr.vitals.co
 tr.webantenna.info
 traccoon.intellectsoft.net
+track-dark-bz.b-cdn.net
 track.360playvid.info
 track.91app.io
 track.99acres.com
