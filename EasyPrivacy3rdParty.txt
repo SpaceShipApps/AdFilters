@@ -586,6 +586,7 @@ metrics.api.drift.com
 metrics.beyondwords.io
 metrics.brightcove.com
 metrics.ctvdigital.net
+metrics.doppiocdn.org
 metrics.gs-chat.com
 metrics.kmsmep.com
 metrics.mdstrm.com
@@ -997,6 +998,7 @@ tracker.myyschool.xyz
 tracker.netklix.com
 tracker.nitropay.com
 tracker.novage.com.ua
+tracker.openwebtorrent.com
 tracker.roitesting.com
 tracker.services.vaix.ai
 tracker.softcube.com
