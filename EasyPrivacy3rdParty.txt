@@ -586,6 +586,7 @@ metrics.api.drift.com
 metrics.beyondwords.io
 metrics.brightcove.com
 metrics.ctvdigital.net
+metrics.doppiocdn.com
 metrics.doppiocdn.org
 metrics.gs-chat.com
 metrics.kmsmep.com
