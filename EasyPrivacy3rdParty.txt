@@ -150,6 +150,7 @@ analytics.ynap.biz
 analytics.yola.net
 analytics.yolacdn.net
 analytics.ziftsolutions.com
+analytics1.vdo.ai
 analyticsehnwe.servicebus.windows.net
 analyze.full-marke.com
 ao-freegeoip.herokuapp.com
@@ -1124,6 +1125,7 @@ wren.condenastdigital.com
 ws.audioeye.com
 ws.sharethis.com
 wsmcdn.audioeye.com
+wt.viagogo.net
 wtbevents.pricespider.com
 x.babe.today
 x.disq.us
