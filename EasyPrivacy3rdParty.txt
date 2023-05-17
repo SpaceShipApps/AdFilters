@@ -441,6 +441,7 @@ fp-cdn.azureedge.net
 fresh.inlinkz.com
 frog.editorx.com
 fs-client-logger.herokuapp.com
+ftm.fluencyinc.co
 future-fie-assets.co.uk
 future-price.co.uk
 futurehybrid.tech
@@ -594,7 +595,6 @@ metrics.kmsmep.com
 metrics.mdstrm.com
 metrics.onshape.com
 metrics.pico.tools
-metrics.readme.io
 metrics.scribblelive.com
 metrics.userguiding.com
 metrix.emagister.com
@@ -649,7 +649,6 @@ perso.aws.arc.pub
 pets.channeladvisor.com
 pi.ispot.tv
 ping-admin.ru
-ping-dot-acp-magento.appspot.com
 ping.dozuki.com
 ping.instantsearchplus.com
 pings.conviva.com
@@ -664,7 +663,6 @@ pixel-a.basis.net
 pixel.ampry.com
 pixel.archipro.co.nz
 pixel.blivenyc.com
-pixel.cdnwidget.com
 pixel.condenastdigital.com
 pixel.inforsea.com
 pixel.lilystyle.ai
@@ -691,8 +689,6 @@ pm.boostintegrated.com
 porpoise.azettl.net
 pr.blogflux.com
 prd-collector-anon.ex.co
-prd-collector-anon.playbuzz.com
-prd-collector-auth.playbuzz.com
 prd-collector-platform.ex.co
 prf.vagnt.com
 prism.app-us1.com
@@ -732,11 +728,11 @@ reports-api.sqreen.io
 reports.pagesuite-professional.co.uk
 reports.sdiapi.com
 res.rbl.ms
-response.pure360.com
 rest.wildstar-online.com
 retargeting.newsmanapp.com
 rs.sinajs.cn
 rt.flix360.com
+rtc.multiscreensite.com
 rtxpx-a.akamaihd.net
 rum.azion.com
 rum.azioncdn.net
@@ -851,7 +847,6 @@ statsadv.dadapro.com
 statsapi.screen9.com
 statscollector-1.agora.io
 statscollector.sd-rtn.com
-statsd.zmags.com
 statt-collect.herokuapp.com
 stg-data-collector.playbuzz.com
 sts.eccmp.com
@@ -864,6 +859,7 @@ sync.adap.tv
 sync.outbrain.com
 t.91syun.com
 t.a3cloud.net
+t.adx.opera.com
 t.auditedmedia.org.au
 t.beop.io
 t.bimvid.com
@@ -894,6 +890,7 @@ tag.aticdn.net
 tag.atom.gamedistribution.com
 tag.aumago.com
 tag.brandcdn.com
+tag.digops.sincro.io
 tag.elevaate.io
 tag.flagship.io
 tag.imagino.com
@@ -914,7 +911,6 @@ tags.master-perf-tools.com
 tags.refinery89.com
 tagtracking.vibescm.com
 target.mixi.media
-tcheck.outbrainimg.com
 te.supportfreecontent.com
 telemetrics.klaviyo.com
 telemetry.phenixrts.com
@@ -976,16 +972,13 @@ track.uc.cn
 track.untd.com
 track.venatusmedia.com
 track.vscash.com
-track.wayin.com
 track.yfret.com
 track.yieldsoftware.com
 tracker-dot-optimeeze.appspot.com
-tracker.affiliate.iqoption.com
 tracker.affirm.com
 tracker.arc.io
 tracker.beezup.com
 tracker.cdnbye.com
-tracker.data-vp.com
 tracker.downdetector.com
 tracker.financialcontent.com
 tracker.gleanview.com
@@ -1024,7 +1017,6 @@ tracking.brandmentions.com
 tracking.buygoods.com
 tracking.cerdmann.com
 tracking.chilipiper.com
-tracking.customerly.io
 tracking.drsfostersmith.com
 tracking.drum.io
 tracking.dsmmadvantage.com
@@ -1041,7 +1033,6 @@ tracking.interweave.com
 tracking.jotform.com
 tracking.keywee.co
 tracking.leadlander.com
-tracking.legacyoffers.com
 tracking.lengow.com
 tracking.listhub.net
 tracking.livingsocial.com
@@ -1056,7 +1047,6 @@ tracking.practicefusion.com
 tracking.quillion.com
 tracking.quisma.com
 tracking.rapidape.com
-tracking.rightmessage.com
 tracking.scenepass.com
 tracking.searchmarketing.com
 tracking.sembox.it
@@ -1081,7 +1071,6 @@ trafficfuelpixel.s3-us-west-2.amazonaws.com
 trakksocial.googlecode.com
 trap.skype.com
 traxex.gannettdigital.com
-trc.pushnami.com
 trends.newsmaxwidget.com
 trib.al
 triggers.wfxtriggers.com
@@ -1104,7 +1093,6 @@ vercel-vitals.axiom.co
 video-ad-stats.googlesyndication.com
 videoevents.outbrain.com
 visit.webhosting.yahoo.com
-vmstats.varrando.com
 vortex.data.microsoft.com
 vst.sibnet.ru
 vstat.borderlessbd.com
@@ -1232,6 +1220,8 @@ d3l3lkinz3f56t.cloudfront.net
 d3m6sept6cnil5.cloudfront.net
 d3mskfhorhi2fb.cloudfront.net
 d3n6i6eorggdxk.cloudfront.net
+d3oodlxb1rw3kg.cloudfront.net
+d3pi0tys5sdysl.cloudfront.net
 d3plfjw9uod7ab.cloudfront.net
 d3q7vxy7usqoub.cloudfront.net
 d3qxwzhswv93jk.cloudfront.net
