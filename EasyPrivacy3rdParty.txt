@@ -79,7 +79,6 @@ analytics.groupe-seb.com
 analytics.growthphysics.com
 analytics.gvim.mobi
 analytics.humanautomation.ai
-analytics.inform.com
 analytics.iraiser.eu
 analytics.jst.ai
 analytics.kaltura.com
@@ -230,7 +229,6 @@ carl.pubsvs.com
 caspionlog.appspot.com
 cc.swiftype.com
 ccexperimentsstatic.oracleoutsourcing.com
-ccpa.psg.nexstardigital.net
 cdn-channels-pixel.ex.co
 cdn.trafficexchangelist.com
 cdn.usefathom.com
@@ -339,7 +337,6 @@ d.shareaholic.com
 d2wa5sea6guof0.cloudfront.net
 dadi.technology
 dash.getsitecontrol.com
-data.alexa.com
 data.circulate.com
 data.digitalks.az
 data.gosquared.com
@@ -558,7 +555,6 @@ log.reformal.ru
 log.seekda.com
 logger.snackly.co
 logging.carambo.la
-logging.cmp-resources.link
 logging.je-apps.com
 loggingapi.spingo.com
 loglady.skypicker.com
@@ -738,7 +734,6 @@ rum.azion.com
 rum.azioncdn.net
 rum.ingress.layer0.co
 rum.layer0.co
-rum.nccgroup-webperf.com
 rum.perfops.net
 rum.uptime.com
 rw.marchex.io
@@ -878,6 +873,7 @@ t.pointandplace.com
 t.powerreviews.com
 t.pswec.com
 t.raptorsmartadvisor.com
+t.rentcafe.com
 t.sharethis.com
 t.signalayer.com
 t.skimresources.com
@@ -1017,6 +1013,7 @@ tracking.brandmentions.com
 tracking.buygoods.com
 tracking.cerdmann.com
 tracking.chilipiper.com
+tracking.dealeranalytics.com
 tracking.drsfostersmith.com
 tracking.drum.io
 tracking.dsmmadvantage.com

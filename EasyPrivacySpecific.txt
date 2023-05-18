@@ -89,7 +89,6 @@ boomerang.dell.com
 c.fingerprint.com
 c.paypal.com
 c.wort-suche.com
-c.x.oanda.com
 c.xbox.com
 cl.canva.com
 clanker-events.squarespace.com
@@ -97,7 +96,6 @@ clarice.streema.com
 click.aliexpress.com
 click.nudevista.com
 click.sinx.com
-click.udimg.com
 client-log.box.com
 client-metrics.chess.com
 clp-mms.cloudpro.co.uk
@@ -120,7 +118,6 @@ collector.github.com
 collector.githubapp.com
 collector.megaxh.com
 collector.pi.spectrum.net
-collector.statowl.com
 collector.xhamster.com
 collector.xhamster.desi
 collector.xhamster2.com
@@ -145,9 +142,6 @@ dc.banggood.com
 dd.auspost.com.au
 dd.nytimes.com
 deliver.ptgncdn.com
-desa.fkapi.net
-desb.fkapi.net
-desr.fkapi.net
 discover-metrics.cloud.seek.com.au
 dp.shoprunner.com
 dtag.breadfinancial.com
@@ -158,7 +152,6 @@ eec.crunchyroll.com
 engagefront.meteomedia.com
 engagefront.theweathernetwork.com
 engine.traceparts.com
-enlightenment.secureshoppingbasket.com
 eproof.drudgereport.com
 error-collector.ted.com
 et.nytimes.com
@@ -267,6 +260,7 @@ ma.redhat.com
 marketing.alibaba.com
 mcc-tags.cisco.com
 mcs-va.tiktokv.com
+mcs.us.tiktokv.com
 metrics.audius.co
 metrics.bangbros.com
 metrics.freemake.com
@@ -281,7 +275,6 @@ miao.baidu.com
 midas.chase.com
 mixpanel-proxy.ted.com
 mktcs.cloudapps.cisco.com
-mms.cnn.com
 mon.us.tiktokv.com
 monitor.channel4.com
 mr.homedepot.ca
@@ -359,7 +352,6 @@ rv.modanisa.com
 s.infogram.com
 saa.insideedition.com
 search.anonymous.ads.brave.com
-servedby.o2.co.uk
 shopmetric.rediff.com
 sid.nordstrom.com
 slipstream.skyscanner.net
@@ -383,7 +375,6 @@ stat.vulkanvegas.com
 stategg.cdngeek.com
 stats.aerotime.aero
 stats.cardschat.com
-stats.clear-media.com
 stats.davidickedelivery.com
 stats.gateio.ch
 stats.hd24.watch
@@ -391,7 +382,6 @@ stats.ibtimes.co.in
 stats.ibtimes.sg
 stats.justpaste.it
 stats.newsweek.com
-stats.pandora.com
 stats.paste2.org
 stats.pstream.net
 stats.sandberg.world
@@ -464,7 +454,6 @@ tracker.affiliate.iqbroker.com
 tracker.nbcuas.com
 tracker.ranker.com
 tracker.shopclues.com
-tracker.uprinting.com
 tracking.carsales.com.au
 tracking.digitalocean.com
 tracking.engineering.cloud.seek.com.au
@@ -483,12 +472,10 @@ um.contentstudio.io
 umami.wakarimasen.moe
 urs.metacritic.com
 user-metrics.onthemarket.com
-userfly.com
 usmetric.rediff.com
 v.adblockultimate.net
 views.arabnews.com
 visit.theglobeandmail.com
-visitors.sourcingmap.com
 vortex.hulu.com
 w3-reporting.reddit.com
 wa.gmx.co.uk
@@ -496,7 +483,6 @@ wa.ui-portal.de
 wal.wolfram.com
 wc.yahoodns.net
 weblog.flyasiana.com
-weblog.strawberrynet.com
 wstats.e-wok.tv
 wtk.db.com
 xstats.evoload.io
