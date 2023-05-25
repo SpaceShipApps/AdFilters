@@ -169,6 +169,7 @@ events.api.godaddy.com
 events.framer.com
 events.mercadolibre.com
 events.practo.com
+events.prd.api.max.com
 events.privy.com
 events.reddit.com
 events.redditmedia.com
@@ -425,6 +426,7 @@ target.nejm.org
 targeting.washpost.nile.works
 td.airdroid.com
 ted.dailymail.co.uk
+telegraph.prd.api.max.com
 telem.sre.gopuff.com
 telemetry.adobe.io
 telemetry.api.playstation.com

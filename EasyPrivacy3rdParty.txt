@@ -371,6 +371,8 @@ ea.youmaker.com
 ec.walkme.com
 ecomm.events
 ecommstats.s3.amazonaws.com
+edge-hls.doppiocdn.com
+edge-hls.doppiocdn.org
 edge.bredg.com
 eel.transistor.fm
 ele26126.jscrambler.com
@@ -472,7 +474,6 @@ gsp1.baidu.com
 gtrk.s3.amazonaws.com
 gu-pix.appspot.com
 happen.spkt.io
-harpocrates.ethyca.com
 hb.vhsrv.com
 hello.staticstuff.net
 hi.hellobar.com
