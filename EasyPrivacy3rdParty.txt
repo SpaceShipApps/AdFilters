@@ -186,6 +186,7 @@ beacon.aimtell.com
 beacon.cdnma.com
 beacon.errorception.com
 beacon.flow.io
+beacon.klm.com
 beacon.riskified.com
 beacon.s.llnwi.net
 beacon.searchspring.io
