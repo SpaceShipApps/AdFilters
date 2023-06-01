@@ -43,7 +43,6 @@ analytics.aimtell.com
 analytics.algolia.com
 analytics.amakings.com
 analytics.apnewsregistry.com
-analytics.atomiconline.com
 analytics.audioeye.com
 analytics.avanser.com.au
 analytics.aweber.com
@@ -545,7 +544,6 @@ log.aimtell.com
 log.cookieyes.com
 log.go.com
 log.invodo.com
-log.kibboko.com
 log.mediacategory.com
 log.nordot.jp
 log.olark.com
@@ -568,7 +566,6 @@ logs.viadata.store
 lore.circulate.com
 lps.qantas.com
 lucid.mjhassoc.com
-m.addthisedge.com
 ma.logsss.com
 martech.condenastdigital.com
 mas.nth.ch
@@ -618,7 +615,6 @@ nojscontainer.pepperjam.com
 nol.yahoo.com
 nova.dice.net
 ns.rvmkitt.com
-o.addthis.com
 observer.ip-label.net
 octopart-analytics.com
 oda.markitondemand.com
@@ -848,7 +844,6 @@ statscollector.sd-rtn.com
 statt-collect.herokuapp.com
 stg-data-collector.playbuzz.com
 sts.eccmp.com
-su.addthis.com
 sunlightmetrics.b-cdn.net
 survey.interquest.com
 surveywall-api.survata.com
@@ -1306,7 +1301,6 @@ securitymetrics.com
 shield.sitelock.com
 shopperapproved.com
 siteintercept.allegiancetech.com
-siteintercept.qualtrics.com
 smart-widget-assets.ekomiapps.de
 trusted-web-seal.cybertrust.ne.jp
 verify.authorize.net

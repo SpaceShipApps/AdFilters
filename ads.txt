@@ -78,6 +78,10 @@ c3.myapkcdn.in
 54.222.186.106
 plugin.mobopay.baidu.com
 mo.freeindoapp.com
+hybird.rayjump.com
+anythinktech.com
+d3hdbjtb1686tn.cloudfront.net
+s.hisp.in
 toponadss.com
 adsassets.waze.com
 ads-resources.waze.com
