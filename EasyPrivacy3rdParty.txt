@@ -150,6 +150,7 @@ analytics.yolacdn.net
 analytics.ziftsolutions.com
 analytics1.vdo.ai
 analyticsehnwe.servicebus.windows.net
+analyticssec.overwolf.com
 analyze.full-marke.com
 ao-freegeoip.herokuapp.com
 aorta.clickagy.com
