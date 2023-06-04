@@ -341,6 +341,7 @@ dadi.technology
 dash.getsitecontrol.com
 data.circulate.com
 data.digitalks.az
+data.eetech.com
 data.gosquared.com
 data.imakenews.com
 data.minute.ly
@@ -377,6 +378,7 @@ eel.transistor.fm
 ele26126.jscrambler.com
 epl.paypal-communication.com
 eq.userneeds.com
+era.easyvoyage.com
 errors.snackly.co
 et.educationdynamics.com
 etl.springbot.com
@@ -1073,6 +1075,8 @@ trib.al
 triggers.wfxtriggers.com
 trk.clinch.co
 trk.techtarget.com
+trx-cdn.zip.co
+trx.zip.co
 try.abtasty.com
 ts.tradetracker.net
 ucounter.ucoz.net
