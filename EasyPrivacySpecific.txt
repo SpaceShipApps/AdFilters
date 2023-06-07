@@ -87,6 +87,7 @@ blitz-analytics-batch-server.blitz.gg
 boomerang.dell.com
 c.fingerprint.com
 c.paypal.com
+c.thredup.com
 c.wort-suche.com
 c.xbox.com
 cl.canva.com
@@ -146,6 +147,7 @@ dp.shoprunner.com
 dtag.breadfinancial.com
 dumpster.cam4.com
 ea.epochbase.com
+ec.thredup.com
 edge.staging.fullstory.com
 eec.crunchyroll.com
 engagefront.meteomedia.com
