@@ -16,7 +16,6 @@ newad.ifeng.com
 afreeca-tag.ad-mapps.com
 mtag.mman.kr
 etl.tindersparks.com
-d27tpsznug51gz.cloudfront.net
 sensors.larkplayerapp.com
 sensors.snaptubeapp.com
 log.kajicam.com
