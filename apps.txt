@@ -8,8 +8,6 @@ ads.aws.viber.com
 adcs.rqmob.com
 preitem.wshareit.com
 mobimagic.com
-adywind.com
-hasmobi.net
 api-a.op-mobile.opera.com
 promotion.polarisoffice.com
 newad.ifeng.com
