@@ -37,7 +37,6 @@ ad.flipboard.com
 adserver.shadow.snapads.com
 ads-chunks.prod.ihrhls.com
 api.ads.watchabc.go.com
-ad.prismamediadigital.com
 socdm.com
 criteo.com
 criteo.net
@@ -69,6 +68,10 @@ c3.myapkcdn.in
 54.222.186.106
 plugin.mobopay.baidu.com
 mo.freeindoapp.com
+reqde.afreecatv.com
+adballoon.afreecatv.com
+deapi.afreecatv.com
+mtag.mman.kr
 hybird.rayjump.com
 anythinktech.com
 d3hdbjtb1686tn.cloudfront.net
@@ -104,7 +107,6 @@ api-ad-adapter.wps.com
 nasimobi.com
 wd.adcolony.xyz
 im.ov.yahoo.co.jp
-sitewithg.me
 thecatmachine.com
 blueduckredapple.com
 cdn.mobilefuse.com
@@ -301,7 +303,6 @@ liftoff.io
 tapdaq-adverts.global.ssl.fastly.net
 rtb.appbid.com
 rtapi.abbi.io
-online-prod.zenmxapps.com
 look.kfiopkln.com
 adplex.co.kr
 tveta.naver.net
@@ -455,7 +456,6 @@ ad.madvertise.de
 ad.ohmyad.co
 ad.smaad.jp
 ad.vrvm.com
-ad132m.com
 ad6media.fr
 adadvisor.net
 adback.tango.me
@@ -545,9 +545,7 @@ adzerk.net
 adzmobi.com
 am15.net
 amobee.com
-api.appfireworks.com
 api.fusepowered.com
-api.kiip.me
 api.usebutton.com
 appclick.co
 appclick.net
@@ -566,7 +564,6 @@ assoc-amazon.com
 astrsk.net
 atti.com
 axonix.com
-b.cpiera.com
 bannerflow.com
 banners.etermax.com
 bannersnack.com
@@ -594,7 +591,6 @@ cashprom.ru
 castplatform.com
 cdn-image.com
 cdn.ads.fotoable.net
-cdn.cpiera.com
 cell.zhybzp.cn
 celtra.com
 ceppartner.com
@@ -603,7 +599,6 @@ chango.com
 chartboost.com
 clk.taptica.com
 clkfeed.com
-cntcash.ru
 comscore.com
 config.tremorhub.com
 content.ad
@@ -638,10 +633,8 @@ friendlyduck.com
 fyber.com
 g.doubleclick.net
 geede.info
-gigamega.su
 go.mobstitialtag.com
 googleadservices.com
-gsmtop.net
 gts-ads.twistbox.com
 gumgum.com
 ha-api.pushwoosh.com

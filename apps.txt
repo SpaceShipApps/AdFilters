@@ -11,8 +11,6 @@ mobimagic.com
 api-a.op-mobile.opera.com
 promotion.polarisoffice.com
 newad.ifeng.com
-afreeca-tag.ad-mapps.com
-mtag.mman.kr
 etl.tindersparks.com
 sensors.larkplayerapp.com
 sensors.snaptubeapp.com
