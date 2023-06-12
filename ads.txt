@@ -15,7 +15,6 @@ apis.appnxt.net
 banners-slb.mobile.yandex.net
 banners.mobile.yandex.net
 app.ssp.yahoo.com
-ads.go2reach.com
 mimicromax.com
 bi.yeshen.com
 launcher.us.yeshen.com
