@@ -429,7 +429,6 @@ setting.rayjump.com
 net.rayjump.com
 ad.cauly.co.kr
 config.appjolt.com
-rtb.platform.glispa.com
 adflake.com
 ads.aitype.net
 ad-creatives-public.commondatastorage.googleapis.com
@@ -449,7 +448,6 @@ ad.apsalar.com
 ad.doubleclick.net
 ad.jorte.com
 ad.leadboltapps.net
-ad.madvertise.de
 ad.ohmyad.co
 ad.smaad.jp
 ad.vrvm.com
@@ -481,7 +479,6 @@ admarketing.yahoo.net
 admarvel.s3.amazonaws.com
 admedia.com
 admicro1.vcmedia.vn
-admicro2.vcmedia.vn
 admixer.co.kr
 admixer.net
 admulti.com
@@ -493,17 +490,13 @@ adproxy.tf1.fr
 adpublisher.s3.amazonaws.com
 adquota.com
 ads.ad2iction.com
-ads.admoda.com
 ads.aerserv.com
-ads.fotoable.com
 ads.mobilefuse.net
 ads.mobilityware.com
 ads.mobvertising.net
 ads.mopub.com
-ads.ookla.com
 ads.pdbarea.com
 ads.pinger.com
-ads.reward.rakuten.jp
 ads.taptapnetworks.com
 ads.xlxtra.com
 ads.youtube.com
@@ -673,7 +666,6 @@ mads.bz
 manage.com
 mbn.com.ua
 mdotm.com
-media.motrixi.com
 medialand.ru
 meendocash.com
 metamx.com
@@ -681,10 +673,7 @@ mgage.com
 mi.gdt.qq.com
 mixadvert.com
 mixmarket.biz
-mmnetwork.mobi
-mob.huimee.net
 moba8.net
-mobad.ijinshan.com
 mobads.baidu.com
 mobads4app.com
 mobclix.com
@@ -692,7 +681,6 @@ mobfox.com
 mobiads.ru
 mobile-click.biz
 mobile333.com
-mobileads.msn.com
 mobilecore.com
 mobiledl.adboe.com
 mobon.com
@@ -752,11 +740,8 @@ sharethrough.com
 silvermob.com
 i.singular.net
 sdk-api-v1.singular.net
-t.singular.net
 skadnetwork.singular.net
-view-prod.ad.singular.net
 sitescout.com
-slb.gedawang.com
 smaclick.com
 smartadserver.com
 sonobi.com
@@ -785,7 +770,6 @@ tonefuse.com
 tpc.googlesyndication.com
 track.cpatool.net
 trackimpression.com
-tracking.acekoala.com
 tracking.applift.com
 tradeadexchange.com
 traff10wap.com
@@ -800,7 +784,6 @@ u-ad.info
 ultraadserver.com
 umbel.com
 unicume.com
-update.sdk.batmobi.net
 upsight.com
 usekahuna.com
 velti.com
@@ -831,5 +814,4 @@ recreativ.ru
 deloton.com
 oclasrv.com
 n152adserv.com
-rg.yottos.com
 smilered.com
