@@ -703,7 +703,6 @@ ptracker.nurturehq.com
 ptsc.shoplocal.com
 pub.sheknows.com
 pubgw.yahoo.com
-pv.pjtsu.com
 px.marchex.io
 px.mountain.com
 px.owneriq.net
@@ -906,7 +905,6 @@ tagger.opecloud.com
 tags.catapultx.com
 tags.cdn.circlesix.co
 tags.clickagy.com
-tags.creativille.co.uk
 tags.fullcontact.com
 tags.master-perf-tools.com
 tags.refinery89.com
@@ -1272,8 +1270,10 @@ local.computer
 local.qinlili.bid
 local.sisteminha.com
 localho.st
+localhost.direct
 localtest.me
 lvh.me
+netfinity.hostedrmm.com
 nip.io
 ssh.town
 supercalifragilisticexpialidocious.co.uk
