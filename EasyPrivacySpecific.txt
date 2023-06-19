@@ -217,6 +217,7 @@ iam-rum-intake.datadoghq.com
 iedc.fitbit.com
 ih.newegg.com
 indmetric.rediff.com
+ingest.make.rvohealth.com
 ingress.linktr.ee
 intent.cmo.com.au
 intent.goodgearguide.com.au
@@ -303,6 +304,7 @@ pixel.archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion
 pixel.convertize.io
 pixel.facebook.com
 pixel.honestjohn.co.uk
+pixel.ionos.com
 pixel.nine.com.au
 pixel.tuko.co.ke
 pixelzirkus.gameforge.com
@@ -344,6 +346,7 @@ rum.api.intuit.com
 rum.condenastdigital.com
 rum.kobo.com
 rv.modanisa.com
+rvo-cohesion.healthline.com
 s.infogram.com
 saa.insideedition.com
 search.anonymous.ads.brave.com
