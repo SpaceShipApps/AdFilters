@@ -88,7 +88,6 @@ ad.simpledesign.ltd
 ads-sdk.mattel163.com
 bdapi-ads.realmemobile.com
 adsfs.oppomobile.com
-ads.oppomobile.com
 offerwall.yandex.net
 adsmrapi.imbc.com
 ads.imbc.com
@@ -117,7 +116,6 @@ blueduckredapple.com
 cdn.mobilefuse.com
 api-ad-callback.mobiuspace.net
 hb.rayjump.com
-ad.snaptube.app
 gdl.i9dhjx.ru
 mobidriven.com
 liftoff-creatives.io
@@ -142,12 +140,10 @@ adx-dre.op.hicloud.com
 amanad.adtdp.com
 ad.sxp.smartclip.net
 amazonclix.com
-a.4b10e98c641a81c5b43bf484d3d77057505e8229a71e12b491d30c9b.com
 api.itpub.cloud
 adv-front.devpnd.com
 mintegral.com
 x-eu.64e98469810bd13e2b45e52d19d6fddfe333b3528350d8cfa792d478.com
-a.471cc486764581c9508c0c803356a704c27ac3e37c1223a84557c58c.com
 skadsdk.appsflyer.com
 alt-ad.mail.ru
 chavoads.com
@@ -245,7 +241,6 @@ gateway.ttpsdk.info
 promo-images.ttpsdk.info
 s3.ttpsdk.info
 api.applovefrom.com
-api.adnet.mob.com
 iam.datasavannah.com
 yovoads.com
 restartad.com
@@ -258,8 +253,6 @@ mcoreads.com
 onlineapi.youappi.com
 ssp.otm-r.com
 networksdk.ssacdn.com
-config.88-f.net
-cdn.88-f.net
 ms.applvn.com
 tapsell.ir
 jioads.akamaized.net
@@ -276,7 +269,6 @@ data-optout-service.uca.cloud.unity3d.com
 thind-gke-euw.prd.data.corp.unity3d.com
 unityads.unity3d.com
 gop1.co
-adpriv.nikkei.com
 nkis.nikkei.com
 gameanalysis.appcpi.net
 ads.bulldogcpi.com
@@ -292,7 +284,6 @@ promoted.soundcloud.com
 activity.browser.intl.miui.com
 api.brs.intl.miui.com
 api.newsfeed.intl.miui.com
-mp.huangye.miui.com
 adv.sec.intl.miui.com
 adsrvr.io
 t7z.cupid.iqiyi.com
@@ -311,7 +302,6 @@ adplex.co.kr
 tveta.naver.net
 deliveryengine.adswizz.com
 sitemaji.com
-h5.wannaplay.cn
 adsapi.manhuaren.com
 euadsapi.manhuaren.com
 msg.ettoday.net

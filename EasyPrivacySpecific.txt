@@ -348,6 +348,7 @@ rum.kobo.com
 rv.modanisa.com
 rvo-cohesion.healthline.com
 s.infogram.com
+s.wayfair.com
 saa.insideedition.com
 search.anonymous.ads.brave.com
 shopmetric.rediff.com

@@ -4,7 +4,6 @@ startup-mobile.ap.yandex-net.ru
 adcenter-api.cashwalk.co
 ads.viber.com
 ads-d.viber.com
-ads.aws.viber.com
 adcs.rqmob.com
 preitem.wshareit.com
 mobimagic.com
@@ -13,5 +12,4 @@ promotion.polarisoffice.com
 newad.ifeng.com
 etl.tindersparks.com
 sensors.larkplayerapp.com
-sensors.snaptubeapp.com
 log.kajicam.com
