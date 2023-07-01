@@ -281,6 +281,7 @@ collector.getyourguide.com
 collector.mazeberry.com
 collector.sspinc.io
 collector5.zipy.ai
+collectorsvc.apac.vesta.io
 commerce.bing.com
 comms.thewhiskyexchange.com
 confiant-integrations.global.ssl.fastly.net
@@ -362,6 +363,7 @@ dfanalytics.dealerfire.com
 dgcollector.evidon.com
 diagnose.igstatic.com
 dig.ultimedia.com
+direct-collect.dy-api.com
 direct-events-collector.spot.im
 distillery.wistia.com
 dl.episerver.net
@@ -604,6 +606,7 @@ metrix.emagister.com
 mlweb.dmlab.hu
 mmi.bemobile.ua
 mon.domdog.io
+monitor-frontend-collector.a.bybit-aws.com
 monitor.azure.com
 monitoring.iraiser.eu
 monorail-edge.shopifysvc.com
@@ -1109,6 +1112,8 @@ webcare.byside.com
 websdk.appsflyer.com
 webservices.websitepros.com
 webstats.thaindian.com
+webtrack.chd01.com
+webtrack.savoysystems.co.uk
 webtracker.apicasystem.com
 widget-pixels.outbrain.com
 win.staticstuff.net
