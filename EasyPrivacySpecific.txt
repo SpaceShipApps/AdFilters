@@ -28,6 +28,7 @@ analytics.adfreetime.com
 analytics.archive.org
 analytics.brave.com
 analytics.chase.com
+analytics.cookiefirst.dev
 analytics.designspiration.com
 analytics.faceitanalytics.com
 analytics.footballdb.com
@@ -48,7 +49,6 @@ analytics.plex.tv
 analytics.productreview.com.au
 analytics.realestate.com.au
 analytics.send.cm
-analytics.similarweb.com
 analytics.slashdotmedia.com
 analytics.synchrony.com
 analytics.synedat.com
@@ -179,6 +179,7 @@ fathom.tdvm.net
 fdt.kraken.com
 firebaselogging.googleapis.com
 fp.measure.office.com
+fpa-cdn.adweek.com
 fpa-cdn.arstechnica.com
 fpa-cdn.decrypt.co
 fpa-events.decrypt.co

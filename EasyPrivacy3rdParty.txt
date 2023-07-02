@@ -49,6 +49,7 @@ analytics.aweber.com
 analytics.bestreviews.com
 analytics.bitrix.info
 analytics.carambo.la
+analytics.carbaselive.com
 analytics.chegg.com
 analytics.cincopa.com
 analytics.cloud.coveo.com
@@ -157,7 +158,6 @@ ao-freegeoip.herokuapp.com
 aorta.clickagy.com
 ape-tagit.timeinc.net
 api.autopilothq.com
-api.carrottrack.io
 api.wipmania.com
 app.adjust.com
 apple.www.letv.com
