@@ -581,7 +581,6 @@ clk.taptica.com
 clkfeed.com
 comscore.com
 config.tremorhub.com
-content.ad
 cp.pushwoosh.com
 cpmstar.com
 crispadvertising.com
