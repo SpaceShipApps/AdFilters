@@ -70,6 +70,7 @@ mo.freeindoapp.com
 reqde.afreecatv.com
 adballoon.afreecatv.com
 deapi.afreecatv.com
+mradx.net
 leadc6.icu
 pangolin16.sgsnssdk.com
 i18n-pglstatp.com

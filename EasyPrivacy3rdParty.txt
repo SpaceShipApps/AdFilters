@@ -73,6 +73,7 @@ analytics.favcy.com
 analytics.firespring.com
 analytics.foresee.com
 analytics.formstack.com
+analytics.google.com
 analytics.gooogol.com
 analytics.groupe-seb.com
 analytics.growthphysics.com
