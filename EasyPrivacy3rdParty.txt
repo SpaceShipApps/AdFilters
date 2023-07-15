@@ -8,7 +8,6 @@ a.getflowbox.com
 a.hcaptcha.com
 a.mobify.com
 aan.amazon.com
-actioniq.mr-in.com
 activity.wisepops.com
 ad-shield.io
 ad.aloodo.com
@@ -17,7 +16,6 @@ adlog.com.com
 ads-trk.vidible.tv
 affiliates.minglematch.com
 agent.contentsanalyst.com
-air.audioeye.com
 akatracking.esearchvision.com
 aktion.esprit-club.com
 alexandria.marfeelcdn.com
@@ -228,7 +226,6 @@ camel.headfarming.com
 capture-api.ap3prod.com
 capture.condenastdigital.com
 capture.trackjs.com
-carl.pubsvs.com
 caspionlog.appspot.com
 cc.swiftype.com
 ccexperimentsstatic.oracleoutsourcing.com
@@ -389,7 +386,6 @@ et.educationdynamics.com
 etl.springbot.com
 eu-mobile.events.data.microsoft.com
 ev.stellarlabs.ai
-event-api.contactatonce.co.uk
 event-api.contactatonce.com
 event-api.rdstation.com.br
 event-listener.air.tv
@@ -1084,6 +1080,7 @@ trends.newsmaxwidget.com
 trib.al
 triggers.wfxtriggers.com
 trk.clinch.co
+trk.storyly.io
 trk.techtarget.com
 trx-cdn.zip.co
 trx.zip.co
@@ -1151,9 +1148,7 @@ supportmetrics.apple.com
 tracking.miui.com
 trk.pinterest.com
 yandexadexchange.net
-d10gj7yjsfriaj.cloudfront.net
 d10lpsik1i8c69.cloudfront.net
-d11a2fzhgzqe7i.cloudfront.net
 d11bdev7tcn7wh.cloudfront.net
 d15kdaxu5c0hfw.cloudfront.net
 d169bbxks24g2u.cloudfront.net
@@ -1177,7 +1172,6 @@ d1r55yzuc1b1bw.cloudfront.net
 d1rgnfh960lz2b.cloudfront.net
 d1ros97qkrwjf5.cloudfront.net
 d1t9uctetvi0tu.cloudfront.net
-d1uanozc5el74n.cloudfront.net
 d1wix2gc2cgqis.cloudfront.net
 d1xfq2052q7thw.cloudfront.net
 d1yu67rmchodpo.cloudfront.net
@@ -1188,11 +1182,9 @@ d21o24qxwf7uku.cloudfront.net
 d21y75miwcfqoq.cloudfront.net
 d22v2nmahyeg2a.cloudfront.net
 d23p9gffjvre9v.cloudfront.net
-d23pi6hvdpcc5i.cloudfront.net
 d241ujsiy3yht0.cloudfront.net
 d24cze5sab2jwg.cloudfront.net
 d24rtvkqjwgutp.cloudfront.net
-d25ezbwokoefx6.cloudfront.net
 d28g9g3vb08y70.cloudfront.net
 d2cpw6kwpff7n5.cloudfront.net
 d2ef20sk9hi1u3.cloudfront.net
@@ -1207,13 +1199,9 @@ d2nxi61n77zqpl.cloudfront.net
 d2o67tzzxkqap2.cloudfront.net
 d2oh4tlt9mrke9.cloudfront.net
 d2rnkf2kqy5m6h.cloudfront.net
-d2san7t27xb2pn.cloudfront.net
 d2t77mnxyo7adj.cloudfront.net
-d2tcg4i9q4js4a.cloudfront.net
 d2tgfbvjf3q6hn.cloudfront.net
 d2wu036mkcz52n.cloudfront.net
-d2zjlj1vewrxcj.cloudfront.net
-d31qbv1cthcecs.cloudfront.net
 d31y97ze264gaa.cloudfront.net
 d34ko97cxuv4p7.cloudfront.net
 d34qb8suadcc4g.cloudfront.net
@@ -1235,8 +1223,6 @@ d3n6i6eorggdxk.cloudfront.net
 d3oodlxb1rw3kg.cloudfront.net
 d3pi0tys5sdysl.cloudfront.net
 d3plfjw9uod7ab.cloudfront.net
-d3q7vxy7usqoub.cloudfront.net
-d3qxwzhswv93jk.cloudfront.net
 d3qztsm17pgxue.cloudfront.net
 d3r7h55ola878c.cloudfront.net
 d3s7ggfq1s6jlj.cloudfront.net
@@ -1244,7 +1230,6 @@ d3sbxpiag177w8.cloudfront.net
 d3tglifpd8whs6.cloudfront.net
 d3uvwl4wtkgzo1.cloudfront.net
 d4ax0r5detcsu.cloudfront.net
-d6jkenny8w8yo.cloudfront.net
 d761erxl2qywg.cloudfront.net
 d81mfvml8p5ml.cloudfront.net
 danv01ao0kdr2.cloudfront.net
@@ -1267,7 +1252,6 @@ dsbahmgppc0j4.cloudfront.net
 du4rq1xqh3i1k.cloudfront.net
 du8783wkf05yr.cloudfront.net
 duu8lzqdm8tsz.cloudfront.net
-dxwgpw0lkcum5.cloudfront.net
 dy2xcjk8s1dbz.cloudfront.net
 dyv1bugovvq1g.cloudfront.net
 !cefgo.com
