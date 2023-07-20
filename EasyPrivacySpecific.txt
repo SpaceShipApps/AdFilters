@@ -311,6 +311,7 @@ plausible.safing.io
 player-telemetry.vimeo.com
 plenty.vidio.com
 pm.dailykos.com
+pm.geniusmonkey.com
 prairiedog.hashnode.com
 privacy-api.9gag.com
 privacyfriendly.netlify.app
@@ -416,6 +417,7 @@ tao.barstoolsports.com
 target.nationwide.com
 target.nejm.org
 targeting.washpost.nile.works
+tc.geniusmonkey.com
 td.airdroid.com
 ted.dailymail.co.uk
 telegraph.prd.api.max.com
@@ -425,6 +427,7 @@ telemetry.api.playstation.com
 telemetry.firez.one
 telemetry.tradingview.com
 tgt.maep.ibm.com
+thtk.temu.com
 tilanalytics.timesinternet.in
 tms.eharmony.ca
 tms.hft.everyplate.com
