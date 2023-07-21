@@ -37,6 +37,7 @@ analytics.getshogun.com
 analytics.global.sky.com
 analytics.hashnode.com
 analytics.kaggle.io
+analytics.kooapp.com
 analytics.makeitmeme.com
 analytics.ml.homedepot.ca
 analytics.mouthshut.com
@@ -175,6 +176,7 @@ fathom.status.im
 fathom.tdvm.net
 fdt.kraken.com
 firebaselogging.googleapis.com
+fp.heavybit.com
 fp.measure.office.com
 fpa-cdn.adweek.com
 fpa-cdn.arstechnica.com
@@ -290,6 +292,7 @@ pac.thesun.co.uk
 pappagallu.onefootball.com
 perf.mouser.com
 pf.newegg.com
+ph.thenextweb.com
 ping.hungama.com
 pingback.giphy.com
 pingback.issuu.com
