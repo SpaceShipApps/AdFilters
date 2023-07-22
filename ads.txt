@@ -70,7 +70,6 @@ mo.freeindoapp.com
 reqde.afreecatv.com
 adballoon.afreecatv.com
 deapi.afreecatv.com
-frontman.tmobiapi.com
 naverpa-phinf.pstatic.net
 tivan.naver.com
 veta.naver.com
@@ -261,7 +260,6 @@ mcoreads.com
 onlineapi.youappi.com
 ssp.otm-r.com
 networksdk.ssacdn.com
-ms.applvn.com
 tapsell.ir
 jioads.akamaized.net
 ajdivotdelbloab24.jio.com

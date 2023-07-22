@@ -60,6 +60,7 @@ analytics.yugen.to
 analytics4.dashboard.fingerprint.com
 anon-stats.eff.org
 api-js.mixpanel.com
+api.privacyguides.net
 appanalysis.banggood.com
 assets.instacart.com
 atrack.allposters.com
