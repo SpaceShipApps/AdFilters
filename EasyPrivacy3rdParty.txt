@@ -434,7 +434,6 @@ f-log-at.grammarly.io
 f-log-test.grammarly.io
 fcmatch.google.com
 fcmatch.youtube.com
-fennec.atp.fox
 filament-stats.herokuapp.com
 fingerprinter-production.herokuapp.com
 firebaselogging-pa.googleapis.com
@@ -512,7 +511,6 @@ intake-analytics.wikimedia.org
 invite.leanlab.co
 invitejs.trustpilot.com
 ip.lovely-app.com
-ipapi.tmbi.com
 iq.sixaxisllc.com
 jas.indeednps.com
 javascriptcounter.appspot.com
@@ -523,7 +521,6 @@ k.streamrail.com
 kalstats.kaltura.com
 kiwi.mdldb.net
 klarnaservices.com
-klm-ea.jscrambler.com
 l.fairblocker.com
 l.ooyala.com
 l.player.ooyala.com
@@ -571,7 +568,6 @@ logs.datadoghq.com
 logs.spilgames.com
 logs.thebloggernetwork.com
 logs.viadata.store
-lore.circulate.com
 lps.qantas.com
 lucid.mjhassoc.com
 ma.logsss.com
@@ -702,6 +698,7 @@ prism.app-us1.com
 privacy.outdoorsg.com
 processor.asccommunications.com
 prod.ew.srp.navigacloud.com
+prod.fennec.atp.fox
 proxy.dzeio.com
 pt.crossmediaservices.com
 pt.ispot.tv
@@ -825,7 +822,6 @@ stats.ksearchnet.com
 stats.lotlinx.com
 stats.mituyu.com
 stats.mpthemes.net
-stats.myangular.life
 stats.nebula.fi
 stats.netbopdev.co.uk
 stats.olark.com
@@ -1105,7 +1101,6 @@ vdrn.redplum.com
 vercel-vitals.axiom.co
 video-ad-stats.googlesyndication.com
 videoevents.outbrain.com
-visit.webhosting.yahoo.com
 vortex.data.microsoft.com
 vst.sibnet.ru
 vstat.borderlessbd.com
