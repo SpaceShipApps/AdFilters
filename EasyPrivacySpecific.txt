@@ -65,6 +65,7 @@ appanalysis.banggood.com
 assets.instacart.com
 atrack.allposters.com
 ats.alot.com
+aurum.tirto.id
 bat.maydream.com
 bats.video.yahoo.com
 beacon.dropbox.com
@@ -374,6 +375,7 @@ stat.turb.pw
 stat.vulkanvegas.com
 stategg.cdngeek.com
 stats.aerotime.aero
+stats.calcalist.co.il
 stats.davidickedelivery.com
 stats.gateio.ch
 stats.hd24.watch
@@ -466,6 +468,7 @@ tracking.unrealengine.com
 trackr.vivenu.com
 treatment.grammarly.com
 tredir.go.com
+trk.tirto.id
 trx3.famousfix.com
 ts.delfi.lt
 ua.indianexpress.com
