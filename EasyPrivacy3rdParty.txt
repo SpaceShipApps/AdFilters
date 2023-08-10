@@ -15,7 +15,6 @@ adfox.yandex.ru
 adlog.com.com
 ads-trk.vidible.tv
 affiliates.minglematch.com
-agent.contentsanalyst.com
 akatracking.esearchvision.com
 aktion.esprit-club.com
 alexandria.marfeelcdn.com
@@ -119,7 +118,6 @@ analytics.sitewit.com
 analytics.sleeknote.com
 analytics.snidigital.com
 analytics.springboardvideo.com
-analytics.staticiv.com
 analytics.stg.springboardvideo.com
 analytics.strangeloopnetworks.com
 analytics.superstructure.ai
@@ -244,7 +242,6 @@ click.appinthestore.com
 click360v2-ingest.azurewebsites.net
 clicks.dealer.com
 clicks.tyuwq.com
-clicktale.pantherssl.com
 clickthru.lefbc.com
 clicktime.symantec.com
 clicktracker.iscan.nl
@@ -1055,7 +1052,6 @@ tracking.pacharge.com
 tracking.plattformad.com
 tracking.plinga.de
 tracking.practicefusion.com
-tracking.quillion.com
 tracking.quisma.com
 tracking.rapidape.com
 tracking.scenepass.com
