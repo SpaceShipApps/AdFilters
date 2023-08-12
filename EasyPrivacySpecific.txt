@@ -148,6 +148,7 @@ engagefront.theweathernetwork.com
 engine.traceparts.com
 eproof.drudgereport.com
 error-collector.ted.com
+errorreports.couponcabin.com
 et.nytimes.com
 et.tidal.com
 etui.fs.ml.com
@@ -354,6 +355,7 @@ search.anonymous.ads.brave.com
 shopmetric.rediff.com
 sid.nordstrom.com
 slipstream.skyscanner.net
+smetrics.couponcabin.com
 smetrics.ralphlauren.com
 soundcloud.com$ping
 sp.cargurus.co.uk

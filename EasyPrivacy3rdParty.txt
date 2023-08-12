@@ -336,6 +336,7 @@ customfingerprints.bablosoft.com
 cws.conviva.com
 d.rcmd.jp
 d.shareaholic.com
+d1tbj6eaenapdy.cloudfront.net
 d2wa5sea6guof0.cloudfront.net
 dadi.technology
 dash.getsitecontrol.com
