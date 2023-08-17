@@ -1,6 +1,3 @@
-startup.mobile.yandex.net
-startup.mobile.webvisor.com
-startup-mobile.ap.yandex-net.ru
 adcenter-api.cashwalk.co
 ads.viber.com
 ads-d.viber.com
