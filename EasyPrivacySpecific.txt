@@ -311,6 +311,7 @@ pixiedust.buzzfeed.com
 plausible.bots.gg
 plausible.dragonfru.it
 plausible.omgapi.org
+plausible.ripped.guide
 plausible.safing.io
 player-telemetry.vimeo.com
 plenty.vidio.com

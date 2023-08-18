@@ -14,6 +14,7 @@ ad.aloodo.com
 adfox.yandex.ru
 adlog.com.com
 ads-trk.vidible.tv
+adsolutions.com
 affiliates.minglematch.com
 akatracking.esearchvision.com
 aktion.esprit-club.com
@@ -1176,6 +1177,7 @@ d1r55yzuc1b1bw.cloudfront.net
 d1rgnfh960lz2b.cloudfront.net
 d1ros97qkrwjf5.cloudfront.net
 d1t9uctetvi0tu.cloudfront.net
+d1vg5xiq7qffdj.cloudfront.net
 d1wix2gc2cgqis.cloudfront.net
 d1xfq2052q7thw.cloudfront.net
 d1yu67rmchodpo.cloudfront.net
