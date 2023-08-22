@@ -709,7 +709,6 @@ pt.ispot.tv
 ptracker.nurturehq.com
 ptsc.shoplocal.com
 pub.sheknows.com
-pubgw.yahoo.com
 px.marchex.io
 px.mountain.com
 px.owneriq.net
@@ -1171,6 +1170,7 @@ d1gp8joe0evc8s.cloudfront.net
 d1k8sb4xbepqao.cloudfront.net
 d1m6l9dfulcyw7.cloudfront.net
 d1n00d49gkbray.cloudfront.net
+d1qnmu4nrib73p.cloudfront.net
 d1qpxk1wfeh8v1.cloudfront.net
 d1r27qvpjiaqj3.cloudfront.net
 d1r2sy6oc0ariq.cloudfront.net
