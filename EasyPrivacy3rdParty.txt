@@ -419,7 +419,6 @@ events.matterport.com
 events.medio.com
 events.missena.io
 events.ocdn.eu
-events.qortex.ai
 events.realgravity.com
 events.shareably.net
 events.splash-screen.net
