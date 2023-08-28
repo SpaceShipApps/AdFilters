@@ -79,6 +79,7 @@ analytics.growthphysics.com
 analytics.gvim.mobi
 analytics.humanautomation.ai
 analytics.iraiser.eu
+analytics.jazel.net
 analytics.jst.ai
 analytics.kaltura.com
 analytics.kapost.com
@@ -519,6 +520,7 @@ jas.indeednps.com
 javascriptcounter.appspot.com
 jill.fc.yahoo.com
 jly24aw29n5m-a.akamaihd.net
+jtracking-gate.lulusoft.com
 k.keyade.com
 k.streamrail.com
 kalstats.kaltura.com
@@ -611,6 +613,7 @@ monitoring.iraiser.eu
 monorail-edge.shopifysvc.com
 mormont.gamer-network.net
 ms-trackingapi.phenompeople.com
+msadsscale.azureedge.net
 mts.mansion.com
 munchkin.marketo.net
 mv.treehousei.com
