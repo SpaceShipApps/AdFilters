@@ -117,6 +117,7 @@ analytics.reyrey.net
 analytics.rogersmedia.com
 analytics.salesanalytics.io
 analytics.shareaholic.com
+analytics.shorte.st
 analytics.sitewit.com
 analytics.sleeknote.com
 analytics.snidigital.com
@@ -369,6 +370,7 @@ direct-collect.dy-api.eu
 direct-events-collector.spot.im
 distillery.wistia.com
 dl.episerver.net
+doppler-beacon.cbsivideo.com
 doppler-beacons.cbsivideo.com
 doppler-reporting.cbsivideo.com
 dotaudiences.com
@@ -422,6 +424,7 @@ events.matterport.com
 events.medio.com
 events.missena.io
 events.ocdn.eu
+events.paramount.tech
 events.realgravity.com
 events.shareably.net
 events.splash-screen.net
@@ -735,6 +738,7 @@ reporting-api.gannettinnovation.com
 reporting.cdndex.io
 reporting.singlefeed.com
 reports-api.sqreen.io
+reports.hibu.com
 reports.pagesuite-professional.co.uk
 reports.sdiapi.com
 res.rbl.ms
