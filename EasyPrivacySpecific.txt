@@ -239,6 +239,7 @@ j927.statnews.com
 jfapiprod.optimonk.com
 jumbo.zomato.com
 lexa.realestate.com.au
+librato-collector.genius.com
 link.kogan.com
 link2.strawberrynet.com
 links.strava.com
@@ -491,6 +492,7 @@ wa.gmx.co.uk
 wal.wolfram.com
 wc.yahoodns.net
 weblog.flyasiana.com
+wh.ipaddress.com
 wstats.e-wok.tv
 z.cdp-dev.cnn.com
 z737.thestar.com
