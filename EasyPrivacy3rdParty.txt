@@ -1110,6 +1110,7 @@ user.userguiding.com
 userexperience.thehut.net
 usersegment.wpdigital.net
 v.shopify.com
+validate.onecount.net
 vdrn.redplum.com
 vercel-vitals.axiom.co
 video-ad-stats.googlesyndication.com

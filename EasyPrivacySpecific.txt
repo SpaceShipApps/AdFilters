@@ -238,7 +238,6 @@ ivx.lacompagnie.com
 j927.statnews.com
 jfapiprod.optimonk.com
 jumbo.zomato.com
-lexa.realestate.com.au
 librato-collector.genius.com
 link.kogan.com
 link2.strawberrynet.com
@@ -293,6 +292,7 @@ ophan.theguardian.com
 optimizely.techtarget.com
 p.fusevideo.net
 p.hentaiforce.net
+pac.thescottishsun.co.uk
 pac.thesun.co.uk
 pappagallu.onefootball.com
 perf.mouser.com
@@ -406,6 +406,7 @@ t.dailymail.co.uk
 t.freelancer.com
 t.imgur.com
 t.indeed.com
+t.ionos.com
 t.jossandmain.com
 t.kck.st
 t.nypost.com
@@ -438,6 +439,7 @@ telemetry.firez.one
 telemetry.tradingview.com
 tgt.maep.ibm.com
 thtk.temu.com
+tif.ionos.com
 tilanalytics.timesinternet.in
 tms.eharmony.ca
 tms.hft.everyplate.com
