@@ -65,6 +65,7 @@ assets.instacart.com
 atrack.allposters.com
 ats.alot.com
 aurum.tirto.id
+barnes.send.cm
 bat.maydream.com
 bats.video.yahoo.com
 beacon.dropbox.com
