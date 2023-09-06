@@ -197,7 +197,6 @@ ga.nsimg.net
 gak.webtoons.com
 gct.americanexpress.com
 geo.brobible.com
-geo.gfycat.com
 geo.nbcsports.com
 geo.yahoo.com
 geoip.boredpanda.com
@@ -381,6 +380,7 @@ stat.tildacdn.com
 stat.turb.pw
 stat.vulkanvegas.com
 stategg.cdngeek.com
+statistics.streamdav.com
 stats.aerotime.aero
 stats.calcalist.co.il
 stats.davidickedelivery.com
