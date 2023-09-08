@@ -238,6 +238,7 @@ ivx.lacompagnie.com
 j927.statnews.com
 jfapiprod.optimonk.com
 jumbo.zomato.com
+kinesis.us-east-1.analytics.edmentum.com
 librato-collector.genius.com
 link.kogan.com
 link2.strawberrynet.com
