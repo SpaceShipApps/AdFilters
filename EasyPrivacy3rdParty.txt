@@ -117,6 +117,7 @@ analytics.rogersmedia.com
 analytics.salesanalytics.io
 analytics.shareaholic.com
 analytics.shorte.st
+analytics.shorthand.com
 analytics.sitewit.com
 analytics.sleeknote.com
 analytics.snidigital.com
@@ -415,6 +416,7 @@ events.brightline.tv
 events.btw.so
 events.demoup.com
 events.devcycle.com
+events.elev.io
 events.flagship.io
 events.jokerly.com
 events.jotform.com
