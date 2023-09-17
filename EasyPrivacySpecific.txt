@@ -58,6 +58,7 @@ analytics.vedantu.com
 analytics.wavebox.io
 analytics.yugen.to
 anon-stats.eff.org
+api-hotmart-tracking-manager.hotmart.com
 api-js.mixpanel.com
 api.privacyguides.net
 appanalysis.banggood.com
