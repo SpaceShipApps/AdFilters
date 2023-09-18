@@ -7,6 +7,7 @@
 a.getflowbox.com
 a.hcaptcha.com
 a.mobify.com
+a.opumo.net
 aan.amazon.com
 activity.wisepops.com
 ad-shield.io
