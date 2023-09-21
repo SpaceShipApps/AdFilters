@@ -22,6 +22,7 @@ ampltd2.medal.tv
 analyselog.dx.com
 analytics-proxy.springboard.com
 analytics-tracking.meetup.com
+analytics-wcms.joins.net
 analytics-zone-1.api.leadfamly.com
 analytics.academy.com
 analytics.adfreetime.com
@@ -182,6 +183,7 @@ f362.nola.com
 fathom.app.silverbeak.com
 fathom.status.im
 fathom.tdvm.net
+fbo-statistics-collector-tc.is.flippingbook.com
 fdt.kraken.com
 firebaselogging.googleapis.com
 fp.heavybit.com
