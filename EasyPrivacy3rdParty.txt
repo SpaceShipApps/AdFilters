@@ -764,6 +764,7 @@ rum.ingress.layer0.co
 rum.layer0.co
 rum.perfops.net
 rum.uptime.com
+rumstat.cdnvideo.ru
 rw.marchex.io
 s.autopilotapp.com
 s.beop.io
@@ -850,6 +851,7 @@ stats.olark.com
 stats.ozwebsites.biz
 stats.phoenix-widget.com
 stats.polldaddy.com
+stats.prebytes.com
 stats.pusher.com
 stats.sa-as.com
 stats.sawlive.tv
