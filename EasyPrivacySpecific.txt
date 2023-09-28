@@ -341,6 +341,7 @@ px.srvcs.tumblr.com
 pxl.indeed.com
 qc.vogue.com
 qm.redbull.com
+r.apkpure.net
 r.bbci.co.uk
 rankhit.china.com
 ras.yahoo.com
