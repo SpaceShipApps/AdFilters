@@ -685,6 +685,7 @@ pixel-a.basis.net
 pixel.ampry.com
 pixel.archipro.co.nz
 pixel.blivenyc.com
+pixel.byspotify.com
 pixel.condenastdigital.com
 pixel.inforsea.com
 pixel.lilystyle.ai
@@ -966,6 +967,7 @@ tr.snapchat.com
 tr.vitals.co
 tr.webantenna.info
 traccoon.intellectsoft.net
+trace.swaven.com
 track-dark-bz.b-cdn.net
 track.360playvid.info
 track.91app.io
@@ -1112,6 +1114,7 @@ triggers.wfxtriggers.com
 trk.clinch.co
 trk.storyly.io
 trk.techtarget.com
+trk2-wtb.swaven.com
 trx-cdn.zip.co
 trx.zip.co
 try.abtasty.com
