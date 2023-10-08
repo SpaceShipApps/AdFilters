@@ -84,6 +84,7 @@ binocule21c.merriam-webster.com
 blitz-analytics-batch-server.blitz.gg
 boomerang.dell.com
 c.fingerprint.com
+c.newyorker.com
 c.paypal.com
 c.thredup.com
 c.vogue.com
@@ -341,6 +342,7 @@ pulse.delta.com
 pumpkin.abine.com
 px.srvcs.tumblr.com
 pxl.indeed.com
+qc.newyorker.com
 qc.vogue.com
 qm.redbull.com
 r.apkpure.net
