@@ -135,6 +135,7 @@ crta.metro.co.uk
 crumbs.robinhood.com
 cryo.socialblade.com
 cstats.sankakucomplex.com
+cwt.citywire.info
 d.skk.moe
 data.allstate.com
 data.guide.photobucket.com
@@ -416,6 +417,7 @@ stats.wwitv.com
 streamstats.prd.dlive.tv
 t.3hentai.net
 t.9gag.com
+t.airasia.com
 t.allmodern.com
 t.appsflyer.com
 t.av.st
@@ -483,6 +485,7 @@ tracker.affiliate.iqbroker.com
 tracker.nbcuas.com
 tracker.ranker.com
 tracker.shopclues.com
+tracking.bloomberg.com
 tracking.carsales.com.au
 tracking.christianpost.com
 tracking.digitalocean.com
