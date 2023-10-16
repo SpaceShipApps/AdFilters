@@ -62,6 +62,7 @@ analytics.dev.htmedia.in
 analytics.dev.springboardvideo.com
 analytics.developer.riotgames.com
 analytics.digitalpfizer.com
+analytics.disney.go.com
 analytics.disneyinternational.com
 analytics.dvidshub.net
 analytics.edgekey.net
@@ -254,6 +255,7 @@ clickthru.lefbc.com
 clicktime.symantec.com
 clicktracker.iscan.nl
 client-analytics.braintreegateway.com
+client-logger.beta.salemove.com
 client-logger.salemove.com
 client.tahono.com
 clouderrorreporting.googleapis.com
@@ -1043,6 +1045,7 @@ trackerapi.truste.com
 trackicollect.ibase.fr
 tracking-api-4lasu2nlcq-ew.a.run.app
 tracking-api.hotmart.com
+tracking-api.mangopulse.net
 tracking.adalyser.com
 tracking.ads.global-fashion-group.com
 tracking.aegpresents.com
@@ -1259,6 +1262,7 @@ d3iouejux1os58.cloudfront.net
 d3j1weegxvu8ns.cloudfront.net
 d3kyk5bao1crtw.cloudfront.net
 d3l3lkinz3f56t.cloudfront.net
+d3lqotgbn3npr.cloudfront.net
 d3m6sept6cnil5.cloudfront.net
 d3mskfhorhi2fb.cloudfront.net
 d3n6i6eorggdxk.cloudfront.net
@@ -1296,6 +1300,7 @@ du8783wkf05yr.cloudfront.net
 duu8lzqdm8tsz.cloudfront.net
 dy2xcjk8s1dbz.cloudfront.net
 dyv1bugovvq1g.cloudfront.net
+dzgwautxzdtn9.cloudfront.net
 !cefgo.com
 !domaincontrol.com
 !fbi.com

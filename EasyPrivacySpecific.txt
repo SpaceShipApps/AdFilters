@@ -365,6 +365,7 @@ rta.dailymail.co.uk
 rta2.inews.co.uk
 rta2.metro.co.uk
 rta2.newzit.com
+rtds.progressive.com
 rum.api.intuit.com
 rum.condenastdigital.com
 rum.kobo.com
