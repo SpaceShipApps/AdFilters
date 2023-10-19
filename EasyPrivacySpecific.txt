@@ -80,6 +80,7 @@ beacon.shutterfly.com
 beacon.walmart.com
 beacon.wikia-services.com
 bfp.capitalone.com
+bi.banggood.com
 binocule21c.merriam-webster.com
 blitz-analytics-batch-server.blitz.gg
 boomerang.dell.com
@@ -183,6 +184,7 @@ events.redditmedia.com
 events.santander.co.uk
 events.squarespace.com
 events.turbosquid.com
+events2.www.edenfantasys.com
 evs.sgmt.loom.com
 exr-mms.expertreviews.co.uk
 f362.nola.com
@@ -351,6 +353,7 @@ r.apkpure.net
 r.bbci.co.uk
 rankhit.china.com
 ras.yahoo.com
+rec.banggood.com
 relay.fiverr.com
 reports.tunein.com
 rfk.biglots.com
@@ -514,7 +517,11 @@ views.arabnews.com
 views.asura.gg
 vortex.hulu.com
 w3-reporting.reddit.com
+wa.childrensplace.com
 wa.gmx.co.uk
+wa.gymboree.com
+wa.pjplace.com
+wa.sugarandjade.com
 wal.wolfram.com
 wc.yahoodns.net
 weblog.flyasiana.com
