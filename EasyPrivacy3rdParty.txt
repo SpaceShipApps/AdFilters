@@ -642,6 +642,7 @@ noflake-aggregator-http.narvar.com
 nojscontainer.pepperjam.com
 nol.yahoo.com
 nova.dice.net
+nr.static.mmcdn.com
 ns.rvmkitt.com
 observer.ip-label.net
 octopart-analytics.com
@@ -1116,6 +1117,7 @@ traxex.gannettdigital.com
 trends.newsmaxwidget.com
 trib.al
 triggers.wfxtriggers.com
+triplewhale-pixel.web.app
 trk.clinch.co
 trk.storyly.io
 trk.techtarget.com
