@@ -777,6 +777,7 @@ s.clickiocdn.com
 s.logsss.com
 s.srvsynd.com
 sa.scorpion.co
+scoopy.cdn112.com
 scout.us2.salesloft.com
 scripts.psyma.com
 sd-tagging.azurefd.net
