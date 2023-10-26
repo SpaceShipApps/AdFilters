@@ -414,6 +414,7 @@ event.syndigo.cloud
 event.webcollage.net
 eventapi.libring.com
 eventgateway.soundcloud.com
+eventlog.chatlead.com
 eventlog.inspsearchapi.com
 events.air.tv
 events.apester.com
