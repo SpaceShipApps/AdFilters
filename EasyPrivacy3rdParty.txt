@@ -252,6 +252,7 @@ click.appinthestore.com
 click360v2-ingest.azurewebsites.net
 clicks.dealer.com
 clicks.tyuwq.com
+clicktalecdn.sslcs.cdngc.net
 clickthru.lefbc.com
 clicktime.symantec.com
 clicktracker.iscan.nl
@@ -861,6 +862,7 @@ stats.mituyu.com
 stats.mpthemes.net
 stats.nebula.fi
 stats.netbopdev.co.uk
+stats.netdriven.com
 stats.olark.com
 stats.ozwebsites.biz
 stats.phoenix-widget.com
