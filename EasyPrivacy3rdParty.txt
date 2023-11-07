@@ -279,6 +279,7 @@ collect.rebelmouse.io
 collect.rewardstyle.com
 collect.usefathom.com
 collector-api.99designs.com
+collector-api.frspecifics.com
 collector-soompi.viki.io
 collector.api.video
 collector.appconsent.io
