@@ -353,6 +353,7 @@ d.rcmd.jp
 d.shareaholic.com
 d1tbj6eaenapdy.cloudfront.net
 d2wa5sea6guof0.cloudfront.net
+d3vebqdofhigrn.cloudfront.net
 dadi.technology
 dash.getsitecontrol.com
 data.circulate.com
@@ -1266,6 +1267,7 @@ d2t77mnxyo7adj.cloudfront.net
 d2tgfbvjf3q6hn.cloudfront.net
 d2wu036mkcz52n.cloudfront.net
 d2wy8f7a9ursnm.cloudfront.net
+d2zue0pgsssbc6.cloudfront.net
 d31y97ze264gaa.cloudfront.net
 d34ko97cxuv4p7.cloudfront.net
 d34qb8suadcc4g.cloudfront.net

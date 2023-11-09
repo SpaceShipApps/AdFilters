@@ -89,6 +89,7 @@ c.newyorker.com
 c.paypal.com
 c.thredup.com
 c.vogue.com
+c.wired.com
 c.wort-suche.com
 c.xbox.com
 cl.canva.com
@@ -147,7 +148,6 @@ dc.banggood.com
 dd.auspost.com.au
 dd.nytimes.com
 deliver.ptgncdn.com
-digianalytics.airtel.in
 discover-metrics.cloud.seek.com.au
 dp.shoprunner.com
 dtag.breadfinancial.com
@@ -353,6 +353,7 @@ px.srvcs.tumblr.com
 pxl.indeed.com
 qc.newyorker.com
 qc.vogue.com
+qc.wired.com
 qm.redbull.com
 r.apkpure.net
 r.bbci.co.uk
