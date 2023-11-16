@@ -449,6 +449,7 @@ events.tubecup.org
 events.ubembed.com
 events.whisk.com
 events.yourcx.io
+eventsproxy.gargantuan.futureplc.com
 evt.collarity.com
 evt.houzz.com
 experience.contextly.com
@@ -917,6 +918,7 @@ t.channeladvisor.com
 t.clic2buy.com
 t.dgm-au.com
 t.enuygun.com
+t.ghostboard.io
 t.irtyc.com
 t.jobsyn.org
 t.menepe.com

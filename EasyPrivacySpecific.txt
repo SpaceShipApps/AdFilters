@@ -230,6 +230,7 @@ health-metrics-api.setapp.com
 heap.drop.com
 hits.cyberdrop.me
 hlogger.heraldcorp.com
+htrace.wetvinfo.com
 i.pokernews.com
 iam-rum-intake.datadoghq.com
 iedc.fitbit.com
@@ -467,6 +468,7 @@ ted.dailymail.co.uk
 telegraph.prd.api.max.com
 telem.sre.gopuff.com
 telemetry.adobe.io
+telemetry.algolia.com
 telemetry.api.playstation.com
 telemetry.firez.one
 telemetry.tradingview.com
