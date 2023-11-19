@@ -965,6 +965,7 @@ tagtracking.vibescm.com
 target.mixi.media
 te.supportfreecontent.com
 telemetrics.klaviyo.com
+telemetry.goodlifefitness.com
 telemetry.phenixrts.com
 telemetry.reembed.com
 telemetry.soundcloud.com
