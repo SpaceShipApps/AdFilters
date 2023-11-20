@@ -436,6 +436,7 @@ t.appsflyer.com
 t.av.st
 t.birchlane.com
 t.dailymail.co.uk
+t.deepnote.com
 t.freelancer.com
 t.imgur.com
 t.indeed.com
