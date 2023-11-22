@@ -292,6 +292,7 @@ metrics.spkt.io
 metrics.syf.com
 metrics.ted.com
 metricsishare.rediff.com
+mi.grubhub.com
 miao.baidu.com
 midas.chase.com
 mixpanel-proxy.ted.com
@@ -460,6 +461,7 @@ tags.johnlewis.com
 tags.news.com.au
 tags.stepstone.com
 tao.barstoolsports.com
+taplytics-umami.grubhub.com
 target.nationwide.com
 target.nejm.org
 targeting.washpost.nile.works
