@@ -238,14 +238,12 @@ caspionlog.appspot.com
 cc.swiftype.com
 ccexperimentsstatic.oracleoutsourcing.com
 cdn-channels-pixel.ex.co
-cdn.trafficexchangelist.com
 cdn.usefathom.com
 cf.overblog.com
 cgicounter.oneandone.co.uk
 cgicounter.puretec.de
 chanalytics.merchantadvantage.com
 check.ddos-guard.net
-check.deadlinefunnel.com
 cimage.adobe.com
 ck.connatix.com
 clevertap-prod.com
@@ -383,6 +381,7 @@ distillery.wistia.com
 dl.episerver.net
 doppler-beacon.cbsivideo.com
 doppler-beacons.cbsivideo.com
+doppler-client-events.cbsivideo.com
 doppler-reporting.cbsivideo.com
 dotaudiences.com
 doug1izaerwt3.cloudfront.net
