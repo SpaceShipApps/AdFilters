@@ -727,6 +727,7 @@ pixels.afcdn.com
 pl.connatix.com
 platform.iteratehq.com
 plausibleio.workers.dev
+play.adtonos.com
 pm.boostintegrated.com
 popup-static.unisender.com
 porpoise.azettl.net
