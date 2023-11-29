@@ -415,6 +415,7 @@ stategg.cdngeek.com
 statistics.streamdav.com
 stats.aerotime.aero
 stats.calcalist.co.il
+stats.codeur.com
 stats.davidickedelivery.com
 stats.gateio.ch
 stats.ibtimes.co.in
