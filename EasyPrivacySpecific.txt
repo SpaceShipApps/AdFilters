@@ -207,6 +207,7 @@ fpt.microsoft.com
 fresnel-events.vimeocdn.com
 g.ign.com
 g.mashable.com
+g.newtimes.com
 g.pcmag.com
 ga.dx.com
 ga.nsimg.net

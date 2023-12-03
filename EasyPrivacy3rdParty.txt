@@ -89,6 +89,7 @@ analytics.kaltura.com
 analytics.kapost.com
 analytics.klickly.com
 analytics.kongregate.io
+analytics.lemoolah.com
 analytics.live.com
 analytics.livestream.com
 analytics.logsss.com
@@ -495,6 +496,7 @@ geolocation.outreach.com
 geoservice.curse.com
 gi-client-tracking.goodgamestudios.com
 gleam.io
+go.activengage.com
 go.toutapp.com
 green-griffin-860.appspot.com
 gsp1.baidu.com
