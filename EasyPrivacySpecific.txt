@@ -388,6 +388,7 @@ rvo-cohesion.healthline.com
 s.infogram.com
 s.wayfair.com
 saa.insideedition.com
+sapphire-api.target.com
 search.anonymous.ads.brave.com
 shopmetric.rediff.com
 sid.nordstrom.com
@@ -467,6 +468,7 @@ tags.news.com.au
 tags.stepstone.com
 tao.barstoolsports.com
 taplytics-umami.grubhub.com
+target-us.samsung.com
 target.nationwide.com
 target.nejm.org
 targeting.washpost.nile.works
