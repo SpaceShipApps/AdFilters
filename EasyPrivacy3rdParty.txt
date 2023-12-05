@@ -603,6 +603,7 @@ logs.viadata.store
 lps.qantas.com
 lucid.mjhassoc.com
 ma.logsss.com
+magento-recs-sdk.adobe.net
 martech.condenastdigital.com
 mas.nth.ch
 mc.webvisor.com
@@ -800,6 +801,7 @@ scripts.psyma.com
 sd-tagging.azurefd.net
 sdrive.skoda-auto.com
 sdtagging.azureedge.net
+secure-stats.pingdom.com
 secure.ifbyphone.com
 secure.merchantadvantage.com
 seg.sharethis.com
@@ -1324,6 +1326,7 @@ dnxlgencstz4.cloudfront.net
 dr3fr5q4g2ul9.cloudfront.net
 drlimmode9ddd.cloudfront.net
 dsbahmgppc0j4.cloudfront.net
+dtxtngytz5im1.cloudfront.net
 du4rq1xqh3i1k.cloudfront.net
 du8783wkf05yr.cloudfront.net
 duu8lzqdm8tsz.cloudfront.net
