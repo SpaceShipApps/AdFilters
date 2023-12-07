@@ -541,6 +541,7 @@ invite.leanlab.co
 invitejs.trustpilot.com
 ip.lovely-app.com
 iq.sixaxisllc.com
+iqzone.com
 jas.indeednps.com
 javascriptcounter.appspot.com
 jill.fc.yahoo.com
