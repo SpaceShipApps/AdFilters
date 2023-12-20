@@ -142,6 +142,7 @@ cwt.citywire.info
 d.skk.moe
 data.allstate.com
 data.guide.photobucket.com
+data.torry.io
 data.younow.com
 datadome.patreon.com
 dbhsejcg-meetup-com.cdnjs.network
