@@ -31,6 +31,7 @@ analytic.rollout.io
 analytic.xingcloud.com
 analyticcdn.globalmailer.com
 analytics-1.cavai.com
+analytics-api.klickly.com
 analytics-cms.whitebeard.me
 analytics-consent-manager-v2-prod.azureedge.net
 analytics-production.hapyak.com
@@ -545,6 +546,7 @@ iq.sixaxisllc.com
 iqzone.com
 jas.indeednps.com
 javascriptcounter.appspot.com
+jennifersoft.com
 jill.fc.yahoo.com
 jly24aw29n5m-a.akamaihd.net
 jtracking-gate.lulusoft.com
