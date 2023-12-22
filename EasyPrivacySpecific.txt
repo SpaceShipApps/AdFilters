@@ -104,6 +104,7 @@ clp-mms.cloudpro.co.uk
 cm-mms.coachmag.co.uk
 cm.nordvpn.com
 cmpworker.dotesports.com
+cmpworker.primagames.com
 cnt.hd21.com
 cnt.iceporn.com
 cnt.viptube.com
@@ -286,6 +287,7 @@ ma.redhat.com
 marketing.alibaba.com
 mcc-tags.cisco.com
 mcs-va.tiktokv.com
+mcs.tiktokv.us
 mcs.us.tiktokv.com
 metrics.audius.co
 metrics.bangbros.com
