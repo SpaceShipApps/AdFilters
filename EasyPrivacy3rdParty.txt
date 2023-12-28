@@ -510,6 +510,7 @@ happen.spkt.io
 hb.vhsrv.com
 hello.staticstuff.net
 hi.hellobar.com
+highway.cablecar.sph.com.sg
 hit.mybestpro.com
 hits.dealer.com
 hits.getelevar.com
@@ -908,6 +909,7 @@ statscollector-1.agora.io
 statscollector.sd-rtn.com
 statt-collect.herokuapp.com
 stg-data-collector.playbuzz.com
+streams.cablecar.sph.com.sg
 sts.eccmp.com
 sunlightmetrics.b-cdn.net
 survey.interquest.com

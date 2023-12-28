@@ -127,6 +127,7 @@ collector.pi.spectrum.net
 collector.xhamster.com
 collector.xhamster.desi
 collector.xhamster2.com
+collector.xhamster3.com
 colvk.viki.io
 confiant.msn.com
 console-telemetry.oci.oraclecloud.com
