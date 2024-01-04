@@ -27,7 +27,6 @@ amp-error-reporting.appspot.com
 amplify.outbrain.com
 amplifypixel.outbrain.com
 ams-pageview-public.s3.amazonaws.com
-an.yandex.ru
 analyse.bcovery.com
 analytic.rollout.io
 analytic.xingcloud.com
@@ -420,7 +419,6 @@ event-stream.spot.im
 event.api.drift.com
 event.getblue.io
 event.instiengage.com
-event.mrtnsvr.com
 event.syndigo.cloud
 event.webcollage.net
 eventapi.libring.com
@@ -730,7 +728,6 @@ pixel.safe-installation.com
 pixel.solvemedia.com
 pixel.sprinklr.com
 pixel.videohub.tv
-pixel.widgetly.com
 pixel.wp.com
 pixel.yabidos.com
 pixel.yola.com
@@ -1038,7 +1035,6 @@ track.shop2market.com
 track.sitetag.us
 track.social.com
 track.strife.com
-track.tcppu.com
 track.td3x.com
 track.uc.cn
 track.untd.com
