@@ -162,6 +162,7 @@ ea.epochbase.com
 ec.thredup.com
 edge.staging.fullstory.com
 eec.crunchyroll.com
+ejlytics.editorji.com
 engagefront.meteomedia.com
 engagefront.theweathernetwork.com
 engine.traceparts.com
@@ -555,6 +556,7 @@ wa.gymboree.com
 wa.pjplace.com
 wa.sugarandjade.com
 wal.wolfram.com
+wapn1.flosports.tv
 wc.yahoodns.net
 weblog.flyasiana.com
 wh.ipaddress.com
