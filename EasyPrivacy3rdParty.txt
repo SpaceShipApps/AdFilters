@@ -146,6 +146,7 @@ analytics.urx.io
 analytics.vanillaforums.com
 analytics.vdo.ai
 analytics.vendemore.com
+analytics.vixcloud.co
 analytics.webgains.io
 analytics.webpushr.com
 analytics.websolute.it
@@ -398,6 +399,7 @@ ea.youmaker.com
 ec.walkme.com
 ecomm.events
 ecommstats.s3.amazonaws.com
+edge.adobedc.net
 edge.bredg.com
 eel.transistor.fm
 ele26126.jscrambler.com
@@ -554,6 +556,7 @@ jly24aw29n5m-a.akamaihd.net
 jtracking-gate.lulusoft.com
 k.keyade.com
 k.streamrail.com
+k8s-tracking-tracking-6c17add7fc-253503024.eu-central-1.elb.amazonaws.com
 kalstats.kaltura.com
 kiwi.mdldb.net
 klarnaservices.com
@@ -973,6 +976,7 @@ tags.cdn.circlesix.co
 tags.dxmdp.com
 tags.fullcontact.com
 tags.master-perf-tools.com
+tags.newscgp.com
 tags.refinery89.com
 tagtracking.vibescm.com
 target.mixi.media
