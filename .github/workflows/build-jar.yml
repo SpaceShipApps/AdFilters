@@ -35,3 +35,6 @@ jobs:
     - uses: stefanzweifel/git-auto-commit-action@v4
       with:
         commit_message: build jar
+        commit_user_name: github-actions[bot]
+        commit_user_email: 41898282+github-actions[bot]@users.noreply.github.com
+        commit_author: GithubBot <41898282+github-actions[bot]@users.noreply.github.com>
