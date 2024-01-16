@@ -42,6 +42,7 @@ analytics.hashnode.com
 analytics.kaggle.io
 analytics.kooapp.com
 analytics.makeitmeme.com
+analytics.maxroll.gg
 analytics.ml.homedepot.ca
 analytics.mouthshut.com
 analytics.nike.com
