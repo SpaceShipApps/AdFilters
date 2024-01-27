@@ -81,6 +81,7 @@ deapi.afreecatv.com
 startup.mobile.yandex.net
 startup.mobile.webvisor.com
 startup-mobile.ap.yandex-net.ru
+prod.adjoe.zone
 mads.amazon.com
 p16-ad.byteoversea.com
 mtgglobals.com
