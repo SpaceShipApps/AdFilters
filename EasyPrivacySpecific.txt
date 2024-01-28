@@ -226,6 +226,7 @@ geoip.hmageo.com
 geoip.ifunny.co
 geolocation.forbes.com
 glassmoni.researchgate.net
+gmetrics.getbeamer.com
 gnar.grammarly.com
 go.pardot.com
 go.theregister.com
