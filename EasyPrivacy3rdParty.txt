@@ -745,6 +745,7 @@ pl.connatix.com
 platform.iteratehq.com
 plausibleio.workers.dev
 play.adtonos.com
+player-metrics.instaread.co
 pm.boostintegrated.com
 popup-static.unisender.com
 porpoise.azettl.net
