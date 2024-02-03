@@ -225,6 +225,7 @@ geoip.boredpanda.com
 geoip.hmageo.com
 geoip.ifunny.co
 geolocation.forbes.com
+gg.vevor.com
 glassmoni.researchgate.net
 gmetrics.getbeamer.com
 gnar.grammarly.com
@@ -395,6 +396,7 @@ rum.condenastdigital.com
 rum.kobo.com
 rv.modanisa.com
 rvo-cohesion.healthline.com
+s.gofile.io
 s.infogram.com
 s.wayfair.com
 saa.insideedition.com
