@@ -86,7 +86,6 @@ analytics.gooogol.com
 analytics.groupe-seb.com
 analytics.growthphysics.com
 analytics.gvim.mobi
-analytics.humanautomation.ai
 analytics.iraiser.eu
 analytics.jazel.net
 analytics.jst.ai
@@ -143,10 +142,8 @@ analytics.themarketiq.com
 analytics.threedeepmarketing.com
 analytics.tiktok.com
 analytics.tout.com
-analytics.tribeca.vidavee.com
 analytics.unibuddy.co
 analytics.unilogcorp.com
-analytics.urx.io
 analytics.vanillaforums.com
 analytics.vdo.ai
 analytics.vendemore.com
@@ -156,7 +153,6 @@ analytics.webpushr.com
 analytics.websolute.it
 analytics.wildtangent.com
 analytics.witglobal.net
-analytics.worldtable.co
 analytics.yahoo.com
 analytics.yext-static.com
 analytics.ynap.biz
@@ -166,7 +162,6 @@ analytics.ziftsolutions.com
 analytics1.vdo.ai
 analyticsehnwe.servicebus.windows.net
 analyticssec.overwolf.com
-analyze.full-marke.com
 ao-freegeoip.herokuapp.com
 ape-tagit.timeinc.net
 api-analytics-prd.pelcro.com
@@ -368,7 +363,6 @@ data.circulate.com
 data.digitalks.az
 data.eetech.com
 data.gosquared.com
-data.imakenews.com
 data.minute.ly
 data.nexxt.com
 data.queryly.com
@@ -594,7 +588,6 @@ log.aimtell.com
 log.cookieyes.com
 log.dpa.com
 log.go.com
-log.invodo.com
 log.mediacategory.com
 log.nordot.jp
 log.olark.com
@@ -687,6 +680,7 @@ open.delivery.net
 openxcdn.net
 optimeeze.appspot.com
 orts.wixawin.com
+p.cquotient.com
 p.delivery.net
 p.metrilo.com
 p.placed.com
@@ -902,7 +896,6 @@ stats.screenresolution.org
 stats.shopify.com
 stats.smartclip.net
 stats.topofblogs.com
-stats.twistage.com
 stats.uscreen.io
 stats.varrando.com
 stats.viddler.com
@@ -986,7 +979,6 @@ tags.newscgp.com
 tags.refinery89.com
 tagtracking.vibescm.com
 target.mixi.media
-te.supportfreecontent.com
 telemetrics.klaviyo.com
 telemetry.goodlifefitness.com
 telemetry.phenixrts.com
@@ -1036,7 +1028,6 @@ track.mituo.cn
 track.mp4.center
 track.mycliplister.com
 track.nopaperforms.com
-track.pnicnik.live
 track.pricespider.com
 track.qoof.com
 track.realtimeboard.com
@@ -1076,7 +1067,6 @@ tracker.netklix.com
 tracker.nitropay.com
 tracker.novage.com.ua
 tracker.openwebtorrent.com
-tracker.roitesting.com
 tracker.services.vaix.ai
 tracker.softcube.com
 tracker.ssl0d.com
@@ -1296,6 +1286,7 @@ d2t77mnxyo7adj.cloudfront.net
 d2tgfbvjf3q6hn.cloudfront.net
 d2wu036mkcz52n.cloudfront.net
 d2wy8f7a9ursnm.cloudfront.net
+d2z0bn1jv8xwtk.cloudfront.net
 d2zue0pgsssbc6.cloudfront.net
 d31y97ze264gaa.cloudfront.net
 d34ko97cxuv4p7.cloudfront.net
@@ -1316,6 +1307,7 @@ d3lqotgbn3npr.cloudfront.net
 d3m6sept6cnil5.cloudfront.net
 d3mskfhorhi2fb.cloudfront.net
 d3n6i6eorggdxk.cloudfront.net
+d3nn82uaxijpm6.cloudfront.net
 d3oodlxb1rw3kg.cloudfront.net
 d3pi0tys5sdysl.cloudfront.net
 d3plfjw9uod7ab.cloudfront.net
