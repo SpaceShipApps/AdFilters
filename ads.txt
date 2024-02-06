@@ -80,6 +80,8 @@ deapi.afreecatv.com
 startup.mobile.yandex.net
 startup.mobile.webvisor.com
 startup-mobile.ap.yandex-net.ru
+rtblab.net
+lacunads.com
 diopousg.com
 ruuaqkw.com
 prod.adjoe.zone
@@ -165,7 +167,7 @@ wd.adcolony.xyz
 im.ov.yahoo.co.jp
 thecatmachine.com
 blueduckredapple.com
-cdn.mobilefuse.com
+mobilefuse.com
 api-ad-callback.mobiuspace.net
 hb.rayjump.com
 gdl.i9dhjx.ru
