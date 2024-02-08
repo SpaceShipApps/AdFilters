@@ -366,6 +366,7 @@ r.apkpure.net
 r.bbci.co.uk
 rankhit.china.com
 ras.yahoo.com
+react-admin-telemetry.marmelab.com
 rec.banggood.com
 relay.fiverr.com
 reports.tunein.com
