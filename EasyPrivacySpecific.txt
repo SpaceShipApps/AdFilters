@@ -237,6 +237,7 @@ htrace.wetvinfo.com
 i.pokernews.com
 iam-rum-intake.datadoghq.com
 iedc.fitbit.com
+iguazu.doordash.com
 ih.newegg.com
 indmetric.rediff.com
 ingest.make.rvohealth.com
