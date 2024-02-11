@@ -198,7 +198,6 @@ fbo-statistics-collector-tc.is.flippingbook.com
 fdt.kraken.com
 femetrics.grammarly.io
 firebaselogging.googleapis.com
-fp.heavybit.com
 fp.measure.office.com
 fpa-cdn.adweek.com
 fpa-cdn.arstechnica.com
@@ -417,7 +416,6 @@ stat.pubhtml5.com
 stat.tildacdn.com
 stat.turb.pw
 stat.vulkanvegas.com
-stategg.cdngeek.com
 statistics.streamdav.com
 stats.aerotime.aero
 stats.calcalist.co.il
@@ -542,7 +540,6 @@ usmetric.rediff.com
 v.adblockultimate.net
 v.ctrl.blog
 views.arabnews.com
-views.asura.gg
 views.asurascans.com
 vortex.hulu.com
 w3-reporting.reddit.com
