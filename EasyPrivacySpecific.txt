@@ -147,9 +147,9 @@ dc.banggood.com
 dd.auspost.com.au
 dd.nytimes.com
 deliver.ptgncdn.com
-df.infra.shopee.ph
 discover-metrics.cloud.seek.com.au
 dls-account.di.atlas.samsung.com
+dot.nonolive.com
 dp.shoprunner.com
 dtag.breadfinancial.com
 dumpster.cam4.com
@@ -520,6 +520,7 @@ tracking.carsales.com.au
 tracking.christianpost.com
 tracking.digitalocean.com
 tracking.engineering.cloud.seek.com.au
+tracking.game8.co
 tracking.hsn.com
 tracking.shopstyle.co.uk
 tracking.shopstyle.com
@@ -531,7 +532,6 @@ trk.tirto.id
 trx3.famousfix.com
 ts.delfi.lt
 ua.indianexpress.com
-ubt.tracking.shopee.ph
 ubuyanalytics.ubuy.com
 um.contentstudio.io
 umami.wakarimasen.moe
