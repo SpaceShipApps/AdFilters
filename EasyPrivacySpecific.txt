@@ -30,6 +30,7 @@ analytics.brave.com
 analytics.chase.com
 analytics.cookiefirst.dev
 analytics.designspiration.com
+analytics.eip.telegraph.co.uk
 analytics.faceitanalytics.com
 analytics.footballdb.com
 analytics.freemake.com
