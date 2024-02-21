@@ -529,6 +529,7 @@ tracking.unrealengine.com
 trackr.vivenu.com
 treatment.grammarly.com
 tredir.go.com
+trk.decido.io
 trk.tirto.id
 trx3.famousfix.com
 ts.delfi.lt
