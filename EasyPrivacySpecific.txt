@@ -16,6 +16,7 @@ aegis.trovo.live
 alb.reddit.com
 als-svc.nytimes.com
 amethyst.zappos.com
+ampltd.medal.tv
 ampltd.top.gg
 ampltd2.medal.tv
 analytics-batch.blitz.gg
@@ -287,6 +288,7 @@ mcc-tags.cisco.com
 mcs-va.tiktokv.com
 mcs.tiktokv.us
 mcs.us.tiktokv.com
+medal.tv$ping
 metrics.audius.co
 metrics.bangbros.com
 metrics.camsoda.com

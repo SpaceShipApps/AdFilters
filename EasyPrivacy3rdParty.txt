@@ -584,7 +584,6 @@ log.mediacategory.com
 log.nordot.jp
 log.olark.com
 log.outbrain.com
-log.outbrainimg.com
 log.pinterest.com
 log.reformal.ru
 log.seekda.com
