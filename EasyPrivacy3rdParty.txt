@@ -515,6 +515,7 @@ hpr.outbrain.com
 hspbotdetection.azurewebsites.net
 hydro-ma-proxy.akamaized.net
 i.compendium.com
+i.posthog.com
 i.viafoura.co
 iabusprivacy.pmc.com
 icu.getstorybox.com
