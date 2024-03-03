@@ -64,6 +64,7 @@ anon-stats.eff.org
 api-hotmart-tracking-manager.hotmart.com
 api-js.mixpanel.com
 api.privacyguides.net
+api.takealot.com$ping
 appanalysis.banggood.com
 atrack.allposters.com
 ats.alot.com
