@@ -178,6 +178,7 @@ euclid.kuula.co
 eurogamer-uk.eurogamer.net
 event-api.reverb.com
 event-collector.moviesanywhere.com
+event-router.olympics.com
 event.platform.tunein.com
 eventlog.jackpot.de
 events-prod.autolist.com
