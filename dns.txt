@@ -208,7 +208,6 @@ allprofitsurvey.top
 bloxplay.com
 berangkasilmu.com
 zusepe.xyz
-cdn.applixir.com
 selfishmourninhabitants.com
 monsy.com
 fireworkadservices1.com
@@ -37308,6 +37307,7 @@ apex-ad.com
 apexcdn.com
 aphookkensidah.pro
 apmebf.com
+applixir.com
 appnext.com
 apprupt.com
 apptap.com
@@ -46698,6 +46698,7 @@ analyticsehnwe.servicebus.windows.net
 analyticssec.overwolf.com
 ao-freegeoip.herokuapp.com
 api-analytics-prd.pelcro.com
+api.country.is
 api.wipmania.com
 apple.www.letv.com
 applets.ebxcdn.com
@@ -51353,6 +51354,7 @@ analytics.smhi.se
 analytics.sunet.se
 analytics.svenskdam.se
 analytics.svt.se
+analytics.teknikveckan.se
 analytics.undeco.se
 analytics.vackertvader.se
 analytics-smhise.smhi.se
@@ -51587,6 +51589,7 @@ petrk.com
 pixel-profile-cloud.eniro.com
 platform-api.sharethis.com
 plus.sharedcount.com
+pm.azerioncircle.com
 popitunder.com
 portalhc.com
 proxyas.com
@@ -57066,6 +57069,7 @@ ahtfzhs.xyz
 ahyyqq.xyz
 anjdwmq.xyz
 aourgk.xyz
+ariqye.xyz
 arnhhwo.xyz
 arqvm.cn
 awuvcq.xyz
@@ -57082,6 +57086,7 @@ blzbjpg.xyz
 bmnbyn.icu
 bmret.cn
 brixel.cn
+btfzbak.xyz
 btyhnbmn289.shop
 btyhnraw653.shop
 bugzmn.icu
@@ -57126,10 +57131,13 @@ difmnd.xyz
 djxpnuo.xyz
 dkjwbv.xyz
 dqhxmbx.cn
+drummers.cn
+dryden.cn
 dsbqvj.xyz
 dxrnksm.xyz
 dyegif.icu
 dytkgl.icu
+dzfzak.cn
 dzuht.cn
 ebgwdon.cn
 efmtsw.xyz
@@ -57141,9 +57149,11 @@ endolift.cn
 enifdlaw.top
 eqqwgw.xyz
 execuri.com
+fbfrbt.xyz
 fefgvh.xyz
 fekpcd.icu
 ferriesendless.com
+fhtfnb.xyz
 fidelius.cn
 fmfnrf.xyz
 fpjjjh.xyz
@@ -57165,6 +57175,7 @@ hciwyv.icu
 hdtedar126.shop
 hdvsrz.xyz
 heapz.cyou
+hendehy.com
 hexcvb.xyz
 hgthpj.xyz
 hhffks967.shop
@@ -57209,6 +57220,7 @@ lewiooz.cn
 lfffzv.xyz
 lfhdryz.xyz
 lmxiqf.icu
+lulgef.icu
 lulxzl.xyz
 luofk.xyz
 lvdedf.xyz
@@ -57247,6 +57259,7 @@ ovjlccs.xyz
 p04qzl.cn
 p0v2ni.cn
 p45m0.icu
+pa4ye.cyou
 pbbhhxm.xyz
 phvfevk.xyz
 pidzlp.xyz
@@ -57257,6 +57270,8 @@ pwhtip.icu
 pxzrlf.xyz
 qbhzghb.xyz
 qcohkm.xyz
+qetskupch581.shop
+qetskupyka61.shop
 qhocciks.com
 qhodog.xyz
 qlbbowx.xyz
@@ -57325,7 +57340,9 @@ tyodot.icu
 uctutu3789.xyz
 udykkl.cn
 uiqcf.cn
+uljoifw.cn
 ulwfys.xyz
+unifdlat.top
 usltmus.cn
 uu22662.com
 uuvzmba.cn
@@ -57384,17 +57401,18 @@ yvnxetmq.xyz
 yvudqzoa.xyz
 yyddkm526.shop
 zagyjnn.cn
+zailgrae.com
 zhaweifeng.com
 zhihucloud.xyz
 zjrtxt.xyz
 znhlxvb.xyz
 zojyob.icu
-hendehy.com
-unifdlat.top
-ariqye.xyz
-fbfrbt.xyz
-dzfzak.cn
-dryden.cn
+lnifdlal.top
+vabzndw.cn
+uqwbcm.xyz
+onifdlak.top
+nlhpxj.xyz
+rghqrj.xyz
 zopuqv.icu
 zsjpi.cn
 zttuvj.xyz

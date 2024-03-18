@@ -163,6 +163,7 @@ ao-freegeoip.herokuapp.com
 ape-tagit.timeinc.net
 api-analytics-prd.pelcro.com
 api.autopilothq.com
+api.country.is
 api.wipmania.com
 app.adjust.com
 apple.www.letv.com
