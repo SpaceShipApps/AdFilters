@@ -128,7 +128,6 @@ tivan.naver.com
 veta.naver.com
 leadc6.icu
 pangolin16.sgsnssdk.com
-i18n-pglstatp.com
 ads.adadapted.com
 zflylg.buzz
 zflfoy.xyz

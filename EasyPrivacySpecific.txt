@@ -145,6 +145,7 @@ cstats.sankakucomplex.com
 cwt.citywire.info
 d.skk.moe
 d401.dollartree.com
+dabu.askmediagroup.com
 data.allstate.com
 data.guide.photobucket.com
 data.torry.io
@@ -297,6 +298,7 @@ logx.optimizely.com
 ma.redhat.com
 marketing.alibaba.com
 mcc-tags.cisco.com
+mcs-ie.tiktokw.eu
 mcs-va.tiktokv.com
 mcs.tiktokv.us
 mcs.us.tiktokv.com
@@ -366,6 +368,7 @@ player-telemetry.vimeo.com
 plenty.vidio.com
 pm.dailykos.com
 pm.geniusmonkey.com
+pog.com$ping
 prairiedog.hashnode.com
 privacy-api.9gag.com
 privacyfriendly.netlify.app
