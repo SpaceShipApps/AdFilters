@@ -41940,6 +41940,7 @@ log-hl.snssdk.com
 ib.snssdk.com
 xlog.snssdk.com
 log.snssdk.com
+jubbie.de
 collector.lunalabs.io
 greenbids.ai
 track.migattenogokui.com
@@ -49743,6 +49744,7 @@ softclick.com.br
 solution911.com
 templates.buscape.com
 yestorrents.org
+luxcdn.com
 vqhrqt.com
 marketer.lv
 programmatica.com
@@ -52828,7 +52830,6 @@ ads.skidspar.se
 ads.skolvarlden.se
 ads.ungdomar.se
 ads.varldenidag.se
-ads.veterinaren.nu
 adserver.ddev.site
 adserver.infotorg.se
 adserver.so-rummet.se
@@ -52903,7 +52904,6 @@ brandy.bonniernewslifestyle.se
 browser.covatic.io
 browser-http-intake.logs.datadoghq.com
 browser-http-intake.logs.datadoghq.eu
-bulletproof-analytics.com
 buzzador.com
 c.eacla.com
 cargodisplayads.com
@@ -52970,7 +52970,6 @@ cxpublic.com
 d9v72urx9pbbc.cloudfront.net
 d33s3ffr7fotas.cloudfront.net
 dackpartner-web.s3.amazonaws.com
-dakine.com.se
 deals.innocode.no
 delivered-by-madington.com
 di.insplanet.com
@@ -52987,7 +52986,6 @@ embi-media.com
 etc-cdn-staging.ams3.digitaloceanspaces.com
 eum.instana.io
 europe-west1-bonnier-big-data.cloudfunctions.net
-evtr.nordiskemedier.dk
 expo.ads.ramsalt.com
 extern.prisjakt.nu
 external.reseguiden.se
@@ -53023,6 +53021,7 @@ interactions.sesamy.com
 investerarbrevet.se
 inviso.rampanel.com
 ion.btcswe.com
+js.evtr.nordiskemedier.dk
 js.glitnoraffiliates.com
 js.hsleadflows.net
 js.multibrandaffiliates.com
@@ -53032,7 +53031,6 @@ js.hs-banner.com
 keenstockholm.com.se
 ksdarprt.reseguiden.se
 kyrkoskatten.se
-kyrkskatt.se
 lanapengar.expressen.se
 lararforbundet.analytics.ozzi.io
 lasso.link
@@ -53120,7 +53118,6 @@ revive.tv7.fi
 revive.99mac.se
 revrelations.com
 richmediastudio.com
-rockeringformsweden.com
 rockportskorsverige.com
 rotator.riedta.com
 route.carambo.la
@@ -53154,8 +53151,6 @@ se-ads-microservice.ads.allermedia.io
 sgtm.inet.se
 skattamindre.se
 sleeknote.com
-smetrics.aftonbladet.se
-sneakersisverige.com
 source.advisible.com
 spel.expressen.se
 sprinklecontent.com
@@ -58731,6 +58726,7 @@ ejdhmed.xyz
 elisium.cn
 ellingsen.cn
 elphhrj.xyz
+eluocs.xyz
 endolift.cn
 enifdlaw.top
 eqqwgw.xyz
@@ -58746,6 +58742,7 @@ ferriesendless.com
 fhtfnb.xyz
 fidelius.cn
 fmfnrf.xyz
+fmssoj.icu
 fpjjjh.xyz
 fpvdrzx.xyz
 frtnqps358.shop
@@ -58819,6 +58816,7 @@ jtyusia.top
 jubnpx.xyz
 justapp.top
 jvkqkzu.cn
+jyuwkba.top
 jzjpntr.xyz
 kbomku.xyz
 kdeh.cn
@@ -58861,6 +58859,7 @@ mlhtr.cn
 mnifdlax.top
 moberg.cn
 mondigo.cn
+mpn56e.cn
 mrtxtrq.xyz
 mtddqjk.cn
 mthhhuq.cn
@@ -58911,10 +58910,12 @@ pjzxdl.xyz
 pkyjuc.cn
 pmtrkp.icu
 pnxtnp.xyz
+polepole.cn
 pressit.cn
 prhfziq.xyz
 przbzr.xyz
 pseudonym.cn
+pwhkfd.xyz
 pwhtip.icu
 pxzrlf.xyz
 qbhzghb.xyz
@@ -59053,6 +59054,7 @@ wqcfg.cn
 wsdwbfs.cn
 wtyusie.top
 wwjtdjj.cn
+wxfdmri.xyz
 xcypgd.icu
 xdfhidrk.xyz
 xdmnlxtu.xyz
@@ -59104,10 +59106,12 @@ zjrtxt.xyz
 znhlxvb.xyz
 zojyob.icu
 zopuqv.icu
-pwhkfd.xyz
-wxfdmri.xyz
-eluocs.xyz
-fmssoj.icu
+ebwonro.cn
+inalzlo.top
+qkscga.xyz
+xgjidt.xyz
+jwhdgt.icu
+npjvgug.xyz
 zsjpi.cn
 zttuvj.xyz
 ztxjutz.xyz
