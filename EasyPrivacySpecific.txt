@@ -460,6 +460,7 @@ stats.wwitv.com
 stats2.mytuner.mobi
 statsegg.cdngeek.com
 streamstats.prd.dlive.tv
+svc.eu01.miro.com
 szrpr.raen.com
 t.9gag.com
 t.airasia.com
@@ -473,6 +474,7 @@ t.freelancer.com
 t.imgur.com
 t.indeed.com
 t.ionos.com
+t.iwara.tv
 t.jossandmain.com
 t.kck.st
 t.nypost.com
@@ -548,6 +550,7 @@ tracking.shopstyle.co.uk
 tracking.shopstyle.com
 tracking.unrealengine.com
 trackr.vivenu.com
+trcksplt.miro.com
 treatment.grammarly.com
 tredir.go.com
 trk.decido.io

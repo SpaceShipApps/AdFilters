@@ -102,7 +102,6 @@ pgdt.gtimg.cn
 cmshow.gtimg.cn
 projecta-common-1258344701.file.myqcloud.com
 adrouter-charter-vod.cadenttech.tv
-mtgglobals.com
 ads-sdk.nianticlabs.com
 ad.mediamixer.co.kr
 adfork.co.kr
