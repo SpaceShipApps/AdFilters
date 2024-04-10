@@ -237,6 +237,7 @@ capture-api.ap3prod.com
 capture.condenastdigital.com
 capture.trackjs.com
 caspionlog.appspot.com
+castify-trk.playitviral.com
 cc.swiftype.com
 ccexperimentsstatic.oracleoutsourcing.com
 cdn-channels-pixel.ex.co
@@ -1142,6 +1143,7 @@ trib.al
 triggers.wfxtriggers.com
 triplewhale-pixel.web.app
 trk.clinch.co
+trk.playitviral.com
 trk.storyly.io
 trk.techtarget.com
 trk2-wtb.swaven.com

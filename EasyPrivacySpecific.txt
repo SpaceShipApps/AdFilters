@@ -297,6 +297,7 @@ logging.api.intuit.com
 loglady.kiwi.com
 logs.hotstar.com
 logs.naukri.com
+logs.netflix.com
 logx.optimizely.com
 ma.redhat.com
 marketing.alibaba.com
@@ -363,6 +364,7 @@ pixel.nine.com.au
 pixel.tuko.co.ke
 pixelzirkus.gameforge.com
 pixiedust.buzzfeed.com
+pl.letsblock.it
 plausible.bots.gg
 plausible.dragonfru.it
 plausible.omgapi.org
