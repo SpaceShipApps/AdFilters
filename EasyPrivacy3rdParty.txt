@@ -264,7 +264,6 @@ client.tahono.com
 clouderrorreporting.googleapis.com
 cloudfront-labs.amazonaws.com
 cltgtstor001.blob.core.windows.net
-cmp.datasign.co
 cnt.3dmy.net
 cnt.mastorage.net
 cnt.trvdp.com
