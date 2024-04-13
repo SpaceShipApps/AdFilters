@@ -282,6 +282,7 @@ link.kogan.com
 link2.strawberrynet.com
 links.strava.com
 lists.ccmbg.com
+lms.roblox.com
 log-gateway.zoom.us
 log.china.cn
 log.genyt.net
@@ -326,6 +327,7 @@ mixpanel-proxy.ted.com
 mktcs.cloudapps.cisco.com
 mon.us.tiktokv.com
 monitor.channel4.com
+mp.theepochtimes.com
 mr.homedepot.ca
 msg-intl.qy.net
 mstm.motorsport.com
