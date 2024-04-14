@@ -258,6 +258,7 @@ iam-rum-intake.datadoghq.com
 iedc.fitbit.com
 iguazu.doordash.com
 ih.newegg.com
+improve.tempest.com
 indmetric.rediff.com
 ingest.make.rvohealth.com
 ingress.linktr.ee
@@ -533,6 +534,7 @@ tr.clickstay.com
 tr.www.cloudflare.com
 track-visit.monday.com
 track.americansongwriter.com
+track.bestpornsites.tv
 track.dictionary.com
 track.eurogirlsescort.com
 track.kueez.com
