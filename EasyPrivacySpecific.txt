@@ -88,6 +88,7 @@ binocule21c.merriam-webster.com
 blitz-analytics-batch-server.blitz.gg
 blue.nbc4i.com
 boomerang.dell.com
+c.arstechnica.com
 c.fingerprint.com
 c.newyorker.com
 c.paypal.com
@@ -180,6 +181,7 @@ engine.traceparts.com
 eproof.drudgereport.com
 error-collector.ted.com
 errorreports.couponcabin.com
+espy.boehs.org
 et.nytimes.com
 et.tidal.com
 etui.fs.ml.com
@@ -386,6 +388,7 @@ pulse.delta.com
 pumpkin.abine.com
 px.srvcs.tumblr.com
 pxl.indeed.com
+qc.arstechnica.com
 qc.newyorker.com
 qc.vogue.com
 qc.wired.com

@@ -582,6 +582,7 @@ livecounter.theyosh.nl
 livestats.kaltura.com
 loader-cdn.azureedge.net
 loader.zeroform.com
+log-pq.shopfully.cloud
 log.aimtell.com
 log.cookieyes.com
 log.dpa.com
