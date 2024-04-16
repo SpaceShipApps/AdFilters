@@ -78,12 +78,12 @@ deapi.afreecatv.com
 startup.mobile.yandex.net
 startup.mobile.webvisor.com
 startup-mobile.ap.yandex-net.ru
+vs-api.voodoo-tech.io
 psvpromo.psvgamestudio.com
 static.timetreeads.com
 kfvjdvjzhddhc.com
 zgzxs.weathercn.com
 kiesta.net
-cdn-ads.tmap.co.kr
 downloadshi.b-cdn.net
 ads.rmbl.ws
 adsassets-ipv6.waze.com
