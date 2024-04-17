@@ -95,6 +95,7 @@ analytics.lemoolah.com
 analytics.live.com
 analytics.livestream.com
 analytics.logsss.com
+analytics.lunaweb.cloud
 analytics.m7g.twitch.tv
 analytics.maikel.pro
 analytics.mailmunch.co

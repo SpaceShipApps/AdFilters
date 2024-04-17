@@ -90,6 +90,7 @@ blue.nbc4i.com
 boomerang.dell.com
 c.arstechnica.com
 c.fingerprint.com
+c.gq.com
 c.newyorker.com
 c.paypal.com
 c.thredup.com
@@ -389,6 +390,7 @@ pumpkin.abine.com
 px.srvcs.tumblr.com
 pxl.indeed.com
 qc.arstechnica.com
+qc.gq.com
 qc.newyorker.com
 qc.vogue.com
 qc.wired.com

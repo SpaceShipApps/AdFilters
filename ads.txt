@@ -78,6 +78,7 @@ deapi.afreecatv.com
 startup.mobile.yandex.net
 startup.mobile.webvisor.com
 startup-mobile.ap.yandex-net.ru
+v16-ad.byteoversea.com
 vs-api.voodoo-tech.io
 psvpromo.psvgamestudio.com
 static.timetreeads.com
