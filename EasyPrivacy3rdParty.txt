@@ -19,6 +19,7 @@ adfox.yandex.ru
 adlog.com.com
 ads-trk.vidible.tv
 adsolutions.com
+affiliate-api.raptive.com
 affiliates.minglematch.com
 akatracking.esearchvision.com
 aktion.esprit-club.com
@@ -608,7 +609,6 @@ logs.datadoghq.com
 logs.mezmo.com
 logs.spilgames.com
 logs.thebloggernetwork.com
-logs.viadata.store
 lps.qantas.com
 lucid.mjhassoc.com
 ma.logsss.com
@@ -1056,6 +1056,7 @@ tracker.jkstremum.xyz
 tracker.keywordintent.com
 tracker.marinsoftware.com
 tracker.mrpfd.com
+tracker.myth.dev
 tracker.myyschool.xyz
 tracker.netklix.com
 tracker.nitropay.com
