@@ -182,6 +182,7 @@ awaps.yandex.net
 awesome.section.io
 ax.babe.today
 axislogger.appspot.com
+az.nzn.io
 az693360.vo.msecnd.net
 b.bedop.com
 b7tp47v2nb3x-a.akamaihd.net
@@ -269,7 +270,6 @@ cloudfront-labs.amazonaws.com
 cltgtstor001.blob.core.windows.net
 cnt.3dmy.net
 cnt.mastorage.net
-cnt.trvdp.com
 cod.bitrec.com
 collect-ap2.attraqt.io
 collect-eu.attraqt.io
@@ -734,6 +734,7 @@ pixel.yabidos.com
 pixel.yola.com
 pixels.afcdn.com
 pl.connatix.com
+pla.fwdcdn.com
 platform.iteratehq.com
 plausibleio.workers.dev
 play.adtonos.com
@@ -1040,6 +1041,7 @@ track.vscash.com
 track.yfret.com
 track.yieldsoftware.com
 tracker-dot-optimeeze.appspot.com
+tracker-v4.gamedock.io
 tracker.affirm.com
 tracker.arc.io
 tracker.beezup.com
