@@ -237,6 +237,7 @@ c3metrics.medifast1.com
 cache2.delvenetworks.com
 cahf4eed.mooo.com
 calltrack.co
+calvera-telemetry.polaris.me
 camel.headfarming.com
 capture-api.ap3prod.com
 capture.condenastdigital.com
