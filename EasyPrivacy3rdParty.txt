@@ -506,6 +506,7 @@ go.activengage.com
 go.toutapp.com
 green-griffin-860.appspot.com
 gsp1.baidu.com
+gtmfsstatic.getgoogletagmanager.com
 gtrk.s3.amazonaws.com
 gu-pix.appspot.com
 happen.spkt.io
