@@ -532,6 +532,7 @@ iabusprivacy.pmc.com
 icu.getstorybox.com
 iddu1vvb7sk8-a.akamaihd.net
 identification.hotmart.com
+ihi.flowplayer.com
 imp.constantcontact.com
 imp.pvnsolutions.com
 impress.vcita.com
@@ -1041,6 +1042,7 @@ track.td3x.com
 track.uc.cn
 track.untd.com
 track.uppromote.com
+track.us.org
 track.venatusmedia.com
 track.vscash.com
 track.yfret.com
