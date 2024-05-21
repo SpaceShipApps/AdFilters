@@ -457,6 +457,7 @@ events.ubembed.com
 events.whisk.com
 events.yourcx.io
 eventsproxy.gargantuan.futureplc.com
+evt.24.com
 evt.collarity.com
 evt.houzz.com
 experience.contextly.com
