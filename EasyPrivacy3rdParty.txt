@@ -773,7 +773,6 @@ qubitanalytics.appspot.com
 query.petametrics.com
 r.mail.ru
 r.skimresources.com
-r.stripe.com
 ramp.purch.com
 rampjs-cdn.system1.com
 reach-id.orbit.tm-awx.com
@@ -1096,6 +1095,7 @@ tracking.ads.global-fashion-group.com
 tracking.aegpresents.com
 tracking.americaneagle.com
 tracking.audio.thisisdax.com
+tracking.b-cdn.net
 tracking.bababam.com
 tracking.brandmentions.com
 tracking.buygoods.com
@@ -1130,6 +1130,7 @@ tracking.pacharge.com
 tracking.plattformad.com
 tracking.plinga.de
 tracking.practicefusion.com
+tracking.prepr.io
 tracking.quisma.com
 tracking.rapidape.com
 tracking.scenepass.com
