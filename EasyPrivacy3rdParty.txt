@@ -693,6 +693,7 @@ page-events-ustats.udemy.com
 pages-stats.rbl.ms
 pagesense-collect.zoho.com
 pagesocket.glam.com
+panorama.wixapps.net
 pap.qualityunit.com
 parallax.askmediagroup.com
 partners.etoro.com
