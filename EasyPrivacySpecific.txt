@@ -442,6 +442,7 @@ sjc.cloud.optable.co
 slipstream.skyscanner.net
 smetrics.couponcabin.com
 smetrics.ralphlauren.com
+sofire.terabox.app
 soundcloud.com$ping
 sp.cargurus.co.uk
 sp.ecosia.org
