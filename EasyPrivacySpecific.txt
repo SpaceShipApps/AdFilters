@@ -22,6 +22,7 @@ ampltd.top.gg
 ampltd2.medal.tv
 analytics-batch.blitz.gg
 analytics-proxy.springboard.com
+analytics-server.arras.cx
 analytics-tracking.meetup.com
 analytics-wcms.joins.net
 analytics-zone-1.api.leadfamly.com
