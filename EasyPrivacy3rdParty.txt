@@ -661,6 +661,7 @@ msadsscale.azureedge.net
 munchkin.marketo.net
 mv.treehousei.com
 myscoop-tracking.googlecode.com
+native-ads-events-api.c4s-rd.services
 neocounter.neoworx-blog-tools.net
 net-tracker.notolytix.com
 netlify-rum.netlify.app
