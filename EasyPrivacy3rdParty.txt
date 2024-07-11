@@ -572,6 +572,7 @@ l.ooyala.com
 l.player.ooyala.com
 l.sharethis.com
 l.typesquare.com
+lambda-url.us-east-1.on.aws
 laurel.macrovision.com
 laurel.rovicorp.com
 lciapi.ninthdecimal.com
@@ -947,6 +948,7 @@ t.channeladvisor.com
 t.clic2buy.com
 t.dgm-au.com
 t.enuygun.com
+t.fullres.net
 t.ghostboard.io
 t.irtyc.com
 t.jobsyn.org
