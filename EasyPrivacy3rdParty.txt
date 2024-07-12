@@ -317,6 +317,7 @@ conversions.genieventures.co.uk
 cookie-guard-erdee.ey.r.appspot.com
 cookies.livepartners.com
 cookiex.ngd.yahoo.com
+core-apps.b-cdn.net
 count-server.sharethis.com
 count.asnetworks.de
 count.carrierzone.com
@@ -931,6 +932,7 @@ surveywall-api.survata.com
 svibeacon.onezapp.com
 sync.adap.tv
 sync.outbrain.com
+system-beta.b-cdn.net
 t.360playvid.info
 t.91syun.com
 t.a3cloud.net
