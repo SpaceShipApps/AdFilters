@@ -133,6 +133,7 @@ collector.github.com
 collector.githubapp.com
 collector.megaxh.com
 collector.pi.spectrum.net
+collector.quillbot.com
 collector.taoxh.life
 collector.xhaccess.com
 collector.xhamster.com
@@ -268,6 +269,7 @@ iam-rum-intake.datadoghq.com
 iedc.fitbit.com
 iguazu.doordash.com
 ih.newegg.com
+impressions.svc.abillion.com
 improve.tempest.com
 indmetric.rediff.com
 ingest.make.rvohealth.com

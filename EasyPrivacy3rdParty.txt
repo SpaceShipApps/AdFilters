@@ -443,6 +443,7 @@ events.elev.io
 events.flagship.io
 events.jotform.com
 events.launchdarkly.com
+events.mapbox.com
 events.matterport.com
 events.medio.com
 events.missena.io
@@ -590,6 +591,7 @@ lit.connatix.com
 literally-analytics.appspot.com
 livecounter.theyosh.nl
 livestats.kaltura.com
+lma.npaw.com
 loader-cdn.azureedge.net
 loader.zeroform.com
 log-pq.shopfully.cloud
