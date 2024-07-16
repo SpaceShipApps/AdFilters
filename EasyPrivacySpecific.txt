@@ -386,6 +386,7 @@ pixelzirkus.gameforge.com
 pixiedust.buzzfeed.com
 pks-analytics.raenonx.cc
 pl.letsblock.it
+pl.lucida.to
 plausible.bots.gg
 plausible.dragonfru.it
 plausible.omgapi.org
