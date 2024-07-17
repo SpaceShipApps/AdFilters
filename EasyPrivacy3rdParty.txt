@@ -195,6 +195,7 @@ bat.bing.com
 bat.bing.net
 baxter.olx.org
 bc.marfeelcache.com
+beacon-v2.helpscout.net
 beacon.adelphic.com
 beacon.affil.walmart.com
 beacon.aimtell.com
@@ -521,7 +522,6 @@ hit.mybestpro.com
 hits.dealer.com
 hits.getelevar.com
 hits.informer.com
-hk-trc-events.taboola.com
 hktracker.hankookilbo.com
 hm.baidu.com
 hop.clickbank.net
@@ -574,6 +574,7 @@ l.ooyala.com
 l.player.ooyala.com
 l.sharethis.com
 l.typesquare.com
+outbrain.com
 laurel.macrovision.com
 laurel.rovicorp.com
 lciapi.ninthdecimal.com
@@ -972,6 +973,8 @@ t.spbx.app
 t.splicky.com
 t.spot.im
 t2.t2b.click
+taboola.com
+taboolasyndication.com
 tag-manager.playbuzz.com
 tag.aticdn.net
 tag.atom.gamedistribution.com
@@ -1400,15 +1403,6 @@ stats.how.wtf
 !supercalifragilisticexpialidocious.co.uk
 !xip.io
 !yoogle.com
-am-vid-events.taboola.com
-convsgmp.taboola.com
-la-sync.taboola.com
-nr-events.taboola.com
-opps.taboola.com
-sync.taboola.com
-urc.taboolasyndication.com
-vidstat.taboola.com
-wf.taboola.com
 ascpqnj-oam.global.ssl.fastly.net
 fyrsbckgi-c.global.ssl.fastly.net
 mjca-yijws.global.ssl.fastly.net
