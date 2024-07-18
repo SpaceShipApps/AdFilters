@@ -228,6 +228,7 @@ bonfire.spklw.com
 botdetection.hbrsd.com
 branch.io
 browser-intake-datadoghq.com
+browser.covatic.io
 browser.events.data.microsoft.com$ping
 browser.pipe.aria.microsoft.com
 bs.yandex.ru
@@ -574,7 +575,6 @@ l.ooyala.com
 l.player.ooyala.com
 l.sharethis.com
 l.typesquare.com
-outbrain.com
 laurel.macrovision.com
 laurel.rovicorp.com
 lciapi.ninthdecimal.com
@@ -688,6 +688,7 @@ onetrust.com$ping
 openxcdn.net
 optimeeze.appspot.com
 orts.wixawin.com
+outbrain.com
 p.cquotient.com
 p.metrilo.com
 p.placed.com
