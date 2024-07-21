@@ -120,10 +120,12 @@ cnt.iceporn.com
 cnt.viptube.com
 cnt.vivatube.com
 cnt.xhamster.com
+collect.air1.com
 collect.alipay.com
 collect.asics.com
 collect.banggood.com
 collect.hollisterco.com
+collect.klove.com
 collect.reagroupdata.com.au
 collect.stepstone.co.uk
 collect.thunder-io.com
@@ -164,6 +166,7 @@ data.torry.io
 data.younow.com
 datadome.maisonsdumonde.com
 datadome.patreon.com
+datum.jsdelivr.com
 dbhsejcg-meetup-com.cdnjs.network
 dc.banggood.com
 dd.auspost.com.au
@@ -528,8 +531,10 @@ t2.hulu.com
 t810.ctpost.com
 tagger.ope.scmp.com
 tagging.steelseries.com
+tags.air1.com
 tags.aljazeera.com
 tags.johnlewis.com
+tags.klove.com
 tags.news.com.au
 tags.stepstone.com
 tao.barstoolsports.com
