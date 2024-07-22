@@ -363,6 +363,7 @@ ok88okg.infinityscans.net
 ophan.theguardian.com
 optimizely.techtarget.com
 p.hentaiforce.net
+p.lucida.to
 p.minds.com
 pac.thescottishsun.co.uk
 pac.thesun.co.uk
@@ -391,7 +392,6 @@ pixelzirkus.gameforge.com
 pixiedust.buzzfeed.com
 pks-analytics.raenonx.cc
 pl.letsblock.it
-pl.lucida.to
 plausible.bots.gg
 plausible.dragonfru.it
 plausible.omgapi.org
@@ -553,6 +553,7 @@ telemetry.algolia.com
 telemetry.api.playstation.com
 telemetry.firez.one
 telemetry.tradingview.com
+test.torrentfreak.com
 tgt.maep.ibm.com
 thtk.temu.com
 tif.ionos.com
