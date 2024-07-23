@@ -396,6 +396,7 @@ plausible.bots.gg
 plausible.dragonfru.it
 plausible.omgapi.org
 plausible.safing.io
+plausible.tubemagic.com
 player-telemetry.vimeo.com
 plenty.vidio.com
 pm.dailykos.com

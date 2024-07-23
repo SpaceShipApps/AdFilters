@@ -394,7 +394,6 @@ distillery.wistia.com
 dl.episerver.net
 doppler-beacon.cbsivideo.com
 doppler-client-events.cbsivideo.com
-doppler-config.cbsivideo.com
 doppler-reporting.cbsivideo.com
 dotaudiences.com
 dw.com.com
@@ -1090,6 +1089,7 @@ tracker.myth.dev
 tracker.myyschool.xyz
 tracker.netklix.com
 tracker.nitropay.com
+tracker.nocodelytics.com
 tracker.novage.com.ua
 tracker.openwebtorrent.com
 tracker.services.vaix.ai
