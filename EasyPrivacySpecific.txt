@@ -147,6 +147,7 @@ colvk.viki.io
 confiant.msn.com
 console-telemetry.oci.oraclecloud.com
 copilot-telemetry.githubusercontent.com
+count.darkreader.app
 count.rin.ru
 counter.darkreader.app
 cpt.itv.com
@@ -553,6 +554,7 @@ telemetry.adobe.io
 telemetry.algolia.com
 telemetry.api.playstation.com
 telemetry.firez.one
+telemetry.stytch.com
 telemetry.tradingview.com
 test.torrentfreak.com
 tgt.maep.ibm.com
