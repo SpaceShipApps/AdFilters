@@ -757,6 +757,7 @@ plausibleio.workers.dev
 play.adtonos.com
 player-metrics.instaread.co
 pm.boostintegrated.com
+pmi.flowplayer.com
 popup-static.unisender.com
 porpoise.azettl.net
 pr-bh.ybp.yahoo.com
@@ -1312,6 +1313,7 @@ d2lxqodqbpy7c2.cloudfront.net
 d2nxi61n77zqpl.cloudfront.net
 d2o67tzzxkqap2.cloudfront.net
 d2oh4tlt9mrke9.cloudfront.net
+d2pozfvrp52dk4.cloudfront.net
 d2pt12ct4kmq21.cloudfront.net
 d2r1yp2w7bby2u.cloudfront.net
 d2rnkf2kqy5m6h.cloudfront.net

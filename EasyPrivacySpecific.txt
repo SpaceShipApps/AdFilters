@@ -232,6 +232,7 @@ fathom.tdvm.net
 fbo-statistics-collector-tc.is.flippingbook.com
 fdt.kraken.com
 femetrics.grammarly.io
+fgn-plausible.serverable.com
 firebaselogging.googleapis.com
 fp.measure.office.com
 fpa-cdn.adweek.com
@@ -453,6 +454,7 @@ sa.uswitch.com
 saa.insideedition.com
 sapphire-api.target.com
 search.anonymous.ads.brave.com
+services.haaretz.com
 shopmetric.rediff.com
 sid.nordstrom.com
 sjc.cloud.optable.co
