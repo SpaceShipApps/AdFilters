@@ -205,6 +205,7 @@ eurogamer-uk.eurogamer.net
 event-api.reverb.com
 event-collector.moviesanywhere.com
 event-router.olympics.com
+event.platform.autotrader.com.au
 event.platform.tunein.com
 eventlog.jackpot.de
 events-ingestion.services.gorgias.com
@@ -278,15 +279,18 @@ iguazu.doordash.com
 ih.newegg.com
 impressions.svc.abillion.com
 improve.tempest.com
+in.brilliant.org
 indmetric.rediff.com
 ingest.make.rvohealth.com
 ingress.linktr.ee
+insights-mxp-cdn.coursecareers.com
 intent.cmo.com.au
 intent.goodgearguide.com.au
 intent.macworld.co.uk
 intent.pcworld.idg.com.au
 intent.techadvisor.com
 internal-analytics.odoo.com
+internal-e.posthog.com
 intg.snapchat.com
 intuitvisitorid.api.intuit.com
 ip.cliphunter.com
