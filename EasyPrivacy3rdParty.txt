@@ -5,6 +5,7 @@
 3p-udc.yahoo.com
 51network.com
 9w2zed1szg.execute-api.us-east-1.amazonaws.com
+a.emea01.idio.episerver.net
 a.getflowbox.com
 a.hcaptcha.com
 a.mobify.com
@@ -785,7 +786,6 @@ px.owneriq.net
 px.spiceworks.com
 pylon.micstatic.com
 qubitanalytics.appspot.com
-query.petametrics.com
 r.mail.ru
 r.skimresources.com
 ramp.purch.com
