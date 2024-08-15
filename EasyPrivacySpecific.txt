@@ -46,7 +46,6 @@ analytics.global.sky.com
 analytics.hashnode.com
 analytics.inquisitr.com
 analytics.kaggle.io
-analytics.kooapp.com
 analytics.makeitmeme.com
 analytics.maxroll.gg
 analytics.ml.homedepot.ca
@@ -59,7 +58,6 @@ analytics.plex.tv
 analytics.productreview.com.au
 analytics.qogita.com
 analytics.realestate.com.au
-analytics.send.cm
 analytics.silktide.com
 analytics.slashdotmedia.com
 analytics.synchrony.com
@@ -71,14 +69,12 @@ analyticsapi.qogita.com
 anon-stats.eff.org
 api-hotmart-tracking-manager.hotmart.com
 api-js.mixpanel.com
-api.privacyguides.net
 api.takealot.com$ping
 appanalysis.banggood.com
 atrack.allposters.com
 ats.alot.com
 aurum.tirto.id
 b629.electronicdesign.com
-barnes.send.cm
 bat.maydream.com
 bats.video.yahoo.com
 beacon.dropbox.com
@@ -153,7 +149,6 @@ count.darkreader.app
 count.rin.ru
 counter.darkreader.app
 cpt.itv.com
-crayfish.thingelstad.com
 crta.metro.co.uk
 crumbs.robinhood.com
 cryo.socialblade.com
@@ -169,7 +164,6 @@ data.guide.photobucket.com
 data.torry.io
 data.younow.com
 datadome.maisonsdumonde.com
-datadome.patreon.com
 datum.jsdelivr.com
 dbhsejcg-meetup-com.cdnjs.network
 dc.banggood.com
@@ -179,7 +173,6 @@ ddome-tag.blablacar.com
 deliver.ptgncdn.com
 discover-metrics.cloud.seek.com.au
 dls-account.di.atlas.samsung.com
-dot.nonolive.com
 dp.shoprunner.com
 dtag.breadfinancial.com
 dumpster.cam4.com
@@ -211,7 +204,6 @@ event-router.olympics.com
 event.platform.autotrader.com.au
 event.platform.tunein.com
 eventlog.jackpot.de
-events-ingestion.services.gorgias.com
 events-prod.autolist.com
 events-tracker.deliveroo.net
 events.api.godaddy.com
@@ -264,7 +256,6 @@ gmetrics.getbeamer.com
 gnar.grammarly.com
 go.pardot.com
 go.theregister.com
-gotie.tunein.com
 grgnsht.nzxt.com
 gtm.lercio.it
 gtm.wise.com
@@ -319,7 +310,6 @@ log.hypebeast.com
 log.klook.com
 log.quora.com
 log.snapdeal.com
-log.v.ssp.yahoo.com
 log.webnovel.com
 logger.nerdwallet.com
 logger007.cam4.com
@@ -362,7 +352,6 @@ mp.theepochtimes.com
 mr.homedepot.ca
 msg-intl.qy.net
 mstm.motorsport.com
-n26-trusted.n26.com
 na.groupondata.com
 nasi.etherscan.com
 net.haier.com
@@ -374,7 +363,6 @@ ok88okg.infinityscans.net
 ophan.theguardian.com
 optimizely.techtarget.com
 p.hentaiforce.net
-p.lucida.to
 p.minds.com
 pac.thescottishsun.co.uk
 pac.thesun.co.uk
@@ -453,7 +441,6 @@ rta2.newzit.com
 rtds.progressive.com
 rum.api.intuit.com
 rum.condenastdigital.com
-rum.kobo.com
 rv.modanisa.com
 rvo-cohesion.healthline.com
 s.gofile.io
@@ -502,7 +489,6 @@ stats.ibtimes.sg
 stats.justpaste.it
 stats.mempool.space
 stats.newsweek.com
-stats.pstream.net
 stats.qwant.com
 stats.sandberg.world
 stats.searchftps.net
@@ -529,7 +515,6 @@ t.freelancer.com
 t.imgur.com
 t.indeed.com
 t.ionos.com
-t.iwara.tv
 t.jossandmain.com
 t.kck.st
 t.nypost.com
@@ -542,7 +527,6 @@ t.wayfair.ca
 t.wayfair.co.uk
 t.wayfair.com
 t.y8.com
-t.zulily.com
 t2.hulu.com
 t810.ctpost.com
 tagger.ope.scmp.com
@@ -570,7 +554,6 @@ telemetry.api.playstation.com
 telemetry.firez.one
 telemetry.stytch.com
 telemetry.tradingview.com
-test.torrentfreak.com
 tgt.maep.ibm.com
 thtk.temu.com
 tif.ionos.com
@@ -649,6 +632,7 @@ wc.yahoodns.net
 weblog.flyasiana.com
 wh.ipaddress.com
 wstats.e-wok.tv
+xp.apple.com
 z.cdp-dev.cnn.com
 z737.thestar.com
 za.qeeq.com
@@ -689,6 +673,7 @@ d810.mysanantonio.com
 dii.bankaust.com.au
 eventbus.intuit.com
 f775.thehour.com
+glassbox-hlx-igw.bankofamerica.com
 h353.ncadvertiser.com
 h559.stamfordadvocate.com
 j198.registercitizen.com
@@ -696,7 +681,6 @@ l936.expressnews.com
 o398.trumbulltimes.com
 pf.intuit.com
 q777.sfchronicle.com
-sofa.bankofamerica.com
 t570.wiltonbulletin.com
 tilt.bankofamerica.com
 u652.myplainview.com
@@ -718,7 +702,6 @@ cmp.lemonde.fr
 cmp.lepoint.fr
 cmp.netzwelt.de
 cmp.nouvelobs.com
-cmp.tech426.com
 cmp.tek.no
 cmp.telerama.fr
 d.sourcepoint.capitalfm.com
