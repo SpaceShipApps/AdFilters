@@ -6,6 +6,7 @@ aa.avvo.com
 aax-eu-dub.amazon.com
 aax-us-iad.amazon.com
 ab-machine.forbes.com
+ab.chatgpt.com
 ab.fanatical.com
 activity.fiverr.com
 adc-js.nine.com.au
@@ -366,6 +367,7 @@ p.hentaiforce.net
 p.minds.com
 pac.thescottishsun.co.uk
 pac.thesun.co.uk
+papi.stylar.ai
 pappagallu.onefootball.com
 pcp.coupert.com
 perf.mouser.com

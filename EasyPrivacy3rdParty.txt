@@ -191,7 +191,6 @@ bat.bing.com
 bat.bing.net
 baxter.olx.org
 bc.marfeelcache.com
-beacon-v2.helpscout.net
 beacon.adelphic.com
 beacon.affil.walmart.com
 beacon.aimtell.com
@@ -356,6 +355,7 @@ dash.getsitecontrol.com
 data.circulate.com
 data.digitalks.az
 data.eetech.com
+data.embeddables.com
 data.gosquared.com
 data.minute.ly
 data.nexxt.com
@@ -742,6 +742,7 @@ processor.asccommunications.com
 prod.ew.srp.navigacloud.com
 prod.fennec.atp.fox
 proxy.dzeio.com
+proxy.trysavvy.com
 pt.crossmediaservices.com
 pt.ispot.tv
 ptsc.shoplocal.com
@@ -803,6 +804,7 @@ seg.sharethis.com
 segments.adap.tv
 service.trustpid.com
 session.timecommerce.net
+sessions.embeddables.com
 sftrack.searchforce.net
 sgali-mcs.byteoversea.com
 shared.65twenty.com
