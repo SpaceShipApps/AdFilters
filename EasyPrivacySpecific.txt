@@ -341,6 +341,7 @@ metrics.roblox.com
 metrics.spkt.io
 metrics.syf.com
 metrics.ted.com
+metrics.th.gl
 metricsishare.rediff.com
 mi.grubhub.com
 miao.baidu.com
