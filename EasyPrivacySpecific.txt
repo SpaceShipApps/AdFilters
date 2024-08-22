@@ -6,7 +6,6 @@ aa.avvo.com
 aax-eu-dub.amazon.com
 aax-us-iad.amazon.com
 ab-machine.forbes.com
-ab.chatgpt.com
 ab.fanatical.com
 activity.fiverr.com
 adc-js.nine.com.au
@@ -222,6 +221,7 @@ events.turbosquid.com
 events2.www.edenfantasys.com
 evs.icy-lake.kickstarter.com
 evs.sgmt.loom.com
+exp.notion.so
 exr-mms.expertreviews.co.uk
 f362.nola.com
 fathom.app.silverbeak.com
