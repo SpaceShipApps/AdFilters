@@ -555,6 +555,7 @@ l.ooyala.com
 l.player.ooyala.com
 l.sharethis.com
 l.typesquare.com
+lambda-url.eu-west-1.on.aws$ping
 laurel.macrovision.com
 laurel.rovicorp.com
 lciapi.ninthdecimal.com
