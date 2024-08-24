@@ -78,6 +78,7 @@ deapi.afreecatv.com
 startup.mobile.yandex.net
 startup.mobile.webvisor.com
 startup-mobile.ap.yandex-net.ru
+umphek.com
 ahoy-internal-ads-hv.b-cdn.net
 ad.iwhop.cn
 s-odx.oleads.com
