@@ -1041,6 +1041,7 @@ track.yieldsoftware.com
 tracker-dot-optimeeze.appspot.com
 tracker-v4.gamedock.io
 tracker.affirm.com
+tracker.au.zitcha.app
 tracker.beezup.com
 tracker.cdnbye.com
 tracker.downdetector.com
