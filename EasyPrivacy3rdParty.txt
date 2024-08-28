@@ -31,6 +31,8 @@ amplify.outbrain.com
 amplifypixel.outbrain.com
 ams-pageview-public.s3.amazonaws.com
 analyse.bcovery.com
+analytic-client.chickgoddess.com
+analytic-client.panowars.com
 analytic.rollout.io
 analytic.xingcloud.com
 analyticcdn.globalmailer.com
