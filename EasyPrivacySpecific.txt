@@ -455,6 +455,7 @@ s.infogram.com
 s.wayfair.com
 sa.uswitch.com
 saa.insideedition.com
+sapi.tremendous.com
 sapphire-api.target.com
 search.anonymous.ads.brave.com
 services.haaretz.com
