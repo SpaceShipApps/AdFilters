@@ -121,6 +121,7 @@ analytics.pangle-ads.com
 analytics.piksel.com
 analytics.pinterest.com
 analytics.pixels.ai
+analytics.plasmic.app
 analytics.pointdrive.linkedin.com
 analytics.pop2watch.com
 analytics.prezly.com
@@ -243,6 +244,7 @@ castify-trk.playitviral.com
 cc.swiftype.com
 ccexperimentsstatic.oracleoutsourcing.com
 cdn-channels-pixel.ex.co
+cdn.ravm.tv
 cdn.usefathom.com
 cf.overblog.com
 cgicounter.oneandone.co.uk
@@ -797,6 +799,7 @@ s.autopilotapp.com
 s.beop.io
 s.logsss.com
 s.srvsynd.com
+s.vibe.co
 sa.scorpion.co
 scout.us2.salesloft.com
 scripts.psyma.com
@@ -963,6 +966,7 @@ tag.imagino.com
 tag.lexer.io
 tag.mtrcs.samba.tv
 tag.myplay.com
+tag.pearldiver.io
 tag.rightmessage.com
 tag.rmp.rakuten.com
 tag.statshop.fr

@@ -358,13 +358,13 @@ mstm.motorsport.com
 na.groupondata.com
 nasi.etherscan.com
 net.haier.com
+no88kks.infinityscans.net
 no9pldds1lmn3.soundcloud.com
 noodle.backmarket.io
 nr-data.noelleeming.co.nz
 nr.noelleeming.co.nz
 observe.metarouter.io
 ohm-dot-hackster-io.appspot.com
-ok88okg.infinityscans.net
 ophan.theguardian.com
 optimizely.techtarget.com
 p.hentaiforce.net
@@ -458,7 +458,6 @@ saa.insideedition.com
 sapi.tremendous.com
 sapphire-api.target.com
 search.anonymous.ads.brave.com
-services.haaretz.com
 shopmetric.rediff.com
 sid.nordstrom.com
 sjc.cloud.optable.co
@@ -469,6 +468,7 @@ sofire.terabox.app
 soundcloud.com$ping
 sp.cargurus.co.uk
 sp.ecosia.org
+sp.pcoptimum.ca
 sp.welcometothejungle.com
 spectrum.gettyimages.com
 spt.ahram.org.eg
