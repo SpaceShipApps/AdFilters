@@ -326,6 +326,7 @@ marketing.alibaba.com
 marketing.dropbox.com
 mcc-tags.cisco.com
 mcs-ie.tiktokw.eu
+mcs-va-useast2a.tiktokv.com
 mcs-va.tiktokv.com
 mcs.tiktokv.us
 mcs.tiktokw.us
@@ -559,6 +560,7 @@ telem.sre.gopuff.com
 telemetry.adobe.io
 telemetry.algolia.com
 telemetry.api.playstation.com
+telemetry.canva.com
 telemetry.firez.one
 telemetry.stytch.com
 telemetry.tradingview.com
