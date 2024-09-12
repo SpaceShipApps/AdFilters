@@ -440,7 +440,6 @@ cls.vrvm.com
 nycp-hlb.dvgtm.akadns.net
 abbott.vo.llnwd.net
 behance.vo.llnwd.net
-kjos.vo.llnwd.net
 synthes.vo.llnwd.net
 teachscape.vo.llnwd.net
 tmz.vo.llnwd.net
