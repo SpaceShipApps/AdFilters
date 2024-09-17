@@ -347,6 +347,7 @@ ct.itbusinessedge.com
 ct.needlive.com
 ct.pinterest.com
 ct.thegear-box.com
+cta-service-cms2.hubspot.com
 cts.businesswire.com
 cts.vresp.com
 curated.fieldtest.cc
@@ -791,6 +792,7 @@ rtxpx-a.akamaihd.net
 rum.azion.com
 rum.azioncdn.net
 rum.corewebvitals.io
+rum.hlx.page
 rum.ingress.layer0.co
 rum.layer0.co
 rum.perfops.net
@@ -890,6 +892,7 @@ stats.phoenix-widget.com
 stats.polldaddy.com
 stats.prebytes.com
 stats.pusher.com
+stats.pushloop.io
 stats.sa-as.com
 stats.sawlive.tv
 stats.screenresolution.org
@@ -1194,6 +1197,7 @@ vstat.borderlessbd.com
 w4o7aea80ss3-a.akamaihd.net
 watchtower.graindata.com
 wco.crownpeak.com
+wds.weqs.me
 web-tracker.smsbump.com
 web1.51.la
 webcare.byside.com
