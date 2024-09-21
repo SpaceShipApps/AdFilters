@@ -356,6 +356,7 @@ mixpanel-proxy.ted.com
 mktcs.cloudapps.cisco.com
 mon.us.tiktokv.com
 monitor.channel4.com
+mp.imgur.com
 mp.theepochtimes.com
 mr.homedepot.ca
 msg-intl.qy.net
@@ -528,7 +529,6 @@ t.birchlane.com
 t.dailymail.co.uk
 t.deepnote.com
 t.freelancer.com
-t.imgur.com
 t.indeed.com
 t.ionos.com
 t.jossandmain.com
