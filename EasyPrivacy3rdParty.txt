@@ -608,6 +608,8 @@ ma.logsss.com
 magento-recs-sdk.adobe.net
 martech.condenastdigital.com
 mas.nth.ch
+mato.clanto.cloud
+matomo.clanto.cloud
 mc.webvisor.com
 mc.webvisor.org
 mc.yandex.com
