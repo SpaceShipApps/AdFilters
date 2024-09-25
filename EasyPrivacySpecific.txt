@@ -598,6 +598,7 @@ track.thesaurus.com
 track.ttsave.app
 track.ultimate-guitar.com
 tracker.affiliate.iqbroker.com
+tracker.bang.com
 tracker.nbcuas.com
 tracker.ranker.com
 tracker.shopclues.com
