@@ -666,6 +666,7 @@ nol.yahoo.com
 nova.dice.net
 nr.static.mmcdn.com
 ns.rvmkitt.com
+nwr.static.mmcdn.com
 observe-nexus.pointandplace.com
 observer.ip-label.net
 octopart-analytics.com
@@ -1054,6 +1055,7 @@ track.venatusmedia.com
 track.vscash.com
 track.yfret.com
 track.yieldsoftware.com
+track.zappos.com
 tracker-dot-optimeeze.appspot.com
 tracker-v4.gamedock.io
 tracker.affirm.com

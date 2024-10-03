@@ -16,6 +16,7 @@ adv.drtuber.com
 aegis.trovo.live
 alb.reddit.com
 als-svc.nytimes.com
+amethyst.6pm.com
 amethyst.zappos.com
 amplitude.chess.com
 ampltd.medal.tv
@@ -91,6 +92,7 @@ binocule21c.merriam-webster.com
 blitz-analytics-batch-server.blitz.gg
 blue.nbc4i.com
 boomerang.dell.com
+bugsnag.shopbop.amazon.dev
 c.arstechnica.com
 c.fingerprint.com
 c.gq.com
@@ -327,6 +329,7 @@ logx.optimizely.com
 ma.redhat.com
 marketing.alibaba.com
 marketing.dropbox.com
+marty.zappos.com
 mcc-tags.cisco.com
 mcs-ie.tiktokw.eu
 mcs-va-useast2a.tiktokv.com
