@@ -63,6 +63,7 @@ analytics.realestate.com.au
 analytics.silktide.com
 analytics.slashdotmedia.com
 analytics.synchrony.com
+analytics.tomato.gg
 analytics.tradedoubler.com
 analytics.vedantu.com
 analytics.wavebox.io
@@ -464,6 +465,7 @@ sa.uswitch.com
 saa.insideedition.com
 sapi.tremendous.com
 sapphire-api.target.com
+scholar.google.com$ping
 search.anonymous.ads.brave.com
 shopmetric.rediff.com
 sid.nordstrom.com
