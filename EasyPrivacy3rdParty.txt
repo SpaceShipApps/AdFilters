@@ -720,6 +720,7 @@ pixel.blivenyc.com
 pixel.byspotify.com
 pixel.condenastdigital.com
 pixel.driveniq.com
+pixel.embed.su
 pixel.fohr.co
 pixel.lilystyle.ai
 pixel.locker2.com
