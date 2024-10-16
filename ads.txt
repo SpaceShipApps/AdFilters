@@ -72,9 +72,9 @@ usp1.baidu.com
 54.222.186.106
 plugin.mobopay.baidu.com
 mo.freeindoapp.com
-reqde.afreecatv.com
-adballoon.afreecatv.com
-deapi.afreecatv.com
+reqde.sooplive.co.kr
+adballoon.sooplive.co.kr
+deapi.sooplive.co.kr
 startup.mobile.yandex.net
 startup.mobile.webvisor.com
 startup-mobile.ap.yandex-net.ru
