@@ -630,6 +630,7 @@ ua.indianexpress.com
 ubuyanalytics.ubuy.com
 um.contentstudio.io
 umami.wakarimasen.moe
+unl1zvy2zuyn.franchiseplus.nl
 urs.metacritic.com
 user-metrics.onthemarket.com
 usmetric.rediff.com
@@ -639,8 +640,11 @@ vf.startpage.com
 views.arabnews.com
 views.asurascans.com
 vortex.hulu.com
+w2g-mtrx.w2g.tv
+w2g-ping.b-cdn.net
 w3-reporting.reddit.com
 w6.chabad.org
+w9g7dlhw3kaank.www.eldorado.gg
 wa.childrensplace.com
 wa.gmx.co.uk
 wa.gymboree.com
