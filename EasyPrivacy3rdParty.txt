@@ -924,6 +924,7 @@ stream-log.dditscdn.com
 streams.cablecar.sph.com.sg
 sts.eccmp.com
 sunlightmetrics.b-cdn.net
+surfshark.events
 survey.interquest.com
 surveywall-api.survata.com
 svibeacon.onezapp.com
