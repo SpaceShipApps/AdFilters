@@ -349,7 +349,6 @@ ct.itbusinessedge.com
 ct.needlive.com
 ct.pinterest.com
 ct.thegear-box.com
-cta-service-cms2.hubspot.com
 cts.businesswire.com
 cts.vresp.com
 curated.fieldtest.cc
