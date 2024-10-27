@@ -170,6 +170,7 @@ ape-tagit.timeinc.net
 api-analytics-prd.pelcro.com
 api.autopilothq.com
 api.country.is
+api.june.so
 api.wipmania.com
 app.adjust.com
 apple.www.letv.com
