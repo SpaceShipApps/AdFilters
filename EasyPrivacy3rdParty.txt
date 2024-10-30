@@ -1215,7 +1215,6 @@ wco.crownpeak.com
 wds.weqs.me
 web-tracker.smsbump.com
 web1.51.la
-webcare.byside.com
 websdk.appsflyer.com
 webservices.websitepros.com
 webstats.thaindian.com
