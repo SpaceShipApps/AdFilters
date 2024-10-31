@@ -1395,6 +1395,7 @@ stats.how.wtf
 !xip.io
 !yoogle.com
 ascpqnj-oam.global.ssl.fastly.net
+fpcn.bpsgameserver.com
 fyrsbckgi-c.global.ssl.fastly.net
 mjca-yijws.global.ssl.fastly.net
 rc.vtex.com.br
