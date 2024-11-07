@@ -924,6 +924,7 @@ statsadv.dadapro.com
 statsapi.screen9.com
 statscollector-1.agora.io
 statscollector.sd-rtn.com
+statsjs.klevu.com
 statt-collect.herokuapp.com
 stg-data-collector.playbuzz.com
 stream-log.dditscdn.com
