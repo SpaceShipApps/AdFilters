@@ -1222,6 +1222,7 @@ webtrack.chd01.com
 webtrack.savoysystems.co.uk
 webtracker.apicasystem.com
 widget-pixels.outbrain.com
+widget.civey.com$ping
 widget.educationdynamics.com
 win.staticstuff.net
 wl-pixel.index.digital
