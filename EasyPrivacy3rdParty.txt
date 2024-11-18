@@ -401,7 +401,6 @@ ecommstats.s3.amazonaws.com
 edge.adobedc.net
 edge.bredg.com
 eel.transistor.fm
-ele26126.jscrambler.com
 epl.paypal-communication.com
 eq.userneeds.com
 era.easyvoyage.com
@@ -763,6 +762,7 @@ privacy.outdoorsg.com
 processor.asccommunications.com
 prod.ew.srp.navigacloud.com
 prod.fennec.atp.fox
+prodregistryv2.org
 proxy.dzeio.com
 proxy.trysavvy.com
 pt.crossmediaservices.com
