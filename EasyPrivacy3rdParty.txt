@@ -145,6 +145,7 @@ analytics.test.cheggnet.com
 analytics.themarketiq.com
 analytics.threedeepmarketing.com
 analytics.tiktok.com
+analytics.topseotoolkit.com
 analytics.tout.com
 analytics.unibuddy.co
 analytics.unilogcorp.com
@@ -250,6 +251,7 @@ cdn-channels-pixel.ex.co
 cdn.debugbear.com
 cdn.ravm.tv
 cdn.usefathom.com
+cdns.brsrvr.com
 cf-pixelfront-analytics.widencdn.net
 cf.overblog.com
 cgicounter.oneandone.co.uk
