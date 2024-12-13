@@ -452,7 +452,6 @@ events.paramount.tech
 events.realgravity.com
 events.shareably.net
 events.splash-screen.net
-events.split.io
 events.storifyme.com
 events.tryamped.com
 events.tubecup.org
