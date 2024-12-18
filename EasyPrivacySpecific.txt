@@ -477,6 +477,7 @@ sapi.tremendous.com
 sapphire-api.target.com
 scholar.google.com$ping
 search.anonymous.ads.brave.com
+service.techzine.eu
 shopmetric.rediff.com
 sid.nordstrom.com
 sjc.cloud.optable.co
