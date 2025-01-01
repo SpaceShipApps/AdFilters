@@ -27,7 +27,6 @@ akatracking.esearchvision.com
 aktion.esprit-club.com
 alexandria.marfeelcdn.com
 amp-error-reporting.appspot.com
-amplify.outbrain.com
 amplifypixel.outbrain.com
 ams-pageview-public.s3.amazonaws.com
 analyse.bcovery.com
@@ -298,7 +297,6 @@ collector.appconsent.io
 collector.automote.co.nz
 collector.clareity.net
 collector.contentexchange.me
-collector.dmp.cnna.io
 collector.getyourguide.com
 collector.mazeberry.com
 collector.sspinc.io
@@ -397,7 +395,6 @@ dw.com.com
 dx.mountain.com
 dynamic.ziftsolutions.com
 e.channelexco.com
-e.htplayground.com
 ea.youmaker.com
 ec.walkme.com
 ecomm.events
@@ -944,7 +941,6 @@ survey.interquest.com
 surveywall-api.survata.com
 svibeacon.onezapp.com
 sync.adap.tv
-sync.outbrain.com
 system-beta.b-cdn.net
 t.360playvid.info
 t.91syun.com
