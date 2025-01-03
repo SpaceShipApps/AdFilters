@@ -290,6 +290,7 @@ collect.rewardstyle.com
 collect.usefathom.com
 collect.verify.lnearn.com
 collection.e-satisfaction.com
+collector-1.ex.co
 collector-api.99designs.com
 collector-api.frspecifics.com
 collector.api.video

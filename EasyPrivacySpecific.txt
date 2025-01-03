@@ -691,6 +691,7 @@ content22.online.citi.com
 customer.homedepot.com
 drfdisvc.walmart.com
 event.evtm.53.com
+idhtm.bb.com.br
 idstatus.sky.com
 img2021.navyfederal.org
 imgs.signifyd.com
