@@ -228,6 +228,7 @@ browser.covatic.io
 browser.events.data.microsoft.com$ping
 browser.pipe.aria.microsoft.com
 bs.yandex.ru
+c.albss.com
 c.amazinglybrilliant.com.au
 c.bazo.io
 c.imedia.cz
