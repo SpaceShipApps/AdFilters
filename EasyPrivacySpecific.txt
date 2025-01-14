@@ -352,6 +352,7 @@ metrics.bangbros.com
 metrics.camsoda.com
 metrics.freemake.com
 metrics.hackerrank.com
+metrics.hyperliquid.xyz
 metrics.onewegg.com
 metrics.roblox.com
 metrics.spkt.io
