@@ -34,6 +34,7 @@ analytics.3c5.com
 analytics.academy.com
 analytics.ahrefs.dev
 analytics.archive.org
+analytics.bitchute.com
 analytics.brave.com
 analytics.chase.com
 analytics.cookiefirst.dev
@@ -685,6 +686,7 @@ oneid.mmstat.com
 cfa.fidelity.com
 clear.wallapop.com
 content.canadiantire.ca
+content.tab.com.au
 content22.bmo.com
 content22.citi.eu
 content22.citibank.com.au
@@ -751,7 +753,6 @@ cmp.tek.no
 cmp.telerama.fr
 d.sourcepoint.capitalfm.com
 fuse.forbes.com
-h-bid.com
 sourcepoint-mms.aetv.com
 sourcepoint-mms.history.com
 sourcepoint-mms.mylifetime.com
