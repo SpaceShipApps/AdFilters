@@ -749,6 +749,7 @@ pixels.afcdn.com
 pl.connatix.com
 pla.fwdcdn.com
 platform.iteratehq.com
+plausible.flamekiller.org
 plausible.server.hakai.app
 plausibleio.workers.dev
 play.adtonos.com
