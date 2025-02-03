@@ -512,6 +512,7 @@ gsp1.baidu.com
 gtmfsstatic.getgoogletagmanager.com
 gtrk.s3.amazonaws.com
 gu-pix.appspot.com
+gw.conversionsapigateway.com
 h-bid.com
 happen.spkt.io
 harvest.graindata.com
