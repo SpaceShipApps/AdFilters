@@ -192,6 +192,7 @@ axislogger.appspot.com
 az.nzn.io
 az693360.vo.msecnd.net
 b.bedop.com
+b.trueanthem.com
 b7tp47v2nb3x-a.akamaihd.net
 barium.cheezdev.com
 bat.bing.com
@@ -795,7 +796,6 @@ recs.shareaholic.com
 refer.wordpress.com
 referrer.disqus.com
 removeads.workers.dev
-report.error-report.com
 reporting-api.gannettinnovation.com
 reporting.cdndex.io
 reporting.singlefeed.com
