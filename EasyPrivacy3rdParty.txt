@@ -504,6 +504,7 @@ geoip.instiengage.com
 geoip.nekudo.com
 geolocation.outreach.com
 geoservice.curse.com
+geotags.refinery89.com
 gi-client-tracking.goodgamestudios.com
 gleam.io
 go.activengage.com
