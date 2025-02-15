@@ -773,6 +773,7 @@ processor.asccommunications.com
 prod.ew.srp.navigacloud.com
 prod.fennec.atp.fox
 prodregistryv2.org
+propsid.b-cdn.net
 proxy.dzeio.com
 proxy.trysavvy.com
 pt.crossmediaservices.com
@@ -1447,7 +1448,6 @@ sealserver.trustwave.com
 secure.trust-guard.com
 securitymetrics.com
 shield.sitelock.com
-shopperapproved.com
 siteintercept.allegiancetech.com
 smart-widget-assets.ekomiapps.de
 trusted-web-seal.cybertrust.ne.jp
