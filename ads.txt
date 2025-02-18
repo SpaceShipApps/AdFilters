@@ -78,6 +78,8 @@ deapi.sooplive.co.kr
 startup.mobile.yandex.net
 startup.mobile.webvisor.com
 startup-mobile.ap.yandex-net.ru
+datk.bridgeoos.com
+tapi.pureapk.com
 ads.appbundledownload.com
 san.myadssupport.com
 api.youngle.tech
