@@ -535,6 +535,7 @@ i.compendium.com
 i.posthog.com
 i.viafoura.co
 iabusprivacy.pmc.com
+id.a-mx.com
 iddu1vvb7sk8-a.akamaihd.net
 identification.hotmart.com
 ihi.flowplayer.com

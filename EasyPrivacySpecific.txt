@@ -91,6 +91,7 @@ beacon.wikia-services.com
 beacons.digital.disneyadvertising.com
 bfp.capitalone.com
 bi.banggood.com
+bicp-analytics.postscript.io
 binocule21c.merriam-webster.com
 blitz-analytics-batch-server.blitz.gg
 blue.nbc4i.com
