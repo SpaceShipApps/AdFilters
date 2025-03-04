@@ -214,7 +214,6 @@ ads.imbc.com
 skt-asum.com
 bdapi-in-ads.realmemobile.com
 bjads.bejbej.ca
-external-ad.bunjang.co.kr
 hellay.net
 rqmob.com
 ads-server.mxplay.com
