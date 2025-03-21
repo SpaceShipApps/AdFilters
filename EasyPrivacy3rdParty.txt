@@ -927,6 +927,7 @@ stats.screenresolution.org
 stats.senty.com.au
 stats.shopify.com
 stats.smartclip.net
+stats.tiktoker.win
 stats.topofblogs.com
 stats.uscreen.io
 stats.varrando.com
@@ -1259,6 +1260,7 @@ x.disq.us
 x.weather.com
 xp2023-pix.s3.amazonaws.com
 yoast-schema-graph.com
+yotrack.cdn.ybn.io
 adsdk.yandex.ru
 analytics-api.samsunghealthcn.com
 analytics.mobile.yandex.net
