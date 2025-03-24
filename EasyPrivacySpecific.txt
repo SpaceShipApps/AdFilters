@@ -183,6 +183,7 @@ datum.jsdelivr.com
 dbhsejcg-meetup-com.cdnjs.network
 dc.banggood.com
 dd.auspost.com.au
+dd.g2.com
 dd.nytimes.com
 ddome-tag.blablacar.com
 discover-metrics.cloud.seek.com.au
