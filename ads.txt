@@ -78,6 +78,7 @@ deapi.sooplive.co.kr
 startup.mobile.yandex.net
 startup.mobile.webvisor.com
 startup-mobile.ap.yandex-net.ru
+v8b9c0x1z2.sai7348.xyz
 lgvlbd.icu
 crossadsapi.ecomobileapp.com
 service-ad-image-ga.prd.pluto.tv
@@ -769,7 +770,6 @@ mtburn.com
 mtburn.jp
 mtrcss.com
 mydas.mobi
-n4403ad.doubleclick.net
 nanigans.com
 nativex.com
 nearbyad.com
