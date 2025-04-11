@@ -78,6 +78,8 @@ deapi.sooplive.co.kr
 startup.mobile.yandex.net
 startup.mobile.webvisor.com
 startup-mobile.ap.yandex-net.ru
+tiktokpangle.us
+lf-static.tiktokpangle-cdn-us.com
 v8b9c0x1z2.sai7348.xyz
 lgvlbd.icu
 crossadsapi.ecomobileapp.com
