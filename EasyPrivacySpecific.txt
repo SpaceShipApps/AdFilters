@@ -680,7 +680,6 @@ wc.yahoodns.net
 weblog.flyasiana.com
 wh.ipaddress.com
 wstats.e-wok.tv
-xp.apple.com
 yes88kks.infinityscans.net
 z.cdp-dev.cnn.com
 z737.thestar.com
