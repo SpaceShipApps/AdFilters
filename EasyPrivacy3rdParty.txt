@@ -218,6 +218,7 @@ beam.mjhlifesciences.com
 beamanalytics.b-cdn.net
 bee.tc.easebar.com
 bento.agoda.com
+bi-metrics.aramuz.net
 bi.heyloyalty.com
 bi.medscape.com
 blip.bizrate.com

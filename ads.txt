@@ -143,7 +143,6 @@ ad.line-scdn.net
 splash-ad.classting.com
 ad-files.classting.com
 v16-ad.byteoversea.com
-vs-api.voodoo-tech.io
 psvpromo.psvgamestudio.com
 static.timetreeads.com
 kfvjdvjzhddhc.com
