@@ -401,6 +401,7 @@ dw.com.com
 dx.mountain.com
 dynamic.ziftsolutions.com
 e.channelexco.com
+e045f561.b-cdn.net
 ea.youmaker.com
 ec.walkme.com
 ecomm.events
@@ -1213,6 +1214,7 @@ uid.mediacorp.sg
 uilogging.tcdevops.com
 uim.tifbs.net
 umami.aigenerations.net
+umami.heroku.uk
 units.knotch.it
 urldefense.com
 us-central1-markuphero.cloudfunctions.net
